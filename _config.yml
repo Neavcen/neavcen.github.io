@@ -13,23 +13,23 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Johannes' Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: I present some stuff that I am interested in to the world # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://neavcen.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: Neavcen
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,15 +37,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Johannes Schwalbach
+  email: mail@exmaple.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://github.com/Neavcen # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/johannes-schwalbach-ab8020218/
 
 google_site_verification: # fill in to your verification string
 
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/C4E03AQFpWH4KLMWYng/profile-displayphoto-shrink_800_800/0/1627025962618?e=1685577600&v=beta&t=R2suVvhy7sfg4Zr46XNvvZ1K0pWPITN0xGUDt4SRsAM
 
 # boolean type, the global switch for TOC in posts.
 toc: true
