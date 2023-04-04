@@ -41,11 +41,11 @@ social:
   email: info@johannes-schwalbach.de # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    # - https://github.com/Neavcen # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/johannes-schwalbach-ab8020218/
+    - https://github.com/Neavcen # change to your github homepage
+    # Uncomment below to add more social links
+    # - https://twitter.com/username # change to your twitter homepage
+    # - https://www.facebook.com/username
 
 google_site_verification: # fill in to your verification string
 
@@ -117,6 +117,23 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
+
+# Defines auto-generated front matter attributes
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      categories: 
+      tags:
+    posts:
+      description:
+      image:
+      categories:
+      tags:
+      published: false
+      sitemap: false
 
 # ------------ The following options are not recommended to be modified ------------------
 
