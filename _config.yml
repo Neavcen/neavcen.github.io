@@ -35,9 +35,8 @@ twitter:
   username: twitter_username # change to your twitter username
 
 social:
-  # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Johannes Schwalbach
+  name: Johannes Schwalbach # Change to your full name.
   email: info@johannes-schwalbach.de # change to your email address
   links:
     # The first element serves as the copyright owner's link
