@@ -4,7 +4,7 @@ title: Ich habe meine erste eigene Website!
 description:
 image:
 categories: [Softwareentwicklung]
-tags: [website,github-pages,hosting,jekyll,chirpy]
+tags: [website,github-pages,hosting,jekyll,chirpy-theme]
 date: 2023-04-07 11:45 +0200
 ---
 Wow, das ist der erste Blog-Beitrag meines Lebens!

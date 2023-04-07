@@ -20,7 +20,7 @@ timezone: Europe/Berlin
 
 title: Johannes' Blog # the main title
 
-tagline: Ich schreibe über Themen, die mich persönlich und im Alltag bewegen. # it will display as the sub-title
+tagline: Ich schreibe über Themen, die mich persönlich und im Berufsalltag bewegen. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Ich nutze meine Website, um ein paar der Themen zu präsentieren, die mich beschäftigen. Weniger um berühmt zu werden und Leute mit meinem Content zu nerven, als vielmehr um meine Gedanken zu sortieren und einen Ort für diese zu haben. Wenn am Ende etwas Spannendes für die Öffentlichkeit dabei ist, umso besser.
@@ -85,7 +85,7 @@ avatar: https://media.licdn.com/dms/image/C4E03AQFpWH4KLMWYng/profile-displaypho
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
