@@ -10,7 +10,7 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: de
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Berlin
@@ -20,10 +20,10 @@ timezone: Europe/Berlin
 
 title: Johannes' Blog # the main title
 
-tagline: I present some stuff that I am interested in to the world # it will display as the sub-title
+tagline: Ich schreibe über Themen, die mich persönlich und im Alltag bewegen. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Ich nutze meine Website, um ein paar der Themen zu präsentieren, die mich beschäftigen. Weniger um berühmt zu werden und Leute mit meinem Content zu nerven, als vielmehr um meine Gedanken zu sortieren und einen Ort für diese zu haben. Wenn am Ende etwas Spannendes für die Öffentlichkeit dabei ist, umso besser.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://neavcen.github.io"
@@ -95,14 +95,14 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
+    repo: Neavcen/neavcen.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOJRfsyA
     category:
     category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    mapping: pathname # optional, default to 'pathname'
+    input_position: bottom # optional, default to 'bottom'
+    lang: site.lang # optional, default to the value of `site.lang`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
