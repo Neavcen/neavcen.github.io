@@ -97,8 +97,8 @@ comments:
   giscus:
     repo: Neavcen/neavcen.github.io # <gh-username>/<repo>
     repo_id: R_kgDOJRfsyA
-    category:
-    category_id:
+    category: comments
+    category_id: DIC_kwDOJRfsyM4CVnEn
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: site.lang # optional, default to the value of `site.lang`
