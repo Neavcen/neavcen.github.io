@@ -99,7 +99,7 @@ comments:
     repo_id: R_kgDOJRfsyA
     category:
     category_id:
-    mapping: pathname # optional, default to 'pathname'
+    mapping: title # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: site.lang # optional, default to the value of `site.lang`
     reactions_enabled: 1 # optional, default to the value of `1`
