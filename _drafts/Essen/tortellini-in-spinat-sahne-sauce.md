@@ -8,7 +8,7 @@ tags: [Nudeln]
 ---
 Meine Freundin hat zuletzt eine köstliche Sauce aus Spinat, Cocktailtomaten, Sahne und Ajvar in Verbindung mit frischen Tortellini gekocht.
 
-# Zutaten
+## Zutaten
 * Frische Tortellini
 * 200g Cherry Tomaten
 * 400g Spinat (TK)
@@ -21,7 +21,7 @@ Meine Freundin hat zuletzt eine köstliche Sauce aus Spinat, Cocktailtomaten, Sa
 * Salz und Pfeffer
 * Optional: Käse zum Überbacken
 
-# Zubereitung
+## Zubereitung
 1. Zwiebel und Knoblauchzehen schneiden und anbraten, 
 2. Cherry Tomaten vierteln und dazu geben, 
 3. TK Spinat dazu, 
