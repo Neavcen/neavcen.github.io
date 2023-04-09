@@ -7,8 +7,27 @@ order: 4
 Moin!
 Ich bin Johannes aus Bremen.
 
+Zugegebenermaßen wollte ich nie einen Blog schreiben. Diese Website ist aus reiner Neugierde entstanden, weil ich schon immer wissen wollte, wie man so ein Projekt realisiert und was alles dazu gehört. Ich wollte schon immer meine eigene Website besitzen, habe aber nie den ersten Schritt gemacht, da ich es mir nicht zugetraut habe. Im März 2023 war's dann soweit. 
+
+Ich nutze meine Website, um ein paar der Themen zu präsentieren, die mich privat und beruflich umtreiben. Weniger um berühmt zu werden oder Leute mit meinem Content zu nerven, als vielmehr um meine Gedanken zu sortieren und einen Ort für diese zu haben. Wenn am Ende etwas Spannendes für die Öffentlichkeit dabei ist, umso besser.
+
 ![Portrait von Johannes](../../assets/portrait-schwalbach.jpg)
 _Portrait entstanden in Lüneburg_
+
+## Private und berufsnahe Interessen
+
+### Softwareentwicklung
+Bei meinem Arbeitgeber sehe ich jeden Tag aufs neue, was mit Softwareentwicklungsskills alles möglich ist. Das macht für mich den großen Reiz an diesem Umfeld aus. Der Austausch mit Kolleg:innen hat mich dazu motiviert selbst nochmal einen Versuch zu starten, mich der Softwareentwicklung zu nähern und eigene Fähigkeiten aufzubauen. Zum einen um den Arbeitsalltag der Kolleg:innen besser zu verstehen und zum anderen um selbst etwas erschaffen bzw. mich verwirklichen zu können.
+### Smart Home
+Wer kennt es nicht? Man sitzt auf dem Sofa und möchte die Lampe in der Ecke einschalten. Dafür müsste man aufstehen, ist aber eigentlich viel zu faul. So kam es, dass ich mir irgendwann mal Leuchtmittel von Philips Hue zugelegt habe. Mittlerweile habe ich etliche Smart Devices, die mir ermöglichen, faul auf dem Sofa liegen und trotzdem alles steuern zu können.
+### Selbstorganisation und unterstützende Softwaretools
+Da ich den Großteil meines Arbeitstages in Terminen verbringe, ist die Zeit für konzentriertes Abarbeiten von Aufgaben extrem rar. Selbst in freien Slots erhälte ich Nachrichten, Anrufe oder spontane Termineinladungen. Insofern ist es mir wichtig, dass ich bestenfalls in Terminen möglichst viele Aufgaben direkt erledigen kann oder so festhalte, dass ich nichts vergesse.
+
+Es hat sich schnell herausgestellt, dass es für mich aufgrund der häufigen Kontextwechsel nicht möglich ist,  Aufgaben einfach im Kopf zu behalten. Ich muss alles aufschreiben, damit nichts verloren geht. Mein Bestreben ist komplett papierlos unterwegs zu sein und von überall alles im Zugriff zu haben. Entsprechend wichtig sind für mich Softwaretools, die mich im Arbeitsalltag unterstützen. Ich bin bestrebt die Augen und Ohren nach nützlichen Helfern offen zu halten. Ich zeige meinen Kolleg:innen und Kund:innen gerne meine Kniffe, die mir das Leben erleichern und bin immer interessiert an den Erfahrungen der anderen.
+### Kommunikation
+Das Thema Kommunikation ist für mich als Projektmanager allgegenwärtig. Mein Arbeitsalltag besteht quasi nahezu ausschließlich aus Kommunikation mit Kund:innen, Stakeholdern, Projektmitgliedern, Kolleg:innen. Hier als auch im Privaten kommt es leider immer wieder zu Fehlkommunikation und Missverständnissen. Ich versuche den Ursachen auf den Grund zu gehen, grundsätzliche Spielregeln zu definieren und zu etablieren, um letztlich Kommunikation etwas reibungsloser stattfinden zu lassen.
+### Essen
+Ich esse für mein Leben gern! Zum Glück geht es meiner Partnerin genauso. Damit ich leckere Rezepte und vor allem Eigenkreationen nicht verliere, will ich hier eine kleine Rezpetsammlung anlegen.
 
 ## Berufliche Entwicklung
 
@@ -40,21 +59,6 @@ Projektmanagement zeichnet sich u.a. durch folgende Disziplinen aus:
 * Entscheidungen herbeiführen und das weitere Vorgehen abstimmen
 
 Mir macht die Arbeit als Projektmanager mit meinen Kund:innen und dem Entwicklungsteam bei encoway unheimlich Spaß und so werde ich im Rahmen meiner Möglichkeiten ein wenig von den Themen des Berufsalltags berichten! 
-
-## Private und berufsnahe Interessen
-
-### Softwareentwicklung
-Bei meinem Arbeitgeber sehe ich jeden Tag aufs neue, was mit Softwareentwicklungsskills alles möglich ist. Das macht für mich den großen Reiz an diesem Umfeld aus. Der Austausch mit Kolleg:innen hat mich dazu motiviert selbst nochmal einen Versuch zu starten, mich der Softwareentwicklung zu nähern und eigene Fähigkeiten aufzubauen. Zum einen um den Arbeitsalltag der Kolleg:innen besser zu verstehen und zum anderen um selbst etwas erschaffen bzw. mich verwirklichen zu können.
-### Smart Home
-Wer kennt es nicht? Man sitzt auf dem Sofa und möchte die Lampe in der Ecke einschalten. Dafür müsste man aufstehen, ist aber eigentlich viel zu faul. So kam es, dass ich mir irgendwann mal Leuchtmittel von Philips Hue zugelegt habe. Mittlerweile habe ich etliche Smart Devices, die mir ermöglichen, faul auf dem Sofa liegen und trotzdem alles steuern zu können.
-### Selbstorganisation und unterstützende Softwaretools
-Da ich den Großteil meines Arbeitstages in Terminen verbringe, ist die Zeit für konzentriertes Abarbeiten von Aufgaben extrem rar. Selbst in freien Slots erhälte ich Nachrichten, Anrufe oder spontane Termineinladungen. Insofern ist es mir wichtig, dass ich bestenfalls in Terminen möglichst viele Aufgaben direkt erledigen kann oder so festhalte, dass ich nichts vergesse.
-
-Es hat sich schnell herausgestellt, dass es für mich aufgrund der häufigen Kontextwechsel nicht möglich ist,  Aufgaben einfach im Kopf zu behalten. Ich muss alles aufschreiben, damit nichts verloren geht. Mein Bestreben ist komplett papierlos unterwegs zu sein und von überall alles im Zugriff zu haben. Entsprechend wichtig sind für mich Softwaretools, die mich im Arbeitsalltag unterstützen. Ich bin bestrebt die Augen und Ohren nach nützlichen Helfern offen zu halten. Ich zeige meinen Kolleg:innen und Kund:innen gerne meine Kniffe, die mir das Leben erleichern und bin immer interessiert an den Erfahrungen der anderen.
-### Kommunikation
-Das Thema Kommunikation ist für mich als Projektmanager allgegenwärtig. Mein Arbeitsalltag besteht quasi nahezu ausschließlich aus Kommunikation mit Kund:innen, Stakeholdern, Projektmitgliedern, Kolleg:innen. Hier als auch im Privaten kommt es leider immer wieder zu Fehlkommunikation und Missverständnissen. Ich versuche den Ursachen auf den Grund zu gehen, grundsätzliche Spielregeln zu definieren und zu etablieren, um letztlich Kommunikation etwas reibungsloser stattfinden zu lassen.
-### Essen
-Ich esse für mein Leben gern! Zum Glück geht es meiner Partnerin genauso. Damit ich leckere Rezepte und vor allem Eigenkreationen nicht verliere, will ich hier eine kleine Rezpetsammlung anlegen.
 
 ---
 
