@@ -7,12 +7,12 @@ order: 4
 Moin!
 Ich bin Johannes aus Bremen.
 
+![Portrait von Johannes](../../assets/portrait-schwalbach.jpg)
+_Portrait entstanden in Lüneburg_
+
 Zugegebenermaßen wollte ich nie einen Blog schreiben. Diese Website ist aus reiner Neugierde entstanden, weil ich schon immer wissen wollte, wie man so ein Projekt realisiert und was alles dazu gehört. Ich wollte schon immer meine eigene Website besitzen, habe aber nie den ersten Schritt gemacht, da ich es mir nicht zugetraut habe. Im März 2023 war's dann soweit. 
 
 Ich nutze meine Website, um ein paar der Themen zu präsentieren, die mich privat und beruflich umtreiben. Weniger um berühmt zu werden oder Leute mit meinem Content zu nerven, als vielmehr um meine Gedanken zu sortieren und einen Ort für diese zu haben. Wenn am Ende etwas Spannendes für die Öffentlichkeit dabei ist, umso besser.
-
-![Portrait von Johannes](../../assets/portrait-schwalbach.jpg)
-_Portrait entstanden in Lüneburg_
 
 ## Private und berufsnahe Interessen
 
