@@ -38,7 +38,7 @@ Hier nochmal die **notwendigen Schritte kurz und bündig zusammengefasst**:
 1. Github Account registrieren
 2. IDE (z.B. VSCode) installieren
 3. SSH Key generieren und in Github Account hinterlegen
-4. Chirpy Repository in eigenes Repository (<username>.github.io) kopieren
+4. Chirpy Repository in eigenes Repository ("username".github.io) kopieren
 5. In den Einstellungen von Github Pages "Github Actions" als Build und Deployment Methode hinterlegen
 6. Optional, falls eigene Domain gewünscht:
    1. Eigene Domain bei einem Anbieter buchen
