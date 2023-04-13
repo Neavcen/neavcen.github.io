@@ -12,14 +12,14 @@ _Portrait entstanden in Lüneburg_
 
 Zugegebenermaßen wollte ich nie einen Blog schreiben. Diese Website ist aus reiner Neugierde entstanden, weil ich schon immer wissen wollte, wie man so ein Projekt realisiert und was alles dazu gehört. Ich wollte schon immer meine eigene Website besitzen, habe aber nie den ersten Schritt gemacht, da ich es mir nicht zugetraut habe. Im März 2023 war's dann soweit. 
 
-Ich nutze meine Website, um ein paar der Themen zu präsentieren, die mich privat und beruflich umtreiben. Vielleicht ist für dich ja etwas Spannendes dabei!
+Ich nutze meine Website, um ein paar der Themen zu präsentieren, die mich privat und beruflich umtreiben.  Weniger um berühmt zu werden, als vielmehr um meine Gedanken zu sortieren und einen Ort für diese zu haben. Vielleicht ist für dich ja etwas Spannendes dabei!
 
 ## Private und berufsnahe Interessen
 
 ### Softwareentwicklung
 Bei meinem Arbeitgeber sehe ich jeden Tag aufs neue, was mit Softwareentwicklungsskills alles möglich ist. Das macht für mich den großen Reiz an diesem Umfeld aus. Der Austausch mit Kolleg:innen hat mich dazu motiviert selbst nochmal einen Versuch zu starten, mich der Softwareentwicklung zu nähern und eigene Fähigkeiten aufzubauen. Zum einen um den Arbeitsalltag der Kolleg:innen besser zu verstehen und zum anderen um selbst etwas erschaffen bzw. mich verwirklichen zu können.
 ### Smart Home
-Kennst du folgende Situation? Man sitzt auf dem Sofa und möchte die Lampe in der Ecke einschalten. Dafür müsste man aufstehen, ist aber eigentlich viel zu faul. So kam es, dass ich mir irgendwann mal Leuchtmittel von Philips Hue zugelegt habe. Mittlerweile habe ich etliche Smart Devices, die mir ermöglichen, faul auf dem Sofa liegen und trotzdem alles steuern zu können.
+Kennst du folgende Situation? Du sitzt auf der Couch und möchtest die Lampe in der Ecke einschalten. Dafür müsstest du aufstehen, bist aber eigentlich viel zu faul dafür. So kam es, dass ich mir irgendwann mal Leuchtmittel von Philips Hue zugelegt habe. Mittlerweile habe ich etliche Smart Devices, die mir ermöglichen, faul auf dem Sofa liegen und trotzdem alles steuern zu können.
 ### Selbstorganisation und unterstützende Softwaretools
 Da ich den Großteil meines Arbeitstages in Terminen verbringe, ist die Zeit für konzentriertes Abarbeiten von Aufgaben extrem rar. Selbst in freien Slots erhälte ich Nachrichten, Anrufe oder spontane Termineinladungen. Insofern ist es mir wichtig, dass ich bestenfalls in Terminen möglichst viele Aufgaben direkt erledigen kann oder so festhalte, dass ich nichts vergesse.
 
