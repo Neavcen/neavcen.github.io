@@ -134,6 +134,10 @@ jekyll_compose:
       published: false
       sitemap: false
 
+# ------------ Added to standard ------------ #
+plugins:
+  - jemoji
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:

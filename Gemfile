@@ -29,3 +29,6 @@ end
 
 # Save time of creating files - Streamline your writing in Jekyll with some commands.
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+# GitHub-flavored Emoji plugin for Jekyll
+gem 'jemoji'
