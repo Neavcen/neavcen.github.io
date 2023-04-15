@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privates Netzwerk absichern und für Smart Home vorbereiten
+title: Privates Netzwerk für Smart Home vorbereiten und absichern
 description:
 image:
 categories: [Smart Home]
