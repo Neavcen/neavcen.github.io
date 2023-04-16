@@ -19,13 +19,13 @@ Folgende Themen sind mir bei der Auswahl der Komponenten wichtig gewesen:
    2. Gästenetz
    3. IoT-Netz
 3. Separate Komponenten für die verschiedenen Funktionen
-   1. Modem
-   2. Router
-   3. Switch
-   4. WLAN Access Point
+   1. Modem: Aufbau der Internetverbindung mit dem Internet Service Provider (ISP)
+   2. Router: Vergabe der IP Adressen und Routing der Verbindungen/Anfragen
+   3. Switch: Verbindung von Netzwerk-Clients via LAN
+   4. WLAN Access Point: Verbindung von Netzwerk-Clients via WLAN
 ## Entscheidungsprozess
 
-Da ich kein professioneller Netzwerkadministrator bin, sollte es etwas sein, dass auch durch technikaffine Laien konfigurierbar und wartbar ist. Mir haben die Beiträge im [Administrator.de-Forum](www.administrator.de) sehr geholfen. Hersteller, die immer wieder genannt werden, sind beispielsweise:
+Wie bereits erwähnt hat die Fritzbox die Anforderungen an ein sicheres Netzwerk für Smart Home nicht erfüllen können. Da ich kein professioneller Netzwerkadministrator bin, sollte es etwas sein, dass auch durch technikaffine Laien konfigurierbar und wartbar ist. Mir haben die Beiträge im [Administrator.de-Forum](www.administrator.de) sehr geholfen. Hersteller, die immer wieder genannt werden, sind beispielsweise:
 * Cisco
 * Mikrotik
 * NetGear
@@ -36,7 +36,24 @@ Die Meinungen zur Hardware gehen stark auseinander. Letztlich habe ich mich für
 
 ## Komponenten
 
-Wie bereits erwähnt hat die Fritzbox die Anforderungen an ein sicheres Netzwerk für Smart Home nicht erfüllen können.
+Ich habe mich bei der Komponentenauswahl sehr an einem [Artikel von The Smart Home Journey](https://thesmarthomejourney.com/2021/06/14/smart-home-network-unifi/) orientiert. Entsprechend sieht meine Auswahl wie folgt aus:
+
+* [Ubiquiti UniFi Security Gateway (USG)](https://geizhals.de/ubiquiti-unifi-security-gateway-usg-a1213487.html) => ~75€
+* [Ubiquiti UniFi Switch (US-8-60)](https://geizhals.de/ubiquiti-unifiswitch-8-desktop-gigabit-managed-switch-us-8-60w-a1554823.html) => ~100€
+* [Ubiquiti UniFi Access Point AC Lite](https://geizhals.de/ubiquiti-unifi-ap-ac-lite-uap-ac-lite-a1325765.html) => ~75€
+* [DrayTek Vigor166](https://geizhals.de/draytek-vigor166-v166-a-a2272803.html) => ~100€
+
+Ich habe alle Komponenten über eBay Kleinanzeigen gebraucht für insgesamt 350€ gekauft. Die FritzBox 7590 habe ich über den gleichen Weg für ~140€ verkauft.
+
+**Anmerkung zum Router:**
+Das UniFi USG wird mittlerweile nicht mehr hergestellt. Deshalb greifen Leute mittlerweile zum [UniFi Dream Maschine](https://geizhals.de/ubiquiti-unifi-dream-machine-udm-eu-a2176664.html) / [Pro](https://geizhals.de/ubiquiti-unifi-dream-machine-pro-rackmount-gigabit-managed-nvr-switch-udm-pro-a2227937.html). Diese stellen wiederum eine All-in-One Lösung dar. Ich würde mich heute allerdings eher für eine [pfSense](https://www.pfsense.org) entscheiden und mir dafür einen Mini-PC mit Dual-NIC (2 Netzwerkanschlüsse) zulegen. Gibt's ab 200€. Hier mal ein [Thread dazu auf Reddit](https://www.reddit.com/r/homelab/comments/ycxk4a/best_mini_pc_for_pfsense/). Eigentlich will ich auch noch auf pfSense umsteigen. Gerade läuft mein System aber gut und ich bin gerade nicht bereit nochmal Geld auszugeben und einen zweiten Mini-PC aufzusetzen.
+
+**Anmerkung zum WLAN Access Point:**
+Heute würde ich eher den [Ubiquiti UniFi 6 Lite](https://geizhals.de/?fs=unifi+6+lite&hloc=at&hloc=de) aufgrund der Zukunftsfähigkeit kaufen. Ich habe allerdings nach wie vor keine Wifi6-fähigen Geräte und auf eBay Kleinanzeigen gab es diese schlichtweg nicht als ich gesucht habe oder waren im Vergleich deutlich teurer.
+
+## Einrichtung
+
+Die UniFi Software läuft auf einem [Intel NUC7i3DNKE](https://ark.intel.com/content/www/de/de/ark/products/122495/intel-nuc-kit-nuc7i3dnke.html). Diesen haben ich für 160€ auf eBay Kleinanzeigen im Dezember 2022 erstanden.
 
 ## Quellen [#quellen]
 ### Artikel
