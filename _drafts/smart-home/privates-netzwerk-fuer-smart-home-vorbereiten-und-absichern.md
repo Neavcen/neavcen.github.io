@@ -38,7 +38,7 @@ Die Meinungen zur Hardware gehen stark auseinander. Letztlich habe ich mich für
 
 Ich war initial sehr überrascht, wie viele Rollen/Funktionen die FritzBox inne hat. Letztlich habe ich die FritzBox gegen 4 andere Komponenten ersetzt. Dabei habe ich mich für die Komponentenauswahl sehr an einem [Artikel von The Smart Home Journey](https://thesmarthomejourney.com/2021/06/14/smart-home-network-unifi/) orientiert. Entsprechend sieht meine Auswahl wie folgt aus:
 
-| #   |     Komponente      |  Link          | Gebrauchtpreis  |
+| #   |     Komponente      |  Link          | Gebrauchtpreis |
 | --- | -------------       | :-----------:  | ----------:     |
 | 1   | DrayTek Vigor166 | [Geizhals](https://geizhals.de/draytek-vigor166-v166-a-a2272803.html) | ~100€ |
 | 2   | Ubiquiti UniFi Security Gateway (USG) | [Geizhals](https://geizhals.de/ubiquiti-unifi-security-gateway-usg-a1213487.html) | ~75€ |
