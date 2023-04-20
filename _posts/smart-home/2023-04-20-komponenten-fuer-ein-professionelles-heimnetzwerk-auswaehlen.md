@@ -32,7 +32,7 @@ Virtuelle LANs (VLANs) dienen zur Einrichtung und Trennung verschiedener Netzwer
 Die Modularität der Netzwerkkomponenten ermöglicht es, dass man später einzelne Komponenten mit ihrer spezifischen Funktion upgraden kann, ohne dass direkt das ganze System ersetzt werden muss. Dadurch können Kosten ggü. einer All-In-One Lösung gespart werden.
 
 ## Entscheidungsprozess
-Wie bereits erwähnt hat meine AVM FRITZ!Box 7590 die Anforderungen an ein sicheres Netzwerk für Smart Home nicht erfüllen können. Da ich kein professioneller Netzwerkadministrator bin, sollte es etwas sein, dass auch durch technikaffine Laien konfigurierbar und wartbar ist. Mir haben die Beiträge im Forum [Administrator.de](www.administrator.de) sehr geholfen. Hersteller, die immer wieder genannt werden, sind beispielsweise:
+Wie bereits erwähnt hat meine AVM FRITZ!Box 7590 die Anforderungen an ein sicheres Netzwerk für Smart Home nicht erfüllen können. Da ich kein professioneller Netzwerkadministrator bin, sollte es etwas sein, dass auch durch technikaffine Laien konfigurierbar und wartbar ist. Mir haben die Beiträge im Forum [Administrator.de](https://administrator.de) sehr geholfen. Hersteller, die immer wieder genannt werden, sind beispielsweise:
 * Cisco
 * Mikrotik
 * NetGear
