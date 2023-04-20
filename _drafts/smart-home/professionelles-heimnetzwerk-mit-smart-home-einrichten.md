@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Professionelles Heimnetzwerk mit Smart Home einrichten
+title: Komponenten für professionelles Heimnetzwerk mit Smart Home konfigurieren
 description:
 image:
 categories: [Smart Home]
