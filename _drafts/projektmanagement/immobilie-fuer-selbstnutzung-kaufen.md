@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Immobilie kaufen
+title: Immobilie für Selbstnutzung kaufen
 description:
 image:
 categories: []
