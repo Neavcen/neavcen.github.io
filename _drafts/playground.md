@@ -9,6 +9,10 @@ tags:
 
 # Play around
 
+## Links
+
+### Link to other post
+[Komponenten für ein professionelles Heimnetzwerk auswählen]({% post_url smart-home/2023-04-20-komponenten-fuer-ein-professionelles-heimnetzwerk-auswaehlen %})
 ## Images
 
 ![Chirpy avatar](/assets/chirpy.jpg){: w="100" h="100" .shadow }
