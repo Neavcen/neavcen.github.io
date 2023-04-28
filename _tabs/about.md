@@ -21,7 +21,7 @@ Bei meinem Arbeitgeber sehe ich jeden Tag aufs neue, was mit Softwareentwicklung
 ### Smart Home
 Kennst du folgende Situation? Du sitzt auf der Couch und möchtest die Lampe in der Ecke einschalten. Dafür müsstest du aufstehen, bist aber eigentlich viel zu faul dafür. So kam es, dass ich mir irgendwann mal Leuchtmittel von Philips Hue zugelegt habe. Mittlerweile habe ich etliche Smart Devices, die mir ermöglichen, faul auf dem Sofa liegen und trotzdem alles steuern zu können.
 ### Selbstorganisation und unterstützende Softwaretools
-Da ich den Großteil meines Arbeitstages in Terminen verbringe, ist die Zeit für konzentriertes Abarbeiten von Aufgaben extrem rar. Selbst in freien Slots erhälte ich Nachrichten, Anrufe oder spontane Termineinladungen. Insofern ist es mir wichtig, dass ich bestenfalls in Terminen möglichst viele Aufgaben direkt erledigen kann oder so festhalte, dass ich nichts vergesse.
+Da ich den Großteil meines Arbeitstages in Terminen verbringe, ist die Zeit für konzentriertes Abarbeiten von Aufgaben extrem rar. Selbst in freien Slots erhalte ich Nachrichten, Anrufe oder spontane Termineinladungen. Insofern ist es mir wichtig, dass ich bestenfalls in Terminen möglichst viele Aufgaben direkt erledigen kann oder so festhalte, dass ich nichts vergesse.
 
 Es hat sich schnell herausgestellt, dass es für mich aufgrund der häufigen Kontextwechsel nicht möglich ist,  Aufgaben einfach im Kopf zu behalten. Ich muss alles aufschreiben, damit nichts verloren geht. Mein Bestreben ist komplett papierlos unterwegs zu sein und von überall alles im Zugriff zu haben. Entsprechend wichtig sind für mich Softwaretools, die mich im Arbeitsalltag unterstützen. Ich bin bestrebt die Augen und Ohren nach nützlichen Helfern offen zu halten. Ich zeige meinen Kolleg:innen und Kund:innen gerne meine Kniffe, die mir das Leben erleichern und bin immer interessiert an den Erfahrungen der anderen.
 ### Kommunikation
@@ -36,7 +36,7 @@ Ich esse für mein Leben gern! Zum Glück geht es meiner Partnerin genauso. Dami
 Nach meinem Maschinenbaustudium in Braunschweig von 2011-2018 hat es mich mit meinem Berufseinstieg 2018 zur Tagueri AG und damit als Consultant in den Bereich Softwareentwicklung gezogen. Als Requirement Engineer war ich mit der Anforderungserhebung für eine Applikation in den Bereichen Entwicklung und Aftersales betraut.
 
 Anforderungsmanagement zeichnet sich u.a. durch folgende Disziplinen aus:
-* Schnelle Auffassungsgabe neuer Themen
+* Schnelle Auffassungsgabe im Verstehen neuer Sachverhalte
 * Technisches Verständnis für Anforderungserhebung
 * Strukturierte Anforderungsdokumentation
 * Organisation von Abstimmungen mit Stakeholdern
