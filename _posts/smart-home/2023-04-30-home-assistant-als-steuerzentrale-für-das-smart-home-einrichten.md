@@ -4,7 +4,7 @@ title: Home Assistant als Steuerzentrale für das Smart Home einrichten
 description: Ich führe dich Schritt-für-Schritt durch die Inbetriebnahme meines Home Servers für die Nutzung von Home Assistant inkl. dessen Installation zur Steuerung deines Smart Home mit seinen Zigbee Geräten.
 image:
 categories: [Smart Home]
-tags: [Philips Hue,Home Server,Home Assistant,Intel NUC,Zigbee,Home Assistant SkyConnect,Zigbee2Mqtt]
+tags: [Philips Hue,Home Server,Home Assistant,Intel NUC,Zigbee,Home Assistant SkyConnect,Zigbee2Mqtt,Smart Home]
 date: 2023-04-30 23:23 +0200
 ---
 ## Anekdote

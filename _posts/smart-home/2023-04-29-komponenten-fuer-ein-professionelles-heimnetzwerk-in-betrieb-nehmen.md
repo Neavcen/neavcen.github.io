@@ -4,7 +4,7 @@ title: Komponenten für ein professionelles Heimnetzwerk in Betrieb nehmen
 description: Ich führe dich Schritt für Schritt durch die Inbetriebnahme meines professionellen Netzwerks, das bedeutend mehr Funktionen als eine gewöhnliche FRITZ!Box bietet und gleichzeitig die empfohlene Sicherheit für Smart Home mitbringt.
 image:
 categories: [Smart Home]
-tags: [Netzwerk,Unifi,VLAN,Router,Gateway,Firewall,Switch,Access Point]
+tags: [Netzwerk,Unifi,VLAN,Router,Gateway,Firewall,Switch,Access Point,Smart Home]
 date: 2023-04-29 00:43 +0200
 ---
 ## Motivation

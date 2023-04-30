@@ -4,7 +4,7 @@ title: Komponenten für ein professionelles Heimnetzwerk auswählen
 description: Ich stelle meine Komponentenauswahl zur installation eines professionellen Netzwerks vor, das bedeutend mehr Funktionen als eine gewöhnliche FRITZ!Box bietet und gleichzeitig die empfohlene Sicherheit als Vorbereitung für Smart Home mitbringt.
 image:
 categories: [Smart Home]
-tags: [Netzwerk,Unifi,FritzBox,VLAN,Router,Gateway,Switch,Access Point]
+tags: [Netzwerk,Unifi,FritzBox,VLAN,Router,Gateway,Switch,Access Point, Smart Home]
 date: 2023-04-20 22:20 +0200
 ---
 ## Motivation
