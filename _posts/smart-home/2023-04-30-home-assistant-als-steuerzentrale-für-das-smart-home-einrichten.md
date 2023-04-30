@@ -15,6 +15,9 @@ In 2020 musste eine neue Nachttischbeleuchtung für die eigenen vier Wände her.
 
 Über die letzten Jahre haben sich viele weitere Smart Devices angesammelt. Aber natürlich habe ich keine Lust für jeden Hersteller einen separaten Hub zu kaufen und rumstehen zu haben, der am Ende Strom und Platz braucht. Hierfür benötigte ich eine Lösung.
 
+![Smart Home Sonoff Devices](/assets/smart-home/2023-01-05_Smart-Home_Sonoff-Devices.jpg){: w="300" } 
+_Sonoff Smart Devices_
+
 ## Unabhängig durch Home Assistant
 Ich hatte mich durch meinen initialen Kauf auf Philips Hue commited. Damit bin ich auch nach wie vor sehr glücklich, da die Lampen schlichtweg super funktionieren. Zugegebenermaßen sind sie aber nicht die Günstigsten. Zudem haben andere Hersteller ebenfalls sehr gute Geräte im Portfolio. Ich habe von einigen Arbeitskollegen gehört, dass sie die Open Source Software [Home Assistant](https://www.home-assistant.io) als Steuerzentrale für ihre Smart Home Geräte nutzen. Der große Vorteil ist, dass man herstellerunabhängig wird und nicht zig Gateways benötigt, um Geräte verschiedener Hersteller steuern zu können. Klingt reizvoll oder?
 
@@ -26,6 +29,9 @@ Um mich schlau zu machen, was Home Assistant eigentlich ist und kann, habe ich d
 
 ## Hardware für den Betrieb
 Ich wusste sofort, dass ich auch unbedingt Home Assistant brauche! Für den Betrieb der Software benötigt man beispielsweise einen Rasperry Pi 4 oder ähnliches. Prkatisch! Ich wollte schon immer meinen eigenen kleinen Server, um ein bisschen herumzuprobieren! Simon42 hat mich davon überzeugt, dass es kein Rasperry Pi werden soll, da diese im Dezember 2022 sehr gefragt waren und ca. 125€ gekostet haben. Stattdessen fiel die Wahl auf einen gebrauchten Mini PC. Dafür habe ich eine Weile auf eBay Kleinanzeigen gelauert und schließlich einen gebrauchten [Intel NUC7i3DNKE](https://ark.intel.com/content/www/de/de/ark/products/122495/intel-nuc-kit-nuc7i3dnke.html) für 160€ ergattert. Dieser ist mit einem Intel i3 Dual-Core, 8 GB RAM und 256 GB SSD ausgestattet. Wichtig ist weiterhin, dass der Stromverbrauch möglichst gering ist, da die Hardware 24/7 laufen muss, um die Kommunikation der Geräte zu managen.
+
+![Intel NUC](/assets/smart-home/2023-01-04_Intel-NUC7i3DNKE_Inside-View.jpg){: w="300" } 
+_Innenansicht des Intel NUC_
 
 ## Installation der Software
 ### Verfügbare Installationsvarianten
@@ -41,6 +47,9 @@ Damit Home Assistant die Steuerung der existierenden Zigbee Geräte übernehmen 
 
 ## Zigbee Geräte einbinden
 Nach der Installation können die Geräte nacheinander von ihrem bisherigen, proprietären Zigbee Hub getrennt und in Home Assistant integriert werden. Hierbei sei aber gesagt, dass ggf. coole Features der Hersteller wegfallen. Die Simulation des Sonnenaufgangs der Philips Hue Iris müsste in Home Assistant beispielsweise durch eine Automation nachgebildet werden.
+
+![Zigbee2Mqtt Geräteübersicht](/assets/smart-home/2023-04-30_Home-Assistant_Zigbee2mqtt_Geraeteuebersicht.png){: w="300" } 
+_Home Assistant: Geräteübersicht in Zigbee2Mqtt Integration_
 
 ## Zusammenfassung und Fazit
 Home Assistant bietet eine hervorragende und kostenlose Möglichkeit das eigene Smart Home zu steuern und herstellerunabhängig zu bestücken. Dafür wird jedoch separate Hardware und etwas Muse für die Einrichtung benötigt. Läuft das System erst einmal, hast du viele Einstellungsmöglichkeiten, um dein Smart Home auf deine persönlichen Bedürfnisse auszurichten. Ich kann dir nur dringend ans Herz legen dich mit dieser tollen Open Source Software auseinanderzusetzen, um schnellstmöglich in ihren Genuss zu kommen!
