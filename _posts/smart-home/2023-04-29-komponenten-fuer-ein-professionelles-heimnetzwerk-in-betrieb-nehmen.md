@@ -25,7 +25,7 @@ Im nachfolgenden Abschnitt gehe ich zunächst auf die Netzwerktopologie ein. Die
 ### Netzwerktopologie
 Das Modem wird mit dem DSL-Telefonanschluss verbunden. Vom Modem (DrayTek Vigor166) führt ein Ethernet-Kabel zum Router (UniFi USG). Der Router wird mit dem Switch (UniFi US-8-60) verbunden. Genauso wie der WLAN Access Point (UniFi AP AC Lite). Anschließend muss noch der Home Server mit Home Assistant oder der UniFi Cloud Key verbunden werden. Die restlichen Netzwerkgeräte können direkt oder später angeschlossen werden, da sie nicht für die initiale Einrichtung benötigt werden.
 
-![Topologie meines Netzwerks](/assets/Netzwerktopologie.drawio.svg){: w="300" h="300" } 
+![Topologie meines Netzwerks](/assets/smart-home/Netzwerktopologie.drawio.svg){: w="300" h="300" } 
 _Topologie meines Netzwerks_
 
 ### Modem
@@ -37,17 +37,17 @@ Für die Konfiguration haben mir zwei Videos von iDomiX sehr geholfen [[1](https
 
 **DrayTek Vigor166 Konfiguration**
 
-| ![01. Operation Mode](/assets/2023-01-24 Draytek Vigor 166 - 01 - Operation Mode.png) _01 Operation Mode_ | ![02. General Setup](/assets/2023-01-24 Draytek Vigor 166 - 02 - Internet Access - General Setup.png){: w="192" h="108"} _02 General Setup_ | ![03. Internet Access](/assets/2023-01-24 Draytek Vigor 166 - 03 - Internet Access - MPoA.png) _03 Internet Access_| ![04. LAN](/assets/2023-01-24 Draytek Vigor 166 - 04 - LAN - General Setup.png) _04 LAN General Setup_ | ![05. Online Status](/assets/2023-01-24 Draytek Vigor 166 - 05 - Online Status - Physical Connection.png) _05 Online Status_ | ![06. DSL Status](/assets/2023-01-24 Draytek Vigor 166 - 06 - Diagnostics - DSL Status.png) _06 DSL Status_ |
+| ![01. Operation Mode](/assets/smart-home/2023-01-24 Draytek Vigor 166 - 01 - Operation Mode.png) _01 Operation Mode_ | ![02. General Setup](/assets/smart-home/2023-01-24 Draytek Vigor 166 - 02 - Internet Access - General Setup.png){: w="192" h="108"} _02 General Setup_ | ![03. Internet Access](/assets/smart-home/2023-01-24 Draytek Vigor 166 - 03 - Internet Access - MPoA.png) _03 Internet Access_| ![04. LAN](/assets/smart-home/2023-01-24 Draytek Vigor 166 - 04 - LAN - General Setup.png) _04 LAN General Setup_ | ![05. Online Status](/assets/smart-home/2023-01-24 Draytek Vigor 166 - 05 - Online Status - Physical Connection.png) _05 Online Status_ | ![06. DSL Status](/assets/smart-home/2023-01-24 Draytek Vigor 166 - 06 - Diagnostics - DSL Status.png) _06 DSL Status_ |
 
 ### UniFi Controller
 Zur Einrichtung der Ubiquiti UniFi Komponenten wird die UniFi Software "UniFi Controller" benötigt. Die UniFi Software läuft bei mir als Addon namens [UniFi Network Application](https://github.com/hassio-addons/addon-unifi/blob/main/unifi/DOCS.md) auf Home Assistant OS. 
 
-![Addon: UniFi Network Application](/assets/2023-04-18_Home Assistant_-_Addon_UniFi-Network-Application.png){: w="192" h="108" } 
+![Addon: UniFi Network Application](/assets/smart-home/2023-04-18_Home Assistant_-_Addon_UniFi-Network-Application.png){: w="192" h="108" } 
 _UniFi Controller Addon in Home Assistant_
 
 Home Assistant OS habe ich auf einem [Intel NUC7i3DNKE](https://ark.intel.com/content/www/de/de/ark/products/122495/intel-nuc-kit-nuc7i3dnke.html) installiert, der meinen Home Server darstellt. Im Anschluss musst du dir einen Ubiquiti Account erstellen, um dich in der Software einloggen zu können. Am besten aktivierst du dort direkt unter _My Security_ die Multifaktor-Authentifizierung (MFA) für mehr Sicherheit. Bei dem Home Assistant Addon ist zu beachten, dass man der UniFi Web UI unter _Einstellungen > System > Advanced > Inform Host_ die IP-Adresse des Home Assistant hinterlegt. Ansonsten funktioniert die Kommunikation mit den UniFi Geräten nicht.
 
-![UniFi Controller: Inform Host](/assets/2023-04-18_UniFI_Controller_-_Einstellungen_System_Inform-Host.png){: w="192" h="108" } 
+![UniFi Controller: Inform Host](/assets/smart-home/2023-04-18_UniFI_Controller_-_Einstellungen_System_Inform-Host.png){: w="192" h="108" } 
 _UniFi Controller: Inform Host_
 
 Unter _System > Administration > Remote Access_ empfehle ich die Checkbox "Allow" nicht anzuwählen. Hier gab es in der Vergangenheit eine Sicherheitslücke seitens Ubiquiti. Die Checkbox "Sync local admin with Ubiquiti SSO" kann hingegen ausgewählt werden.
@@ -57,7 +57,7 @@ Alternativ zu Home Assistant kann man auch einen Ubiquiti UniFi Cloud Key kaufen
 ### Gateway/Router
 Das Ubiquiti USG Gateway muss zu Beginn im UniFi Controller im Reiter _UniFi Devices_ initialisiert werden. Im Anschluss sollte es den Status "Online" haben. Gleiches kann man in diesem Zuge mit dem Switch und Access Point tun. Als nächstes solltest du die Firmware aktualisieren und automatische Updates. Veraltete Firmware kann ansonsten ein Sicherheitsrisiko darstellen.
 
-![UniFi Controller: UniFi Devices](/assets/2023-04-28_UniFi_Controller_-_Devices.png){: w="255" h="100" } 
+![UniFi Controller: UniFi Devices](/assets/smart-home/2023-04-28_UniFi_Controller_-_Devices.png){: w="255" h="100" } 
 _UniFi Controller: Übersicht der angeschlossenen UniFi Geräte_
 
 ### Virtuelle Netzwerke (VLAN)
@@ -65,7 +65,7 @@ Nachdem die UniFi Geräte initialisiert wurden und miteinander kommunizieren kö
 
 Hier sind zwei Beispiele aus meiner VLAN-Konfiguration:
 
-| ![VLAN: LAN](/assets/2023-04-28_UniFi_Controller_-_Einstellungen_Netzwerk_VLAN-LAN.png){: w="178" h="102"} _VLAN: LAN_ | ![VLAN: Guest+Work](/assets/2023-04-28_UniFi_Controller_-_Einstellungen_Netzwerk_VLAN-Guest.png){: w="176" h="110"} _VLAN: Guest+Work_ |
+| ![VLAN: LAN](/assets/smart-home/2023-04-28_UniFi_Controller_-_Einstellungen_Netzwerk_VLAN-LAN.png){: w="178" h="102"} _VLAN: LAN_ | ![VLAN: Guest+Work](/assets/smart-home/2023-04-28_UniFi_Controller_-_Einstellungen_Netzwerk_VLAN-Guest.png){: w="176" h="110"} _VLAN: Guest+Work_ |
 
 Insgesamt habe ich vier VLANs angelegt:
 1. **WAN: Exklusiv für Router/Gateway** - Nur aufgrunddessen angelegt, dass ich jedes Mal die Verbindung  zwischen USG und UniFi Controller verloren habe, wenn ich das USG und den Home Assistant in den 10er Netzwerkadressbereich umziehen wollte.
@@ -95,7 +95,7 @@ Dies geht ebenfalls unter _Einstellungen > Internet_. Dort solltest du keine VLA
 
 Ich habe unter _DNS Server > Primary Server_ die IP-Adresse des Home Assistant hinterlegt, da ich AdGuard zentral als DNS Werbeblocker in meinem Netzwerk verwende. Bei dir steht dort höchstwahrscheinlich 8.8.8.8 und das passt auch so.
 
-![UniFi Controller: Internetverbindung konfigurieren](/assets/2023-04-18_UniFi_Controller_-_Einstellungen_Internet_Internetverbindung.png){: w="192" h="108" } 
+![UniFi Controller: Internetverbindung konfigurieren](/assets/smart-home/2023-04-18_UniFi_Controller_-_Einstellungen_Internet_Internetverbindung.png){: w="192" h="108" } 
 _UniFi Controller: Internetverbindung konfigurieren_
 
 Sind die Einstellungen korrekt, solltest du nach etwas Zeit im Reiter _Dashboard_ eine _WAN (IP)_ Adresse angezeigt bekommen. D.h. die Kommunikation mit dem ISP war erfolgreich. Wenn die Internetverbindung steht, ist das Essenziellste geschafft! Niemand will nämlich von seinem Partner oder seiner Partnerin angepöbelt werden, weil Netflix nicht erreichbar ist :sweat_smile:
@@ -117,7 +117,7 @@ Die **Zusammensetzung einer Firewall-Regel** besteht meist aus sechs Komponenten
 
 Nachfolgend findest du ein Beispiel für eine Firewall-Regel, die die Initiierung der Kommunikation von IoT-Geräten zu Geräten im LAN-Netzwerk unterbindet.
 
-![UniFi Controller: Firewall-Regel - Beispiel](/assets/2023-04-28_UniFi_Controller_-_Einstellungen_Firewall_Regel_Beispiel.png){: w="256" h="160" } 
+![UniFi Controller: Firewall-Regel - Beispiel](/assets/smart-home/2023-04-28_UniFi_Controller_-_Einstellungen_Firewall_Regel_Beispiel.png){: w="256" h="160" } 
 _UniFi Controller: Firewall-Regeln - Beispiel_
 
 Ich habe mich bei der Definition der Firewall-Regeln an den Video-Tutorials von [Home Automation Guy](https://youtu.be/eqr-vTC7EVk), [The Hook Up](https://www.youtube.com/watch?v=vz3u6E3Fxi8) und [iDomiX](https://www.youtube.com/watch?v=7zCwntwpDOw) orientiert.
@@ -137,7 +137,7 @@ Grundsätzlich sollen folgende **Ziele mit den Firewall-Regeln** erreicht werden
 
 Meine Liste der Firewall-Regeln für den Bereich "LAN In" sieht im UniFi Security Gateway wie folgt aus:
 
-![UniFi Controller: Firewall-Regeln - LAN In](/assets/2023-04-28_UniFi_Controller_-_Einstellungen_Firewall_Regel-LAN-Uebersicht.png){: w="256" h="129" } 
+![UniFi Controller: Firewall-Regeln - LAN In](/assets/smart-home/2023-04-28_UniFi_Controller_-_Einstellungen_Firewall_Regel-LAN-Uebersicht.png){: w="256" h="129" } 
 _UniFi Controller: Firewall-Regeln - LAN In_
 
 ## Zusammenfassung und Fazit
