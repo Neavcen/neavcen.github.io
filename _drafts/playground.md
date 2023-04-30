@@ -18,6 +18,9 @@ tags:
 ![Chirpy avatar](/assets/chirpy.jpg){: w="100" h="100" .shadow }
 _Chirpy image_
 
+![UniFi Controller: Firewall-Regeln - LAN In](/assets/smart-home/2023-04-28_UniFi_Controller_-_Einstellungen_Firewall_Regel-LAN-Uebersicht.png){: h="1000" } 
+_UniFi Controller: Firewall-Regeln - LAN In_
+
 ## Videos
 
 {% include embed/youtube.html id='F8iOU1ci19Q' %}
