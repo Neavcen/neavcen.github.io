@@ -11,7 +11,7 @@ tags: [Job Crafting, Energiebilanz, Positive Psychologie]
 date: 2023-05-30 00:22 +0200
 ---
 ## Motivation
-Im Rahmen der jährlichen Klausurtagung meines Arbeitgebers (encoway Sommerklausur) habe ich im Mai 2023 zusammen mit der zuständigen Personalentwicklerin einen 2,5-tägigen Workshop zum Thema ***"Wann hattest Du Dein letztes 1:1 mit Dir selbst? - Selbstführung und Resilienz als Schlüssel zur persönlichen und beruflichen Weiterentwicklung"*** ausgearbeitet und geleitet. Ursprünglich war meine Expertise hinsichtlich Selbstorganisation gefragt, aber wir haben unseren Fokus dann verschoben.
+Im Rahmen der jährlichen Klausurtagung meines Arbeitgebers (encoway Sommerklausur) habe ich im Mai 2023 zusammen mit unserer Personalentwicklerin einen 2,5-tägigen Workshop zum Thema ***"Wann hattest Du Dein letztes 1:1 mit Dir selbst? - Selbstführung und Resilienz als Schlüssel zur persönlichen und beruflichen Weiterentwicklung"*** ausgearbeitet und geleitet. Ursprünglich war meine Expertise hinsichtlich Selbstorganisation gefragt, aber wir haben unseren Fokus dann verschoben.
 
 Die Erarbeitung der Workshopinhalte erwies sich letztlich als super spannend, da ich mich intensiv mit den für mich neuen Begrifflichkeiten *Positive Psychologie und Job Crafting* auseinandergesetzt habe. Meine Kollegin hatte viele Podcasts, Blinks und Literaturempfehlungen für mich parat, die mir den Arbeitsweg versüßt haben.
 
