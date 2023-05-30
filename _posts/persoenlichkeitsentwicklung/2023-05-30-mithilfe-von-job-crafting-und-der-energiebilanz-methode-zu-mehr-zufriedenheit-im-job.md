@@ -31,7 +31,7 @@ Um herauszufinden welche deiner aktuellen Tätigkeiten dir Spaß machen bzw. wie
 ## Energiebilanz
 Die Energiebilanz von Rob Baker dient als eine Methode, um Ansatzpunkte für Job Crafting anhand der eigenen Tätigkeiten zu identifizieren.
 
-![Job Crafting mit der Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-04-23 Job Crafting - Theorie und Praxis.png){: width="400"}
+![Job Crafting mit der Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-04-23 Job Crafting - Theorie und Praxis.pdf){: width="400"}
 _Energiebilanz von Rob Baker mit Umsetzungsvorschlag von Christian Thiele_
 
 ### Vorbereitung
@@ -72,12 +72,14 @@ Selbst wenn du ad hoc nichts am Status Quo ändern kannst, so hilft es auf jeden
 {: .prompt-info }
 
 Material:
-1. ![PNG](/assets/img/picture_888888.png){: w="14" } [Job Crafting Theorie und Praxis mit Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-04-23 Job Crafting - Theorie und Praxis.png)
+1. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Job Crafting: Theorie und Praxis mit Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-04-23 Job Crafting - Theorie und Praxis.pdf)
 2. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Energiebilanz: Aufgabenstellung und tabellarische Auflistung der Tätigkeiten](/assets/persoenlichkeitsentwicklung/2023-05-10 Energiebilanz-Aufgabenblatt_DIN-A4.pdf)
 3. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Energiebilanz: Graph für Visualisierung der Tätigkeiten](/assets/persoenlichkeitsentwicklung/2023-05-10 Energiebilanz-Graph_DIN-A3.pdf)
 
-## Zusammenfassung
-Job Crafting stellt eine Art Einstellung zur eigenen Arbeit dar, indem du selbst die Zügel in die Hand nimmst und aktiv deinen Job gestaltest, um zu mehr Zufreidenheit im Arbeitsalltag zu gelangen. Die Energiebilanz Methode ist ein Hilfsmittel, das dir dabei hilft, Potenziale in deinen Tätigkeiten zu ermitteln und somit Hebel für eine Veränderung aufzudecken.
+## Zusammenfassung und Fazit
+Job Crafting stellt eine Art Einstellung zur eigenen Arbeit dar, indem du selbst die Zügel in die Hand nimmst und aktiv deinen Job gestaltest, um zu mehr Zufriedenheit im Arbeitsalltag zu gelangen. Die Energiebilanz Methode ist ein Hilfsmittel, das dich dabei unterstützt, Potenziale in deinen Tätigkeiten zu ermitteln und somit Hebel für eine Veränderung aufzudecken.
+
+Eventuell geht es dir so wie mir und du hast bereits in der Vergangenheit Veränderungen in deinen Job eingesteuert, ohne dass du von dem Begriff Job Crafting gehört hast. Meine Energiebilanz hat mir dabei verdeutlicht, dass ich auf dem richtigen Weg bin, indem ich einen Überschuss an Energiegebern zu Energienehmern in meinen Tätigkeiten habe. Das merke ich auch daran, dass ich morgens gerne aufstehe, um zu arbeiten. Ich hoffe, dir geht es genauso oder du hast jetzt zumindest ein Hilfsmittel an der Hand, um an den richtigen Stellschrauben anzusetzen und legst los!
 
 ## Quellen
 1. ![Buch](/assets/img/book_888888.png){: w="14" } [Christian Thiele: Job Crafting konkret mit dem PERMA-H-Modell (2023)](https://link.springer.com/chapter/10.1007/978-3-658-40140-5_4)
