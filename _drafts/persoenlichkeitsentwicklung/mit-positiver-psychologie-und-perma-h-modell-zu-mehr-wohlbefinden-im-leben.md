@@ -10,16 +10,32 @@ tags: [Positive Psychologie,PERMA-H,Job Crafting,Energiebilanz]
 ---
 
 ## Motivation
-Im Rahmen der jährlichen Klausurtagung meines Arbeitgebers (encoway Sommerklausur) habe ich im Mai 2023 zusammen mit der zuständigen Personalentwicklerin einen 2,5-tägigen Workshop zum Thema ***"Wann hattest Du Dein letztes 1:1 mit Dir selbst? - Selbstführung und Resilienz als Schlüssel zur persönlichen und beruflichen Weiterentwicklung"*** ausgearbeitet und geleitet. Ursprünglich war meine Expertise hinsichtlich Selbstorganisation gefragt, aber wir haben unseren Fokus dann verschoben.
+Im Rahmen der jährlichen Klausurtagung meines Arbeitgebers (encoway Sommerklausur) habe ich im Mai 2023 zusammen mit unserer Personalentwicklerin einen 2,5-tägigen Workshop zum Thema ***"Wann hattest Du Dein letztes 1:1 mit Dir selbst? - Selbstführung und Resilienz als Schlüssel zur persönlichen und beruflichen Weiterentwicklung"*** ausgearbeitet und geleitet. 
 
-Die Erarbeitung der Workshopinhalte erwies sich letztlich als super spannend, da ich mich intensiv mit den für mich neuen Begrifflichkeiten *Positive Psychologie und Job Crafting* auseinandergesetzt habe. Meine Kollegin hatte viele Podcasts, Blinks und Literaturempfehlungen für mich parat, die mir den Arbeitsweg versüßt haben.
+Die Vorbereitung des Workshops mit den bis dato für mich unbekannten Themen: *Positive Psychologie und Job Crafting* hat mächtig Spaß gemacht. Meine Kollegin hatte viele Podcasts, Blinks und Literaturempfehlungen für mich parat, die mir den Arbeitsweg auf dem Fahrrad versüßt haben.
 
-Ich möchte in diesem Beitrag einen kurzen Themenabriss geben und eine Methode vorstellen, die auch dir helfen kann, deine Zufriedenheit im Berufsalltag zu erhöhen.
+Ich möchte in diesem Beitrag kurz erläutern was Positive Psychologie ist und mit dem PERMA-H Modell eine Leitfaden vorstellen, der auch dir helfen kann, dein Stresslevel zu reduzieren sowie deine Zufriedenheit im Alltag zu erhöhen.
 
-## Positive Psychologie und das PERMA-H Modell
+## Positive Psychologie
 > Noch nie waren wir so reich, so gesund, so wohl genährt und so gut gebildet wie heute… und noch nie waren wir so unglücklich.
+(Deutsche Gesellschaft für Positive Psychologie)
 
-Die "Positive Psychologie" ist ein recht junges Feld der Psychologie und befasst sich damit, Menschen zu einem lebenswerten und glücklichen Leben zu verhelfen. Prof. Dr. Martin Seligman ist einer der Urväter auf diesem Gebiet und hat das PERMA-Modell zum menschlichen Wohlbefinden entwickelt. Dieses wurde mittlerweile zum PERMA-H Modell weiterentwickelt. Das Akronym setzt sich aus folgenden Bestandteilen zusammen:
+Im vergangen Jahrhundert war die psychologische Forschung primär defizitorientiert und beschäftigte sich mit dem Ziel, psychische Erkrankungen wie Depression, Schizophrenie oder Phobien verstehen und heilen zu können. Inzwischen ist bekannt, dass Gesundheit nicht allein durch die Abwesenheit von Krankheit entsteht. 
+
+Im Gegensatz zur klassischen Psychologie ist die Positive Psychologie ein relativ junges Feld und bricht aus dem alten Muster aus, indem sie sich damit beschäftigt, Menschen zu einem lebenswerten und glücklichen Leben zu verhelfen. Sie ist die Wissenschaft des gelingenden Lebens und Arbeitens. Für dieses Ziel befasst sich die Positive Psychologie mit der Erforschung der persönlichen Stärken, schlummernder Potenziale und dem generellen Wohlbefinden. Sie untersucht Bedingungen, Faktoren und Wechselwirkungen, die das Wohlbefinden, die optimale Entwicklung und das Aufblühen von Individuen, Beziehungen, Familien, Teams, Organisationen und ganzen Gesellschaften unterstützen. Anders gesagt das, was Menschen antreibt und Zufriedenheit sowie Glücksgefühle erzeugt.
+
+Das Schöne an der Positiven Psychologie ist für mich, dass sie eine empirische Wissenschaft darstellt, die ihre Grundlage in quantitativen und qualitativen Methoden der Sozialforschung hat. Das macht es für mich greifbarer und weniger abstrakt.
+
+Auf dem Weg der Positiven Psychologie begegnen dir viele bekannte Begriffe. Achtsamkeit ist ein häufiges Schlagwort, wenn es um die Bewältigung von Stress und das Leben im Hier und Jetzt geht. Viele von uns, mich eingeschlossen, treibt das Thema Sinnhaftigkeit und Selbstverwirklichung um. Beispielsweise beschäftigen mich folgende Fragen:
+* Was mache ich aus meinem Leben? 
+* Schöpfe ich mein volles Potenzial aus? 
+* Was will ich auf dieser Welt bewirken? 
+* Wie kann ich meinen Fußabdruck und etwas Gutes für nachfolgende Generationen hinterlassen?
+
+> The goal so far as human beings are concerned – is ultimately the `self-actualization’ of a person, the becoming fully human, the development of the fullest height that the human species can stand up to or that the particular individual can come to. In a less technical way, it is helping the person to become the best that he is able to become” (Abraham Harold Maslow)
+
+## PERMA-H Modell
+Prof. Dr. Martin Seligman ist einer der Urväter auf dem Gebiet der Positiven Psychologie und hat das PERMA-Modell zum menschlichen Wohlbefinden entwickelt. Dieses wurde mittlerweile zum PERMA-H Modell erweitert. Das Akronym setzt sich aus folgenden Bestandteilen zusammen:
 
 * P: Positive Emotions
 * E: Engagement
@@ -29,82 +45,96 @@ Die "Positive Psychologie" ist ein recht junges Feld der Psychologie und befasst
 * H: Health
 
 ### P - Positive Emotions
-**Positive Gefühle** - _"Tue Gutes und rede darüber!"_ ist eine ganz bekannte Redewendung, die mir an dieser Stelle einfällt. Tatsächlich ist es doch so, dass wir uns viel mehr mit den Dingen beschäftigen, die nicht gut laufen. Redet man mit einer Freundin oder einem Freund, hält man sich doch stets nur kurz bei den schönen Erlebnissen vom Wochenende auf. Dagegen verbringt man viel mehr Zeit mit der Aufarbeitung des letzten Beziehungsstreits. Das P im PERMA-H Modell ermutigt uns mehr Zeit mit den schönen Gefühlen zu verbringen bzw. diese zuzulassen und negativen Emotionen nicht so viel Raum zu geben.
+**Positive Gefühle** - Positive Emotionen wie Hoffnung, Dankbarkeit, Enthusiasmus, Liebe und Neugier helfen für ein offenes Bewusstsein und sind eine Unterstützung beim Aufbau von mentalen Ressourcen und kognitiven Kompetenzen. Gut gelaunt ist man empfänglicher für unbekannte Themen und motivierter Neues zu erlernen.
 
-### E - Engangement
-**Einsatzbereitschaft und Selbstwirksamkeit** - 
+_"Tue Gutes und rede darüber!"_ ist eine ganz bekannte Redewendung, die mir an dieser Stelle einfällt. Tatsächlich ist es doch so, dass wir uns viel mehr mit den Dingen beschäftigen, die nicht gut laufen. Redet man mit einer Freundin oder einem Freund, hält man sich doch stets nur kurz bei den schönen Erlebnissen vom Wochenende auf. Dagegen verbringt man viel mehr Zeit mit der Aufarbeitung des letzten Beziehungsstreits. Das P im PERMA-H Modell ermutigt uns mehr Zeit mit den schönen Gefühlen zu verbringen bzw. diese zuzulassen und negativen Emotionen nicht so viel Raum zu geben.
+
+### E - Engagement
+**Einsatzbereitschaft** - Engagement bezeichnet den intensiven Einsatz für eine Sache. 
+
+Flow-Erfahrungen sind ein essenzieller Bestandteil des Engagements, in welchen eine Person völlig von ihrer aktuell ausgeführten Tätigkeit quasi absorbiert ist. Du bist intrinsisch motiviert, schenkst deine komplette Aufmerksamkeit dem jetzigen Moment bzw. aktuellen Thema und bist unempfänglich für Ablenkungen. Du bist ganz bei der selbst. Klingt das nicht wunderbar? 
+
+Bei mir äußern sich Flow-Erfahrungen beispielsweise darin, dass ich an einer Tätigkeit arbeite und wenn ich das nächste Mal auf die Uhr schaue, es bereits Mitternacht ist und ich mit Erschrecken feststelle, dass ich schon längst schlafen müsste. Der Flow zeichnet sich weiterhin dadurch aus, dass deine individuellen Fähigkeiten beansprucht werden, du aber selbst nicht überfordert bist. Die Ziele deiner Tätigkeit sind klar und dir ist dein Fortschritt bewusst.
+
+Ich war und bin nach wie vor von meiner eigenen Konsumhaltung genervt. Mal eben eine neue Netflix-Serie anfangen, ein bisschen durch Social Media scrollen und schon ist das bisschen Freizeit wieder mit belanglosen Inhalten gefüllt. Diese Website ist unter anderem deshalb entstanden, weil ich selbst etwas erschaffen wollte. Und siehe da, es funkioniert! Ich denke vermehrt über meine Interessen nach, reflektiere über gemachte Erfahrungen und überlege mir, welche Inhalte ich im Blog teilen möchte. Es gibt viele spannende Themen, die meine Neugier wecken. Obwohl die Erarbeitung und Aufbereitung neuer Inhalten unheimlich zeitintensiv ist, vergeht die Zeit doch wie im Flug - besonders wenn ich im Flow bin. Ultimativ erfüllt es mich mit großer Zufriedenheit und Glück, wenn ich einen neuen Beitrag fertiggestellt habe.
+
+***Fragen zum Nachdenken:***
+* Was sind meine Interessen?
+* Was würde ich gerne Neues lernen?
+* Wo würde ich mich gerne mehr engagieren?
+* Was hat mich schon einmal in einen Flow-Zustand versetzt?
 
 ### R - Relationships
-**Beziehungen und Verbindungen** - 
+**Beziehungen und Verbindungen** - Wir Menschen sich soziale Wesen. Entsprechend gehört die soziale Eingebundenheit zu den psychischen Grundbedürfnissen des Menschen. Jeder von uns strebt nach sozialem Anschluss bzw. gesellschaftlicher Anerkennung. Umgekehrt führt die Abwesenheit sozialer Beziehungen zu Leid, unglücklich sein oder sogar Depressionen. Menschliche Bindungen und positive Emotionen stehen in Korrelation und bedingen sich gegenseitig.
+
+Ich kann für mich sagen, dass mir ein Abend mit Freunden enorm dabei hilft meine Akkus aufzuladen und mein Wohlbefinden zu steigern. Zudem ziehe ich als extrovertierter Mensch generell Kraft aus dem Zusammensein mit anderen. Darüber hinaus ist es gut sich zwischendurch mal eine andere Meinung einzuholen, um sich nicht im eigenen Gedankenkarussel zu verlieren. Besonders unter Stress neigen wir dazu nicht mehr klar denken zu können und da wirkt ein frischer Blick von außen manchmal Wunder!
+
+***Fragen zum Nachdenken:***
+* Von wem fühle ich mich inspiriert?
+* Welche (Arbeits-)Beziehungen tuen mir nicht gut?
+* Bei welcher Person ersuche ich gerne Hilfe?
+* Welche Person kommt zu mir, um mich um Rat zu fragen?
+* Mit welchen Menschen verbringe ich gerne Zeit?
+* Mit wem möchte ich gerne mehr zu tun haben?
+
 
 ### M - Meaning
-**Sinn und Bedeutsamkeit** - 
+**Sinnerleben und Bedeutsamkeit** - Als bedeutsam erlebte Arbeit trägt signifikant zu mehr Zufriedenheit bei – im Job und im Leben insgesamt. Das eigene Leben als bedeutsam wahrzunehmen, ist ein wichtiger Aspekt von Wohlbefinden. Wenn du deine berufliche Tätigkeit als sinnvoll erlebst, profitierst du davon in Form von höherer Motivation, Produktivität und erhöhtem Wohlbefinden. Für dich als sinnlos erlebte Arbeit wird dich hingegen zu emotionaler Erschöpfung, Stress und schlimmstenfalls in den Burn-out führen.
+
+Wie kannst du herausfinden, was Sinnhaftigkeit für dich persönlich bedeutet? Eine Möglichkeit stellt die Verdeutlichung der eigenen Werte dar. Werte sind situationsübergreifende, persönliche Vorstellungen von erstrebenswerten (und weniger erstrebenswerten) Zielen. 
+
+***Übung:***
+
+Überlege dir, welche Vorstellungen von wünschenswerten Verhaltensweisen leiten dich in deinem Tun und Denken. Schreibe diese, nach Priorität geordnet, in eine Tabelle. Suche nach einer beispielhaften Situation, in der du diesen Wert ausleben konntest oder wo gegen diesen verstoßen wurde.
+
+Hier eine Tabelle mit zwei Beispielen:
+
+| Prio      |  Wert             | Beispielhafte Situation |
+| --------- | :---------------  | :----------- |
+| 1         | Wertschätzung     | Ich habe Überstunden gemacht, um die dringende Aufgabe für meinen Chef fertigzustellen. Er hat gerade einmal ein leises "Danke" herausgebracht. |
+| 2         | Vertrauen schenken| Mir wurde eine völlig neue Aufgabe anvertraut, wo ich noch überhaupt keine Vorerfahrung habe, aber mein Team sagte, dass sie mir das zutrauen. |
 
 ### A - Accomplishment
-**Errungenschaften und Erfolg** - 
+**Errungenschaften und Selbstwirksamkeit** - Das Empfinden von Selbstwirksamkeit ist ein wichtiges Instrument für mehr Zufriedenheit. Du musst dir deiner eigenen Selbstwirksamkeit bewusst werden. Wenn du selbstständig Dinge anpackst und Veränderung anstrebst, wirst du automatisch Errungenschaften und Erfolge für dich herbeiführen. Und ganz wichtig, feier diese Erfolge!
+
+Wie heißt es so schön: "Wer nicht wagt, der nicht gewinnt!". Natürlich kann ein Projekt auch mal schief gehen. Aber auch daraus wirst du lernen und es beim nächsten Mal besser machen. In meinen Augen ist nichts schlimmer als Stillstand und der Verdruss über den Status Quo. Ich habe gelernt, dass man oftmals schnell Mitstreiter:innen findet, wenn man ein störendes Thema anspricht. Meistens bist du nicht allein mit deiner Haltung. Also hole dir Verstärkung und am besten den Support von Vorgesetzten. Sprich Sachverhalte an, die dich stören bzw. nicht gut laufen und nimm es in die Hand etwas zu bewegen - hinterlasse deinen Fußabdruck!
+
+***Fragen zum Nachdenken:***
+* Was würde ich gerne verändern?
+* Auf welche Erfolge in meinem Arbeitsleben kann ich in letzter Zeit stolz sein?
+* Habe ich diese Erfolge gebührend anerkannt oder mich direkt dem nächsten Thema gewidmet?
+* Wie gut bin ich darin, Fortschritt im Hinblick auf meine Ziele wahrzunehmen?
+* Wie kann ich Etappensiege, Zwischenerfolge und auch kleine Fortschritte bewusster machen – mir selbst und anderen?
+* Wie und durch wen kann ich mehr Feedback/Rückmeldung und somit das Gefühl von Fortschritt erhalten?
 
 ### H - Health
-**Gesundheit und physisches Wohlbefinden** - 
+**Gesundheit und physisches Wohlbefinden** - Arbeit ist für viele Menschen laut aktuellen Befragungen (American Psychological Association, 2021) der wichtigste Stressfaktor – vor wirtschaftlichen, finanziellen und familiären Sorgen. Es gibt zudem einen starken Zusammenhang zwischen beruflicher Zufriedenheit und körperlicher sowie geistiger Gesundheit.
 
-## Job Crafting
-Job Crafting geht von der These aus, dass es den perfekten Job nicht gibt. **Vielmehr musst du dir den für dich perfekten Job schaffen.** Und wie machst du das?
+Oftmals fällt das Thema Gesundheit als Erstes hinten herunter, wenn man unter Stress steht. Mir geht es oft so, dass ich das Fußballtraining absage, um stattdessen länger zu Arbeiten und noch eine Aufgabe abzuschließen. Dies ist eine toxische Handlung, da der sportliche Ausgleich dazu beiträgt das Stresslevel zu senken und im Umkehrschluss ermöglicht wieder konzentrierter und produktiver zu arbeiten.
 
-Zum einen musst du dir deiner Selbstwirksamkeit bewusst werden. Natürlich kannst du darauf warten, dass deine Führungskraft Gedanken lesen lernt und auf dich mit für dich passenden Veränderungsmöglichkeiten zukommt. Das ist selbstverständlich überzogen dargestellt. Viele Unternehmen haben Personalentwicklungsprogramme, die besser oder schlechter funktionieren. Du kannst allerdings auch selbst tätig werden und offen in die Kommunikation gehen und ansprechen, was dich stört oder was dir besonders Spaß macht. 
+Mir ist ein Gleichnis im Kopf gelieben, das ich etwas anpasse, um den Sachverhalt zu verdeutlichen: 
+> Länger zu arbeiten, ohne sich zwischendurch einen Ausgleich zu schaffen, ist wie mit einer stumpfen Axt in den Wald zu gehen, um Bäume zu fällen. Man startet zwar schneller, braucht am Ende aber länger. Man sollte sich immer wieder die Zeit nehmen zurückzutreten, um seine Axt zu schärfen und durch Ausgleich seine Produktivität zu erhöhen, um letztlich schneller zum Ziel zu gelangen." (Johannes Schwalbach)
 
-Deine Führungskraft sollte ein Interesse daran haben, dass du zufrieden bist und entsprechend könnt ihr gemeinsam eruieren, welche Möglichkeiten für dich vorhanden sind, um dein Wohlbefinden und damit höchstwahrscheinlich auch deine Effizienz auf der Arbeit zu steigern. Mitarbeitende, die motiviert sind und Spaß an ihren Tätigkeiten haben, arbeiten intensiver und sind bereit mehr zu geben.
-
-Weiterhin solltest du dir im Klaren darüber sein, was du willst und was dir Spaß bzw. keinen Spaß macht. Nichts finde ich schlimmer als Menschen, die sich ständig über etwas beschweren, aber selbst auf Nachfrage keinen Verbesserungsvorschlag parat haben. Also sei stets konstruktiv in deiner Argumentation und handle lösungsorientiert. Deine Führungskraft und Mitmenschen werden dir diese Einstellung hoch anrechnen. 
-
-Um herauszufinden welche deiner aktuellen Tätigkeiten dir Spaß machen bzw. wie du diese strukturiert Einordnen kannst, kann dir die Energiebilanz Methode helfen.
-
-## Energiebilanz
-Die Energiebilanz von Rob Baker dient als eine Methode, um Ansatzpunkte für Job Crafting anhand der eigenen Tätigkeiten zu identifizieren.
-
-> Für unseren Workshop habe ich nachfolgendes Arbeitsblatt mit Theorie zu Job Crafting und der Energiebilanz als praktischem Teil erstellt. Nutze dieses gerne für dich, um einmal deine Tätigkeiten einzusortieren.
-{: .prompt-info }
-
-![Job Crafting mit der Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-04-23 Job Crafting - Theorie und Praxis.png){: width="400"}
-_Energiebilanz von Rob Baker mit Umsetzungsvorschlag von Christian Thiele_
-
-### Vorbereitung
-Du nimsmst dir ein DIN A4 Blatt und legst eine Tabelle mit 3 Spalten an. Hier eine Tabelle mit zwei Beispielen:
-
-| Tätigkeit |  Zeitaufwand [h]  | Energie [+10 bis -10]|
-| --------- | :------------------:     | :-----------: |
-| Rechnung stellen | 1 | -5 |
-| Abstimmungstermin moderieren | 6 | +7 |
-
-Als Erstes listest du 10-20 Tätigkeiten aus deinem Job auf. Anschließend bewertest du den gemittelten wöchentlichen Zeitbedarf in Stunden der einzelnen Tätigkeit und deren Energiebilanz von +10 bis -10. Sprich, gibt dir die Aufgabe Energie (positive Bilanz) oder raubt sie dir diese (negative Bilanz).
-
-### Optionale Modifikation
-Bei der Erstellung meiner persönlichen Energiebilanz ist mir aufgefallen, dass mir die Dimensionen Zeitaufwand und Energie nicht ausreichen. Ich habe für mich noch eine Spalte für die _Relevanz_ ergänzt. Für mich ist das Stellen von Rechnungen eine Aufgabe, die mir Energie raubt. Gleichzeitig weiß ich aber um die Notwendigkeit und Wichtigkeit dieser Aufgabe, was sie für mich deutlich erträglicher macht. 
-
-Falls dir weitere Gedanken zu den einzelnen Aufgaben durch den Kopf gehen, kannst du diese in einer zusätzlichen Kommentarspalte festhalten. Die Tabelle sieht nach meinen Modifikationen wie folgt aus:
-
-| Tätigkeit |  Zeitaufwand [h]  | Energie [+10 bis -10]| Relevanz [0 bis 10] | Kommentar |
-| --------- | :------------------:     | :-----------: | :---: | --- |
-| Rechnung stellen | 1 | -5 | 10 | Am Anfang des Monats direkt erledigen, damit es aus dem Kopf ist
-| Abstimmungstermin moderieren | 6 | +7 | 7 | - |
-
-### Visualisierung
-Basierend auf deiner Bewertung verortest du die einzelne Tätigkeiten (z.B. ein Post-Its pro Aufgabe) nun auf einem Graphen. Auf der Abzisse (x-Achse) stellst du den Zeitbedarf von links=gering nach rechts=hoch und auf der Ordinate (y-Achse) die Energie dar. Energiespendende Aufgaben befinden sich oberhalb der Nulllinie, energieraubende Aufgaben unterhalb. Damit hast du für dich auf einen Blick ersichtlich, welche Aufgaben dir Spaß machen und welche dich nerven.
-
-### Ableitungen
-Du hast mittlerweile erfolgreich den Status Quo festgehalten. Jetzt folgt der spannende Teil! Was sind deine Schlussfolgerungen aus deiner persönlichen Energiebilanz? Dazu solltest du dir 2 Quadranten ganz besonders anschauen. 
-
-Der Quadrant links oben zeigt die Energiegeber, mit denen du wenig Zeit im Arbeitsalltag verbringst. Sie werden auch als _heimliche Tankstellen_ bezeichnet. Gibt es Möglichkeiten, dass du diese Aufgaben häufiger ausübst? Vielleicht gibt es ja Kolleg:innen, die sich freuen, eine solche Aufgabe abgeben zu können.
-
-Der zweite Quadrant befindet sich rechts unten und stellt die zeitintensiven Energieräuber dar. Hier ist der Hebel für eine Verbesserung deines Wohlbefindens besonders groß. Kannst du vielleicht eine Aufgabe an eine Person delegieren, die daran Spaß hat? Stört dich eventuell nur die Art der Umsetzung und es gibt einen anderen Weg das gleiche Ziel zu erreichen? Eine weitere Möglichkeit ist es deine Sichtweise bzw. Haltung zu einer Aufabe zu ändern. Dafür hat mir bspw. die _Relevanz_ als weitere Dimension einer Aufgabe geholfen. Dies habe ich weiter oben am Beispiel der Aufgabe _Rechnung stellen_ erläutert. 
-
-Selbst wenn du ad hoc nichts am Status Quo ändern kannst, so hilft es auf jeden Fall sich diesen bewusst zu machen und dir visuell aufzubereichen. Zeige diese Übersicht doch mal deiner Führungskraft und überlege gemeinsam mit ihr, ob es Chancen für Veränderung gibt. 
+***Fragen zum Nachdenken:***
+* In welcher Form belastet meine Arbeitssituation meine körperliche, geistige und seelische Gesundheit?
+* Inwiefern sind Schlaf, Ernährung, Bewegung etc. davon betroffen?
+* Was davon liegt im Bereich meines eigenen, grundsätzlich veränderbaren Verhaltens?
+* Wer und was könnte mich bei einer möglichen Anpassung unterstützen?
 
 ## Zusammenfassung
+Unser heutiges Leben ist maßgeblich von Leistungs- und Erfolgsdruck, Stress und der Überforderung durch grenzenlose Möglichkeiten geprägt. In diesem anspruchsvollen Umfeld ist es umso wichtiger, sich seiner persönlichen Werte und Ziele bewusst zu sein. In der Positiven Psychologie steht die Frage im Vordergrund, wie subjektive psychische Ressourcen des Individuums in den Dienst eines gelingenden Lebens gestellt werden können. Das PERMA-H Modell zeigt 6 Dimensionen auf, die dir durch Auseinandersetzung mit diesen zu mehr Zufriedenheit und Wohlbefinden verhelfen können.
 
+Abschließend noch ein Zitat der Institutsleiterin der Deutschen Gesellschaft für Positive Psychologie:
+> Für die Positive Psychologie ist Glück kein Selbstzweck. Zu einem erfüllten Leben gehören auch negative Emotionen und der Umgang mit Krisen. Es geht nicht darum, einen Zustand zu schaffen, in dem ein Glücksmoment den nächsten jagt. Es ist genauso wichtig, festzustellen, wenn man unglücklich ist, um daraus Veränderungen anzugehen.
+(Psychologin Judith Mangelsdorf)
 
 Quellen:
 1. ![Website](/assets/img/book_888888.png){: w="14" } [Deutsche Gesellschaft für Positive Psychologie: Die Geschichte der Positiven Psychologie](https://www.dgpp-online.de/anfaenge-positive-psychologie) (abgerufen am 29.05.2023)
-2. ![Buch](/assets/img/book_888888.png){: w="14" } [Christian Thiele: Job Crafting konkret mit dem PERMA-H-Modell (2023)](https://link.springer.com/chapter/10.1007/978-3-658-40140-5_4)
-3. ![Podcast](/assets/img/podcast_888888.png){: w="14" } [Christian Thiele: Job Crafting - was es ist, bringt und wie und wieso Führung es fördern sollte](https://open.spotify.com/episode/5GGRhvPN37mVjjiMK5XbYt?si=yxny5WWnQbCQeEg-4CjEpw)
+2. ![Website](/assets/img/book_888888.png){: w="14" } [Psychologie des Glücks: Was ist Positive Psychologie?](https://psychologie-des-gluecks.de/ueber-positive-psychologie/) (abgerufen am 03.06.2023)
+3. ![Buch](/assets/img/book_888888.png){: w="14" } [Christian Thiele: Job Crafting konkret mit dem PERMA-H-Modell (2023)](https://link.springer.com/chapter/10.1007/978-3-658-40140-5_4)
+4. ![Buch](/assets/img/book_888888.png){: w="14" } [Michaela Brohm-Badry: Positive Psychologie: Grundlagen, Geschichte, Elemente, Zukunft (2017)](https://www.uni-trier.de/fileadmin/fb1/prof/PAD/BW2/Berend/Grundlagen_Positive_Psychologie_01.pdf)
+5. 2. ![Website](/assets/img/book_888888.png){: w="14" } [Spektrum.de: Positive Psychologie - Sie wollen uns doch nur glücklich machen!](https://www.spektrum.de/news/haelt-die-positive-psychologie-was-sie-verspricht/1724410) (abgerufen am 03.06.2023)
+
 
 Bildverweise:
 1. Foto von [Jacqueline Munguía](https://unsplash.com/@jacquiemunguia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/1pAwJiCD60c)
