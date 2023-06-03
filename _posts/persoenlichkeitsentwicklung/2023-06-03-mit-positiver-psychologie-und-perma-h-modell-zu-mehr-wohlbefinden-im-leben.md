@@ -2,13 +2,13 @@
 layout: post
 title: Mit Positiver Psychologie und PERMA-H Modell zu mehr Wohlbefinden im Leben
 description:
-image: 
-    path: /assets/persoenlichkeitsentwicklung/jacqueline-munguia-1pAwJiCD60c-unsplash.jpg
-    alt: Foto von Jacqueline Munguia auf Unsplash
+image:
+  path: "/assets/persoenlichkeitsentwicklung/jacqueline-munguia-1pAwJiCD60c-unsplash.jpg"
+  alt: Foto von Jacqueline Munguia auf Unsplash
 categories: [Persönlichkeitsentwicklung]
-tags: [Positive Psychologie,PERMA-H,Job Crafting,Energiebilanz]
+tags: [Positive Psychologie,PERMA-H]
+date: 2023-06-03 11:00 +0200
 ---
-
 ## Motivation
 Im Rahmen der jährlichen Klausurtagung meines Arbeitgebers (encoway Sommerklausur) habe ich im Mai 2023 zusammen mit unserer Personalentwicklerin einen 2,5-tägigen Workshop zum Thema ***"Wann hattest Du Dein letztes 1:1 mit Dir selbst? - Selbstführung und Resilienz als Schlüssel zur persönlichen und beruflichen Weiterentwicklung"*** ausgearbeitet und geleitet. 
 
