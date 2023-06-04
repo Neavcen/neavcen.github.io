@@ -7,7 +7,7 @@ image:
   alt: Foto von Mark Oleksiy auf Fotolia
 categories: [Projektmanagement]
 tags: [Projektmanagement,JIRA,Confluence,Microsoft Planner,Microsoft Outlook,Microsoft Teams,Microsoft Powerpoint,Miro]
-date: 2023-06-04 16:00 +0200
+date: 2023-06-04 16:29 +0200
 ---
 ## Einleitung
 Je größer das Unternehmen, desto mehr Softwaretools stehen in der Regel zur Auswahl. Arbeit man in Projekten mit Kunden oder anderen Dienstleistern zusammen, erweitert sich das Portfolio eventuell noch weiter und man muss zudem festlegen bei welchem Unternehmen die Tools verwendet werden. Dazu kommt damit die Beantragung von Accounts und Einrichtung von Zugriffen, die weitere aufreibende Themen darstellen. Diese Umstände erschweren es sich teamübergreifend auf bestimmte Tools zu einigen.
@@ -41,13 +41,13 @@ Als zentrales Dokumentationssystem setzen wir Confluence ein (ebenfalls von Atla
 * Dokumentation der internen Reviews im Gate-Prozess zur Qualitätssicherung 
 
 ## Planner: Organisation und Planung
-Neben den Softwareentwicklungstätigkeiten gibt es natürlich generelle Aufgaben im Projektmanagement. Diese möchte ich nicht in JIRA abbilden, Da mir der Workflow zu viel und der Aufwand zu hoch ist. Hier sind ein paar **beispielhafte Organisationsthemen:**
+Neben den Softwareentwicklungstätigkeiten gibt es natürlich generelle Aufgaben im Projektmanagement. Diese möchte ich nicht in JIRA abbilden, Da mir der Workflow zu viel und der Aufwand zu hoch ist. Hier sind ein paar beispielhafte Organisationsthemen:
 * Abstimmungen organisieren
 * Schulungen planen
 * Abwesenheiten notieren
-* Vorbereitung von Meilensteinen.
+* Vorbereitung von Meilensteinen
 
-Für die **Bearbeitung und Nachverfolgung von Aufgaben, die generell die Projektorganisation betreffen**, nutze ich gerne Microsoft Planner. Die Durchsprache dieser Themen mit dem Projektmanagement des Kunden erfolgt in einem wöchentlichen Jour Fixe. Durch die gemeinsame Arbeit mit dem Planner können dort alle Seiten im Laufe der Woche Themen sammeln und den Status einzelner Aufgaben updaten.
+Für die **Bearbeitung und Nachverfolgung von Aufgaben, die generell die Projektorganisation betreffen**, nutze ich gerne Microsoft Planner. Die Durchsprache dieser Themen mit dem Projektmanagement des Kunden erfolgt in einem wöchentlichen Jour Fixe. Durch die gemeinsame Arbeit mit dem Planner können dort alle Parteien im Laufe der Woche Themen sammeln und den Status einzelner Aufgaben updaten.
 * Verwaltung von Aufgaben der Projektorganisation
 * Kommunikation von Neuigkeiten und Veränderungen
 * Detailabstimmung einzelner Meilensteine des Projektplans
@@ -61,7 +61,7 @@ Die meisten Unternehmen setzen auf Microsoft Office und verwenden somit Microsof
 Outlook bündelt viele Funktionalitäten in einem Tool. E-Mail Postfach und Kalender sind allen bekannt. Die Aufgabenverwaltung ist hingegen wohl eher unbekannter.
 
 ### E-Mail
-Die erste E-Mail im heutigen Sinne wurde 1971 verschickt. Auch über 50 Jahre später ist die E-Mail wohl nach wie vor das bevorzugte Kommunikationsmittel. Zudem lassen sich E-Mail gut archivieren. Im besten Fall findest du sie sogar wieder, wenn du sie brauchst. Dafür hilft definitiv eine ausgeklügelte Ordnerstruktur. Ich habe für jedes Projekt einen Ordner und innerhalb dessen ca. 10 Unterordner für die Einsortierung der E-Mails. Der Posteingang sagt in meinen Augen viel über einen Menschen und ganz speziell Projektmanager:in aus!
+Die erste E-Mail wurde 1971 verschickt. Auch über 50 Jahre später ist die E-Mail wohl nach wie vor das bevorzugte Kommunikationsmittel. Zudem lassen sich E-Mails gut archivieren. Im besten Fall findest du sie sogar wieder, wenn du sie brauchst. Dafür hilft definitiv eine **ausgeklügelte Ordnerstruktur**. Ich habe für zahlreiche Ordner für interne Themen sowie einen Ordner für jedes Projekt und innerhalb dessen ca. 10 Unterordner für die thematische Einsortierung der E-Mails. Der Posteingang sagt in meinen Augen viel über einen Menschen und ganz speziell Projektmanager:in aus!
 * Schriftliche Ankündigungen
 * Versand wichtiger Informationen (z.B. Terminprotokolle)
 * Klärung von Themen geringer Komplexität
@@ -75,16 +75,16 @@ Als Projektmanager:in verbringt man einen nicht unerheblichen Teil mit der Organ
 * Organisation von Terminen mit anderen Teilnehmer:innen
 * Einplanung eigener Aufgaben in Arbeitstag
 
-> **Adäquate Termineinladungen:** <br> Eine vernünftige Einladung beginnt mit einem sprechenden Betreff und zusätzlich einer Beschreibung des Zwecks und Ziels des Termins. Auf diese Art können eingeladene Personen die Sinnhaftigkeit ihrer Teilnahme bewerten und evtl. bessere Teilnehmer:innen nennen. <br> Dies klappt natürlich nicht, wenn sich der Organisator oder die Organisatorin nicht mal wenige Minuten Zeit für eine vernünftige Einladung nimmt. Dies führt meistens zu Verwirrung und Aufwänden bei den Eingeladenen, da diese sich die Informationen selbst beschaffen müssen. <br> **Mein Appell:** Tu uns allen einen Gefallen, nimm dir die Zeit und mach's vernünftig!
+> **Adäquate Termineinladungen:** <br> Eine vernünftige Einladung beginnt mit einem sprechenden Betreff und zusätzlich einer Beschreibung des Zwecks und Ziels des Termins. Auf diese Art können eingeladene Personen die Sinnhaftigkeit ihrer Teilnahme bewerten und evtl. bessere Teilnehmer:innen nennen. <br> Dies klappt natürlich nicht, wenn sich der Organisator oder die Organisatorin nicht mal wenige Minuten Zeit für eine vernünftige Einladung nimmt. Dies führt meistens zu Verwirrung und Aufwänden bei den Eingeladenen, da sich diese die Informationen selbst beschaffen müssen. <br> **Mein Appell:** Tu uns allen einen Gefallen, nimm dir die Zeit und mach's vernünftig! So hast du auch direkt eine Gedankenstütze, wenn der Termin ansteht.
 {: .prompt-info }
 
 ### Aufgaben
-Die größte Entdeckung für mich waren ***Aufgaben*** in Outlook. Du kannst dir eigene Aufgaben erstellen und darin Priorität, Fälligkeitsdatum und eine Beschreibung ergänzen. Es ist möglich sich die Aufgaben zusätzlich zum Kalender anzeigen zu lassen. Damit hast du den **kompletten Überblick deiner anstehenden Termine und Aufgaben für den jeweiligen Tag bzw. die gesamte Arbeitswoche** - Genial!
+Die größte Entdeckung für mich war die Funktionalität ***Aufgaben*** in Outlook. Du kannst dir eigene Aufgaben erstellen und darin Priorität, Fälligkeitsdatum und eine Beschreibung ergänzen. Es ist möglich sich die Aufgaben zusätzlich zum Kalender anzeigen zu lassen. Damit hast du den **kompletten Überblick deiner anstehenden Termine und Aufgaben für den jeweiligen Tag bzw. die gesamte Arbeitswoche** - Genial!
 * Verwaltung eigener Aufgaben zur Selbstorganisation
 * Priorisierung von Aufgaben
 * Zeitliche Einplanung von Aufgaben
 
-Ich schätze an den Aufgaben die leichtgewichtige Handhabung. So kann ich im Termin mal eben eine Aufgabe festhalten, um sie im Nachgang zu den anderen Aufgaben zu priorisieren und einzuplanen. Mir ist es wichtig, dass ich immer einen Ort habe, wo ich schnell etwas festhalten kann. In der Beschreibung der Aufgabe lassen sich relevante Informationen festhalten, die im Nachgang an ihren endgültigen Bestimmungsort überführt werden können.
+Ich schätze an den Aufgaben die leichtgewichtige Handhabung. So kann ich im Termin mal eben eine Aufgabe festhalten, um sie im Nachgang zu den anderen Aufgaben zu priorisieren und einzuplanen. Enthält eine E-Mail eine Aufgabe, kannst du sie über die Flagge markieren und hast direkt eine Aufgabe erstellt. Mir ist es wichtig, dass ich immer einen Ort habe, wo ich schnell etwas festhalten kann. In der Beschreibung der Aufgabe lassen sich relevante Informationen festhalten, die im Nachgang an ihren endgültigen Bestimmungsort überführt werden können.
 
 ## Teams: Direkte sowie teambezogene Kommunikation und Online-Termine
 Spätestens mit Corona konnten Unternehmen das Thema Remotearbeit nicht mehr ausblenden. Die bevorzugte Anwendung für dessen Realisierung ist häufig Microsoft Teams. Teams bietet mit Direktchats, Gruppenchats, Kanälen und Videotelefonie zahlreiche Möglichkeiten wie mit anderen Leuten kommuniziert werden kann.
@@ -102,16 +102,16 @@ Das Erstellen von Präsentationen zur Darstellung eines Sachverhalts ist ein bel
 Ich versuche das Erstellen von Präsentationen zu vermeiden, die nur für einen Termin benötigt werden. In meinen Augen steht der notwendige Vorbereitungsaufwand nicht im Verhältnis. Es lässt sich natürlich nicht immer vermeiden. Gute Folienvorlagen helfen auf jeden Fall dabei die Vorbereitungszeit drastisch zu verkürzen.
 
 ## Miro: Whiteboard für Kollaboration und Visualisierung
-Miro ist ein Tool, das ich erst kürzlich kennengelernt und für mich entdeckt habe. Miro bietet ein quasi unendliches Whiteboard auf dem man sich austoben kann. Es gibt hilfreiche Vorlagen, um nicht bei Null starten zu müssen. 
+***Miro*** ist ein Tool, das ich erst kürzlich kennengelernt und für mich entdeckt habe. Miro bietet ein quasi **unendliches Whiteboard** auf dem man sich austoben kann. Es gibt hilfreiche Vorlagen, um nicht bei Null starten zu müssen. 
 
-Ich finde es besonders spannend für die **Visualisierung** von Themen (es ersetzt für mich mehr und mehr Powerpoint) und die **Zusammenarbeit** mit anderen. Ein Board kann mit anderen Personen geteilt werden und man kann live zusammenarbeiten. So wird aus der tristen Frontalbeschallung in einem Termin eine Kollaboration aller Teilnehmer:innen, die Spaß macht und die Aufmerksamkeitsspanne durch stärkere Involvierung erhöht.
+Ich finde es besonders spannend für die Visualisierung von Themen (es ersetzt für mich mehr und mehr Powerpoint) und die Zusammenarbeit mit anderen. Du kannst ein Board mit anderen Personen teilen und live mit ihnen zusammenarbeiten. So wird aus der tristen Frontalbeschallung in einem Termin eine Kollaboration aller Teilnehmer:innen, die Spaß macht und die Aufmerksamkeitsspanne durch stärkere Involvierung erhöht.
 
 * **Visualisierung:** Gemeinsam im Team und mit Kunden auf unendlichem Whiteboard arbeiten
 * **Kollaborative Meetings:** Ideen generieren, Themen identifizieren, Teilnehmer:innen involvieren
 * **Templates:** Viele Vorlagen für unterschiedliche Themen: Lean Coffee, Brainstorming, Retro, etc.
 
 ## Zusammenfassung
-Ist jetzt doch wieder ganz schön viel Text geworden... deshalb hier mal eine Übersichtsgrafik meiner verwendeten Tools:
+Ist jetzt doch wieder ganz schön viel Text geworden... deshalb hier mal eine Übersichtsgrafik meiner verwendeten Tools mit einer kurzen Beschreibung:
 
 ![Übersicht meiner PM-Tools](/assets/projektmanagement/2023-06-04_PM-Toolchain_Uebersicht.png){: width="400"}
 _Übersicht meiner PM-Tools mit kurzer Beschreibung des Einsatzgebiets_
