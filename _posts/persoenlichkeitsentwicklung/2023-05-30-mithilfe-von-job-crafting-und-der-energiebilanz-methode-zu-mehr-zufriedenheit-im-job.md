@@ -31,7 +31,7 @@ Um herauszufinden welche deiner aktuellen Tätigkeiten dir Spaß machen bzw. wie
 ## Energiebilanz
 Die Energiebilanz von Rob Baker dient als eine Methode, um Ansatzpunkte für Job Crafting anhand der eigenen Tätigkeiten zu identifizieren.
 
-![Job Crafting mit der Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-04-23 Job Crafting - Theorie und Praxis.pdf){: width="400"}
+![Job Crafting mit der Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-06-05 Job Crafting mit Energiebilanz - Theorie und Praxis.pdf){: width="400"}
 _Energiebilanz von Rob Baker mit Umsetzungsvorschlag von Christian Thiele_
 
 ### Vorbereitung
@@ -72,7 +72,7 @@ Selbst wenn du ad hoc nichts am Status Quo ändern kannst, so hilft es auf jeden
 {: .prompt-info }
 
 Material:
-1. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Job Crafting: Theorie und Praxis mit Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-04-23 Job Crafting - Theorie und Praxis.pdf)
+1. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Job Crafting: Theorie und Praxis mit Energiebilanz](/assets/persoenlichkeitsentwicklung/2023-06-05 Job Crafting mit Energiebilanz - Theorie und Praxis.pdf)
 2. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Energiebilanz: Aufgabenstellung und tabellarische Auflistung der Tätigkeiten](/assets/persoenlichkeitsentwicklung/2023-05-10 Energiebilanz-Aufgabenblatt_DIN-A4.pdf)
 3. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Energiebilanz: Graph für Visualisierung der Tätigkeiten](/assets/persoenlichkeitsentwicklung/2023-05-10 Energiebilanz-Graph_DIN-A3.pdf)
 
