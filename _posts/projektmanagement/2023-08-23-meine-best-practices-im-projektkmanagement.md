@@ -27,14 +27,14 @@ Ich möchte dir nachfolgend eine Übersicht meiner Best-Practices (BPs) geben. D
 3. Aufgabenbearbeitung
 4. Präsentation
 
-> Auch wenn du nicht im Projektmanagment tätig bist, kannst du trotzdem viele wertvolle Tipps für dich und deinen Arbeitsalltag mitnehmen.
+> Auch wenn du nicht im Projektmanagement tätig bist, kannst du trotzdem viele wertvolle Tipps für dich und deinen Arbeitsalltag mitnehmen.
 {: .prompt-info }
 
 
 ## BPs Dokumentation
 
 ### Lege Dokumentationsort und -art fest
-Als Projektmanager:in hat man die Aufgabe das Projekt zusammenzuhalten. Dazu zählt auch die Projektstruktur und die Dokumentation innerhalb des Projekts. Deshalb empfiehlt es sich direkt zu Beginn ein paar Richtlinien festzulegen, damit erst gar kein Wildwuchs entsteht (oder sind wir realistisch: möglichst wenig Wildwuchs).
+Als Projektmanager:in hast du die Aufgabe das Projekt zusammenzuhalten. Dazu zählt auch die Projektstruktur und die Dokumentation innerhalb des Projekts. Deshalb empfiehlt es sich direkt zu Beginn ein paar Richtlinien festzulegen, damit erst gar kein Wildwuchs entsteht (oder sind wir realistisch: möglichst wenig Wildwuchs).
 
 ***Lege (mit dem Team) fest, wo und was dokumentiert wird.*** 
 
@@ -43,14 +43,14 @@ Legt fest, was dokumentiert werden soll und welches Systeme für was genutzt wer
 ### Bevorzuge Klasse statt Masse
 In großen Projekten passiert es häufig, dass in kurzer Zeit viele Inhalte erstellt und abgelegt werden. Eine Confluence Seite oder eine Präsentation ist im Handumdrehen angelegt, wird halb abgeschlossen und gerät im Anschluss in Vergessenheit. Bringt diese Art der Dokumentation jemandem etwas? Nein. Diese Inhalte sind nicht verlässlich und verwirren dich oder andere auf der Suche nach Antworten mehr, als dass sie weiterhelfen. 
 
-Bevor du etwas niederschreibst oder spätestens bevor du anderen die Informationen verfügbar machst, überlege dir, welchen Mehrwert diese Informationen bieten. Werden die Informationen im weiteren Verlauf unbedingt benötigt? Dann schreibe sie auf! Haben sie nur geringe Bedeutung? Lass sie weg. 
+Bevor du etwas niederschreibst oder spätestens bevor du anderen die Informationen verfügbar machst, überlege dir, welchen Mehrwert diese Informationen bieten. Werden die Informationen im weiteren Verlauf unbedingt benötigt? Ja, dann schreibe sie auf! Haben sie nur geringe Bedeutung? Lass sie weg. 
 
 Leute sind sehr schnell abgeschreckt von einer umfangreichen Dokumentation. Zum einen ist es schwer die gewünschten Inhalte zu finden und zum anderen ist die Überwindung, überhaupt mit dem Sichten der Infos anzufangen, deutlich höher, wenn man vor einer Informationsflut steht.
 
-***Vertraue mir: Weniger ist mehr. Lieber weniger, aber dafür akkurate Dokumentation als viel unvollständige oder veraltete Dokumentation.*** 
+***Vertraue mir: Weniger ist mehr. Lieber eine weniger umfangreiche und akkurate Dokumentation als eine umfangreiche und veraltete oder sogar fehlerhafte Dokumentation.*** 
 
 ### Arbeite nach dem "Single Source of Truth"-Prinzip 
-Vermeide, dass Inhalte oder Dokumente dupliziert werden und anschließend an mehreren Orten existieren und angepasst werden müssen. Andernfalls ist schnell unklar, wo sich der aktuelle Stand befindet und welcher Quelle vertraut werden kann. Single Source of Truth heißt, dass es eine festgelegte Informationsquelle (für ein Thema) gibt und du dich auf dessen Inhalte verlassen kannst.
+Vermeide, dass Inhalte oder Dokumente dupliziert werden und anschließend an mehreren Orten existieren und gepflegt werden müssen. Andernfalls ist schnell unklar, wo sich der aktuelle Stand befindet und welcher Quelle vertraut werden kann. Single Source of Truth heißt, dass es eine festgelegte Informationsquelle (für ein Thema) gibt und du dich auf dessen Inhalte verlassen kannst.
 
 ### Update oder lösche veraltete Dokumentation
 Veraltete Informationen helfen niemanden und verwirren im Zweifel nur. Zudem steigt der Frust und das Vertrauen in die aktuelle Dokumentation. Können sich Leute nicht auf die Dokumentation verlassen, fragen diese bei Kolleg:innen nach und beanspruchen damit wertvolle Ressourcen. Dies kostet Zeit und Geld. 
@@ -59,7 +59,7 @@ Veraltete Dokumentation schadet letztlich dem Projekt. Ich sehe zwei Wege:
 1. Die Dokumentation wird nicht mehr benötigt: Dann lösche sie. 
 2. Sie wird weiterhin benötigt: Veranlasse eine Aktualisierung, damit sie wieder einen Wert stiftet.
 
-***Falls du das Löschen nicht übers Herz bringst, führe ein Archiv ein. Dieses kannst du nach bspw. einem Jahr leeren.***
+***Falls du das Löschen nicht übers Herz bringst, führe ein Archiv ein. Dieses kannst du nach bspw. einem Jahr leeren, wenn die darin enthaltenen Informationen nicht benötigt wurden.***
 
 ### Schaffe einen Ort für deine Notizen
 Genauso wie du dir mit dem Team in einem Projekt überlegst, wie und wo Inhalte dokumentiert werden sollen, solltest du auch für dich und deine persönlichen Notizen ein klares Konstrukt festlegen. 
@@ -80,7 +80,7 @@ Vor allem deine Aufgaben, die aus einem Termin resultieren, solltest du dir wäh
 ***Dein Kopf muss frei, da alles Wichtige bereits aufgeschrieben ist.***
 
 ### Visualisiere Sachverhalte für ein besseres Verständnis
-In der Anforderungserhebung mit Kunden passiert es schnell, dass man zwar die gleiche Sprache spricht, aber dennoch aneinander vorbeiredet. Jeder, der schon einmal in einem Projekt gearbeitet hat, weiß, dass ein Prozess einige Iterationen durchlaufen muss, bis er final abgestimmt ist. Je mehr Leute involviert sind, desto aufwändiger.
+In der Anforderungserhebung mit Kunden passiert es schnell, dass ihr zwar die gleiche Sprache sprecht, aber dennoch aneinander vorbeiredet. Jeder, der schon einmal in einem Projekt gearbeitet hat, weiß, dass ein Prozess einige Iterationen durchlaufen muss, bis er final abgestimmt ist. Je mehr Leute involviert sind, desto aufwändiger.
 
 An dieser Stelle hilft es frühzeitig ein Bild zu zeichnen, das gemeinsam angeschaut werden kann. Ganz getreu dem Sprichtwort: "Ein Bild sagt mehr als 1.000 Worte." Das Bild ist quasi eine Wiederholung des bis hierhin Verstandenen. So kannst du dein Verständnis verifizieren lassen und sicherstellen, dass alle Beteiligten auf dem gleichen Stand sind. Zudem ist es auf diese Weise einfacher über den Sachverhalt zu sprechen.
 
@@ -93,7 +93,7 @@ Es ist wichtig, dass Aufgaben konkret formuliert sind, sodass diese richtig vers
 * M: messbar - das Ergebnis soll bewertbar sein, um zu ermitteln, ob die Aufgabe erledigt ist
 * A: attraktiv - die Aufgabenstellung soll die verantwortliche Person motivieren
 * R: realistisch - das geforderte Resultat soll erbringbar sein
-* T: terminiert - die Bearbeitung soll eine zeitliches Ende gesetzt bekommen
+* T: terminiert - die Bearbeitung soll ein zeitliches Ende gesetzt bekommen
 
 ### Bestimme eine verantwortliche Person für jede Aufgabe
 Wenn eine Aufgabe nicht an eine Person adressiert wird, fühlt sich niemand verantwortlich. Entsprechend wird die Aufgabe nicht bearbeitet. Das kann natürlich nicht das Ziel sein. Achte also darauf, wenn eine neue Aufgabe identifiziert wird, dass direkt eine verantwortliche Person festgelegt wird. Verantwortlich zu sein, muss nicht zwangsläufig bedeuten, dass man die Aufgabe selbst bearbeitet. Auf jeden Fall ist man aber dafür zuständig, dass die Bearbeitung vorangetrieben und die Aufgabe letztlich abgeschlossen wird.
@@ -102,12 +102,12 @@ Wenn eine Aufgabe nicht an eine Person adressiert wird, fühlt sich niemand vera
 Aufgaben, die kein Fälligkeitsdatum haben, haben offensichtlich keine Dringlichkeit oder Wichtigkeit. Selbst wenn du nicht genau weißt, wann eine Aufgabe fertig werden soll, lege ein Datum fest. Zur Not wird dieses nochmal nach hinten verschoben. Zumindest wird auf diese Weise über die Aufgabe geredet. Falls ihr kein Fälligkeitsdatum oder eines weit in der Zukunft vergebt, heißt das höchstwahrscheinilch, dass die Aufgabe eine geringe Priorität oder Dringlichkeit hat. Diese Sachverhalt kann auch helfen, z.B. wenn Aufgaben priorisiert werden sollen.
 
 ### Setze ambitionierte, aber schaffbare Deadlines für Aufgaben
-Das **Parkinsonsche Gesetz** stellt folgende These auf: ***Eine Aufgabe dehnt sich immer genauso weit aus, wie Zeit für sie zur Verfügung steht.*** Vereinfacht bedeutet das, je mehr Zeit du für eine Aufgabe hast, desto länger brauchst du für dessen Bearbeitung. Hast du zu viel Zeit, neigst du zudem zum Perfektionismus und verbringst viel Zeit mit dem Feinschliff, der wenig Mehrwert stiftet. Ambitionierte Deadlines unterstützen dich entsprechend dabei, dass du dich auf die wesentlichen Aspekte fokussierst, da keine Zeit für Perfektionismus ist.
+Das **Parkinsonsche Gesetz** stellt folgende These auf: ***Eine Aufgabe dehnt sich immer genauso weit aus, wie Zeit für sie zur Verfügung steht.*** Vereinfacht bedeutet das, je mehr Zeit du für eine Aufgabe hast, desto länger brauchst du für deren Bearbeitung. Hast du zu viel Zeit, neigst du zudem zum Perfektionismus und verbringst viel Zeit mit dem Feinschliff, der wenig Mehrwert stiftet. Ambitionierte Deadlines unterstützen dich entsprechend dabei, dass du dich auf die wesentlichen Aspekte fokussierst, da häufig keine Zeit für Perfektionismus ist.
 
 ### Nutze eine zentrale Aufgabenliste im Projekt und behalte den Überblick
 Halte vereinbarte Aufgaben in einer zentralen Aufgabenliste fest, auf die ihr mit den Projektbeteiligten regelmäßig schaut. So kannst du das Risiko minimieren, dass eine Aufgabe in Vergessenheit gerät. 
 
-Alternativ versende neue Aufgaben nach Meetings per E-Mail an die Beteiligten. Dies eignet sich aber mehr schlecht als recht zum Nachverfolgen von Aufgaben. Denn sind wir ehrlich: Wer will sich durch zig E-Mails wühlen, um Aufgaben zu tracken. Zudem managen die meisten Leute ihr E-Mail Postfach nur mangelhaft und finden E-Mails schlecht wieder. Falls in einem Termin allerdings Aufgaben an Verantwortliche adressiert werden, mit denen du nicht regelmäßig im Projekt arbeitest, ist dies wahrscheinlich die einzige Möglichkeit.
+Alternativ versende neue Aufgaben nach Meetings per E-Mail an die Beteiligten. Dies eignet sich aber mehr schlecht als recht zum Nachverfolgen von Aufgaben. Denn sind wir ehrlich: Niemand will sich durch zig E-Mails wühlen, um Aufgaben zu tracken. Zudem managen die meisten Leute ihr E-Mail Postfach nur mangelhaft und finden E-Mails ohnehin nur schlecht wieder. Falls in einem Termin allerdings Aufgaben an Verantwortliche adressiert werden, mit denen du nicht regelmäßig im Projekt arbeitest, ist die E-Mail Variante wahrscheinlich die einzige Möglichkeit.
 
 ***Du musst als Projektmanager:in den Überblick über die offenen Themen und Aufgaben im Projekt behalten.*** 
 
@@ -133,7 +133,7 @@ Es ist erstrebenswert möglichst wenig Work in Progress zu haben. Dies verringer
 Arbeite also nach dem Motto: ***Stop starting and start finishing.*** 
 
 ### Bearbeite Aufgaben mit einer Dauer <2 Minuten sofort
-Es gibt Aufgaben, die sind im Handumdrehen erledigt, die sie keinen großen Aufwand nach sich ziehen. Dies kann eine Termineinladung oder eine Nachfrage an eine Kollegin sein. Alles, was weniger als 2 Minuten dauert, solltest du direkt abarbeiten. Diese Aufgaben lohnen sich nicht in deine To Do Liste aufzunehmen und zu einzuplanen, da gemessen am Aufgabenumfang zu viel Management Overhead. Bearbeite sie sofort, wenn dies möglich ist.
+Es gibt Aufgaben, die sind im Handumdrehen erledigt, da sie keinen großen Aufwand nach sich ziehen. Dies kann eine Termineinladung oder eine Nachfrage an eine Kollegin sein. Alles, was weniger als 2 Minuten deiner Zeit in Anspruch nimmt, solltest du direkt abarbeiten. Diese Aufgaben lohnen sich nicht in deine To Do Liste aufzunehmen und einzuplanen, da gemessen am Aufgabenumfang zu viel Management Overhead entsteht. Bearbeite die Aufgabe am besten sofort, wenn dies möglich ist.
 
 ### Arbeite nach der 80/20-Regel (Pareto-Prinzip)
 Hast du das Parkinsonsche Gesetz verinnerlicht, hilft es dir nach dem **Pareto-Prinzip** zu agieren. Davon hört man im Berufskontext ständig und es ist dir sicherlich bereits ein Begriff. Es besagt, dass nur ***20 Prozent des Aufwands für 80 Prozent des angepeilten Ergebnisses notwendig sind***.
@@ -143,7 +143,7 @@ Das Ziel besteht nicht darin, den Aufwand zu minimieren, sondern sich auf einen 
 Überlege dir also genau, ob der Feinschliff für die letzten 20 Prozenzt noch notwendig ist oder du die Zeit lieber anderweitig investierst. Ich habe Manager:innen durchaus auch schon sagen hören: "Wenn deine Präsentationsfolien zu schön sind, hast du wahrscheinlich zu viel Zeit (darauf verwendet)."
 
 ### Richte dir Blocker für Fokuszeit ein
-Dieser Punkt knüpft an den vorherigen an. Ehe du dich versiehst, ist dein Kalender voll mit Terminen. Am Ende des Tages fragst du dich, was du eigentlich heute geschafft hast. Ist dies der Fall, kann es durchaus nützlich sein, wenn du dir Zeit in deinem Kalender blockierst. In dieser Zeit nimmst du keine Termine wahr, sondern arbeitest fokussiert deine Aufgaben ab. Nimm dir lieber größere Zeitblöcke für eine Aufgabe, als immer nur mal etwas Zeit zwischen zwei Terminen. 
+Ehe du dich versiehst, ist dein Kalender voll mit Terminen. Am Ende des Tages fragst du dich, was du eigentlich heute geschafft hast. Ist dies der Fall, kann es durchaus nützlich sein, wenn du dir Zeit in deinem Kalender blockierst. In dieser Zeit nimmst du keine Termine wahr, sondern arbeitest fokussiert deine Aufgaben ab. Nimm dir lieber größere Zeitblöcke für eine Aufgabe, als immer nur mal etwas Zeit zwischen zwei Terminen. 
 
 ***Je mehr du dich auf einzelne Aufgaben fokussieren kannst, umso schneller sind sie fertig und aus deinem Kopf.***
 
@@ -151,27 +151,27 @@ Dieser Punkt knüpft an den vorherigen an. Ehe du dich versiehst, ist dein Kalen
 Sicherlich hast auch du unangenehme Aufgaben, die du sehr lange vor dir herschiebst, obwohl du weißt, dass sie erledigt werden müssen. Hier hilft es, direkt am Morgen in den sauren Apfel zu beißen und getreu nach dem Motto "Augen zu und durch" einfach anzufangen. Es hilft, wenn du die Vorbereitung für diese Aufgabe bereits am Vortag erledigst. Nimm dir die ekligste, aber zielführendste Aufgabe vor und los!
 
 ### Etabliere Regeltermine oder plane mit Vorlauf
-Die spontane Terminfindung mit einer Gruppe von Personen stellt oftmals eine Herausforderung dar. So passiert es schnell, dass ein zeitnaher Termin benötigt wird, der nächste Termin mit allen aber erst in 2 Wochen möglich ist. Hier sehe ich zwei Möglichkeiten:
-1. Die Gruppe muss ohnehin häufiger zusammenkommen: In diesem Fall ist ein sich wiederholender Regeltermin sinnvoll.
+Die spontane Terminfindung mit einer Gruppe von Personen stellt oftmals eine Herausforderung dar. So passiert es schnell, dass ein zeitnaher Termin benötigt wird, der nächste Termin mit allen aber erst in frühestens 2 Wochen möglich ist. Hier sehe ich zwei Möglichkeiten:
+1. Die Gruppe muss ohnehin häufiger zusammenkommen: In diesem Fall ist ein sich fester Regeltermin in definierten Abständen sinnvoll.
 2. Die Teilnehmer:innen müssen einmalig zusammenkommen: Identifiziere die Notwendigkeit solcher Termine frühzeitig und plane sie mit Vorlauf.
 
 
 ## BPs Präsentation
 
 ### Erstelle dir Vorlagen für wiederkehrende Präsentationen
-Musst du eine Präsentation erstellen, sind die Inhalte meist schnell niedergeschrieben. Der aufwändige Part ist die visuelle Aufbereitung eben dieser Inhalte. Musst du regelmäßig Präsentationen für die gleiche Zielgruppe oder dem gleichen inhaltlichen Aufbau erstellen, hilft eine Vorlage. Dort musst du lediglich die Inhalte eintragen und kannst dich somit auf das Wesentliche fokussieren.
+Musst du eine Präsentation erstellen, sind die Inhalte meist schnell niedergeschrieben. Der aufwändige Part ist die visuelle Aufbereitung eben dieser Inhalte. Musst du regelmäßig Präsentationen für die gleiche Zielgruppe oder mit dem gleichen inhaltlichen Aufbau erstellen, hilft eine Vorlage. Dort musst du lediglich die Inhalte eintragen und kannst dich somit auf das Wesentliche fokussieren.
 
 ### Kopiere von deinen Kolleg:innen was das Zeug hält
 Präsentationen erstellen ist ein mühsames Unterfangen. Warum verwendest du also nicht bereits bestehende Folien wieder? Bestimmt gibt es zu fast jedem Thema bereits eine Präsentationsfolie im Unternehmen. Du musst es eben nur wissen oder wissen, wen du fragen kannst. Höre dich also erstmal um, bevor du bei Null startest. Nutze die Schwarmintelligenz! In der Regel freuen sich Kolleg:innen, wenn ihre Arbeit wertgeschätzt und weiterverwendet wird. Im besten Fall erstellt ihr sogar einen zentralen Präsentationspool und sortiert diesen nach Themengebieten.
 
 ### Investiere möglichst wenig Zeit in einmalige Präsentationen
-Ich versuche es mittlerweile zu vermeiden, für jegliche Termine Präsentationsfolien zu erstellen. Eine Präsentation ist kein sinnvolles Arbeitsmedium, sondern stets ein Mehraufwand. Es mag für gewisse Situationen angebracht sein, aber ich bevorzuge es stattdessen lieber meine Primärquellen zu nutzen, anstatt aus den darin enthaltenen Informationen eine Präsentation zu erstellen. Primärquellen können ein JIRA Dashboard, Confluence Seiten, ein Miro-Board oder andere Tools bzw. Medien sein.
+Ich versuche es mittlerweile zu vermeiden, für jegliche Termine Präsentationsfolien zu erstellen. Eine Präsentation ist kein sinnvolles Arbeitsmedium, sondern stets ein Mehraufwand. Es mag für gewisse Situationen angebracht sein, aber ich bevorzuge es stattdessen lieber meine Primärquellen zu nutzen, anstatt aus den darin enthaltenen Informationen eine Präsentation zu erzeugen. Primärquellen können ein JIRA Dashboard, Confluence Seiten, ein Miro-Board oder andere Tools bzw. Medien sein.
 
 Das Problem mit Präsentationen: Deren Inhalte sind kurze Zeit nach deren Vorstellung bereits wieder veraltet. Du aktualisierst eine Präsentation auch nicht automatisch, weil es eben nicht das Arbeitsmedium ist, in dem du die Projektinhalte dokumentierst und auf Stand hälst.
 
 
 ## Zusammenfassung und Fazit
-Ich habe in diesem Beitrag Best-Practices zu unterschiedlichen Themengebieten des Projektmanagements gesammelt.
+Ich habe in diesem Beitrag Best-Practices zu unterschiedlichen Themengebieten gesammelt, die in Verbindung mit Projektmanagement stehen, aber auch unabhängig davon betrachtet werden können.
 
 Einige der genannten Punkte klingen selbstverständlich. Als Projektmanager:in arbeitest du mit den verschiedensten Charakteren und weißt, dass jedes Projekt einzigartig ist und lange nicht alles selbstverständlich, was du initial angenommen hast.
 
