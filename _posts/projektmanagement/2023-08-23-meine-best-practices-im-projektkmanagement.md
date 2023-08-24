@@ -81,13 +81,25 @@ In der Anforderungserhebung mit Kunden passiert es schnell, dass man zwar die gl
 
 An dieser Stelle hilft es frühzeitig ein Bild zu zeichnen, das gemeinsam angeschaut werden kann. Ganz getreu dem Sprichtwort: "Ein Bild sagt mehr als 1.000 Worte." Das Bild ist quasi eine Wiederholung des bis hierhin Verstandenen. So kannst du dein Verständnis verifizieren lassen und sicherstellen, dass alle Beteiligten auf dem gleichen Stand sind. Zudem ist es auf diese Weise einfacher über den Sachverhalt zu sprechen.
 
-## Best-Practices für Aufgabenverwaltung
+## Best-Practices für Verwaltung von Aufgaben
+
+### Erstelle Aufgaben nach dem SMART-Prinzip
+Es ist wichtig, dass Aufgaben konkret formuliert sind, sodass diese richtig verstanden werden und das gewünschte Ergebnis erzielen. Für die Erstellung von Aufgaben kannst du dich an folgenden 5 Kritierien orientieren:
+
+* S: spezifisch - die Aufgabe soll klar verständlich sein
+* M: messbar - das Ergebnis soll bewertbar sein, um zu ermitteln, ob die Aufgabe erledigt ist
+* A: attraktiv - die Aufgabenstellung soll die verantwortliche Person motivieren
+* R: realistisch - das geforderte Resultat soll erbringbar sein
+* T: terminiert - die Bearbeitung soll eine zeitliches Ende gesetzt bekommen
 
 ### Bestimme eine verantwortliche Person für jede Aufgabe
 Wenn eine Aufgabe nicht an eine Person adressiert wird, fühlt sich niemand verantwortlich. Entsprechend wird die Aufgabe nicht bearbeitet. Das kann natürlich nicht das Ziel sein. Achte also darauf, wenn eine neue Aufgabe identifiziert wird, dass direkt eine verantwortliche Person festgelegt wird. Verantwortlich zu sein, muss nicht zwangsläufig bedeuten, dass man die Aufgabe selbst bearbeitet. Auf jeden Fall ist man aber dafür zuständig, dass die Bearbeitung vorangetrieben und die Aufgabe letztlich abgeschlossen wird.
 
 ### Definiere stets ein Fälligkeitsdatum für Aufgaben
 Aufgaben, die kein Fälligkeitsdatum haben, haben offensichtlich keine Dringlichkeit oder Wichtigkeit. Selbst wenn du nicht genau weißt, wann eine Aufgabe fertig werden soll, lege ein Datum fest. Zur Not wird dieses nochmal nach hinten verschoben. Zumindest wird auf diese Weise über die Aufgabe geredet. Falls ihr kein Fälligkeitsdatum oder eines weit in der Zukunft vergebt, heißt das höchstwahrscheinilch, dass die Aufgabe eine geringe Priorität oder Dringlichkeit hat. Diese Sachverhalt kann auch helfen, z.B. wenn Aufgaben priorisiert werden sollen.
+
+### Setze ambitionierte, aber schaffbare Deadlines für Aufgaben
+Das **Parkinsonsche Gesetz** stellt folgende These auf: ***Eine Aufgabe dehnt sich immer genauso weit aus, wie Zeit für sie zur Verfügung steht.*** Vereinfacht bedeutet das, je mehr Zeit du für eine Aufgabe hast, desto länger brauchst du für dessen Bearbeitung. Hast du zu viel Zeit, neigst du zudem zum Perfektionismus und verbringst viel Zeit mit dem Feinschliff, der wenig Mehrwert stiftet. Ambitionierte Deadlines unterstützen dich entsprechend dabei, dass du dich auf die wesentlichen Aspekte fokussierst, da keine Zeit für Perfektionismus ist.
 
 ### Nutze eine zentrale Aufgabenliste im Projekt und behalte den Überblick
 Halte vereinbarte Aufgaben in einer zentralen Aufgabenliste fest, auf die ihr mit den Projektbeteiligten regelmäßig schaut. So kannst du das Risiko minimieren, dass eine Aufgabe in Vergessenheit gerät. 
@@ -98,11 +110,17 @@ Alternativ versende neue Aufgaben nach Meetings per E-Mail an die Beteiligten. D
 
 Durch eine zentrale Aufgabenliste kann zudem niemand sagen, er hätte nicht von der Aufgabe gewusst. In der Regel versenden Projektmanagement-Tools sogar E-Mails an die verantwortliche Person beim Zuweisen und (spätestens) wenn die Aufgabe fällig ist.
 
+## Best-Practices für Abarbeitung von Aufgaben
 
-## Best-Practices für Arbeitsweise
+### Priorisiere regelmäßig deine Aufgaben für den Tag und die Woche
+Die agile Arbeitweise in Sprints soll dafür sorgen, dass man sich in einer Iteration auf einen festgelegten Satz an Aufgaben fokussieren und diese abarbeiten kann. Dies klappt für Softwareentwickelnde besser als für Projektleitende. Als Projektleitung kommen ständig neue Aufgaben auf dich zu, du musst Termine organisieren oder Klärungen und Problemlösungen herbeiführen. 
+
+Wie oben beschrieben, ist es wichtig, dass du dir alle Aufgaben notierst, damit nichts untergeht. Dies ist aber nur der erste Schritt. Im Anschluss ist es wichtig, dass du die Aufgaben priorisierst, damit du diese in einer sinnvollen Reihenfolge abarbeitest und in deinen Tages- bzw. Wochenablauf eintaktest.
+
+David Allen ist der Vater der Methode ***Getting Things Done***. Diese soll zu mehr Produktivität im Alltag verhelfen. Ich kann dir dazu den Blink über das Buch "Ich schaff das!" (engl. Making it all work!) von David Allen ans Herz legen. Ich verwende für mich eine etwas abgewandelte Form davon.Seitdem fühle ich mich deutlich weniger gestresst und habe einen guten Überblick meiner Aufgaben ohne Dinge zu vergessen.
 
 ### Breche größere Aufgaben in Teilaufgaben herunter
-Die Strategie nennt sich ***Salami-Taktik***. Ein ehemaliger Chef von mir hat immer gesagt: "Den Elefant in Scheiben schneiden." Der Vorteil ist, dass du so verdauliche Arbeitspakete schnürst, die du in deinen Arbeitsalltag integrieren kannst. So näherst du dich Stück für Stück dem Ziel. Auf diese Weise kann eine Aufgabe auch von mehreren Personen gleichzeitig bearbeitet werden.
+Die Strategie nennt sich ***Salami-Taktik***. Ein ehemaliger Chef von mir hat immer gesagt: "Den Elefant in Scheiben schneiden." Der Vorteil ist, dass du so verdauliche Arbeitspakete schnürst, die du in deinen Arbeitsalltag integrieren kannst. Es geht eben genau darum, sich nicht vom Gesamtumfang einer Aufgabe erschlagen zu lassen, sondern nur an den nächsten Schritt zu denken. So näherst du dich Stück für Stück dem Ziel. Auf diese Weise kann eine Aufgabe auch von mehreren Personen gleichzeitig bearbeitet werden.
 
 ### Schließe zuerst Aufgaben ab, bevor du neue beginnst
 Es bedarf immer etwas Vorbereitungszeit, um sich in eine Aufgabe einzuarbeiten oder eine bereits begonnen Aufgabe fortzuführen. Du musst dich auf den letzten Stand bringen und überlegen, wo du stehengeblieben bist. Je mehr Aufgaben du parallel bearbeitest, desto schwerer fällt es dir, den Überblick zu bewahren. Außerdem gerät schneller mal etwas in Vergessenheit, da der letzte Bearbeitungszyklus der Aufgabe eventuell schon länger zurückliegt. Zudem besteht das Risiko, dass sich die Bearbeitungsdauer erhöht und Deadlines nicht eingehalten werden können.
@@ -111,10 +129,23 @@ Es ist erstrebenswert möglichst wenig Work in Progress zu haben. Dies verringer
 
 Arbeite also nach dem Motto: ***Stop starting and start finishing.*** 
 
+### Bearbeite Aufgaben mit einer Dauer <2min sofort
+Es gibt Aufgaben, die sind im Handumdrehen erledigt, die sie keinen großen Aufwand nach sich ziehen. Dies kann eine Termineinladung oder eine Nachfrage an eine Kollegin sein. Alles, was weniger als 2 Minuten dauert, solltest du direkt abarbeiten. Diese Aufgaben lohnen sich nicht in deine To Do Liste aufzunehmen und zu einzuplanen, da gemessen am Aufgabenumfang zu viel Management Overhead. Bearbeite sie sofort, wenn dies möglich ist.
+
+### Arbeite nach der 80/20-Regel (Pareto-Prinzip)
+Hast du das Parkinsonsche Gesetz verinnerlicht, hilft es dir nach dem **Pareto-Prinzip** zu agieren. Davon hört man im Berufskontext ständig und es ist dir sicherlich bereits ein Begriff. Es besagt, dass nur ***20 Prozent des Aufwands für 80 Prozent des angepeilten Ergebnisses notwendig sind***.
+
+Das Ziel besteht nicht darin, den Aufwand zu minimieren, sondern sich auf einen bestimmten Teil der Arbeit zu konzentrieren, um eine größere Wirkung zu erzielen. Um 80 Prozent der Ergebnisse zu erzielen, müssen Sie immer noch 100 % Ihres Einsatzes in diese 20 Prozent der Arbeit stecken. Der Nutzen des Pareto-Prinzips besteht darin, sich auf die Aufgaben zu konzentrieren, die den größten Einfluss haben. Hierdurch können Produktivität und Effizienz gesteigert werden. 
+
+Überlege dir also genau, ob der Feinschliff für die letzten 20 Prozenzt noch notwendig ist oder du die Zeit lieber anderweitig investierst. Ich habe Manager:innen durchaus auch schon sagen hören: "Wenn deine Präsentationsfolien zu schön sind, hast du wahrscheinlich zu viel Zeit (darauf verwendet)."
+
 ### Richte dir Blocker für Fokuszeit ein
 Dieser Punkt knüpft an den vorherigen an. Ehe du dich versiehst, ist dein Kalender voll mit Terminen. Am Ende des Tages fragst du dich, was du eigentlich heute geschafft hast. Ist dies der Fall, kann es durchaus nützlich sein, wenn du dir Zeit in deinem Kalender blockierst. In dieser Zeit nimmst du keine Termine wahr, sondern arbeitest fokussiert deine Aufgaben ab. Nimm dir lieber größere Zeitblöcke für eine Aufgabe, als immer nur mal etwas Zeit zwischen zwei Terminen. 
 
 ***Je mehr du dich auf einzelne Aufgaben fokussieren kannst, umso schneller sind sie fertig und aus deinem Kopf.***
+
+### Erledige die unangenehmste Aufgabe direkt am Morgen ("Eat the frog"-Methode)
+Sicherlich hast auch du unangenehme Aufgaben, die du sehr lange vor dir herschiebst, obwohl du weißt, dass sie erledigt werden müssen. Hier hilft es, direkt am Morgen in den sauren Apfel zu beißen und getreu nach dem Motto "Augen zu und durch" einfach anzufangen. Es hilft, wenn du die Vorbereitung für diese Aufgabe bereits am Vortag erledigst. Nimm dir die ekligste, aber zielführendste Aufgabe vor und los!
 
 ### Etabliere Regeltermine oder plane mit Vorlauf
 Die spontane Terminfindung mit einer Gruppe von Personen stellt oftmals eine Herausforderung dar. So passiert es schnell, dass ein zeitnaher Termin benötigt wird, der nächste Termin mit allen aber erst in 2 Wochen möglich ist. Hier sehe ich zwei Möglichkeiten:
@@ -146,6 +177,10 @@ Ich musste meine Best-Practices teilweise erst durch Schmerz erlernen, während 
 Diese Best-Practice-Sammlung soll eine Gedächtnisstütze sein und dir als auch mir in Projekten helfen. Ich werde die Liste deshalb kontinuierlich erweitern. Darüber hinaus möchte ich demnächst einen Beitrag als Leitfaden für digitale Kommunikation verfassen, der weitere Tipps für den Arbeitsalltag enthält.
 
 ## Quellen
+1. ![Website](/assets/img/book_888888.png){: w="14" } [David Allen Company: Getting Things Done](https://gettingthingsdone.com) (abgerufen am 24.08.2023)
+2. ![Podcast](/assets/img/podcast_888888.png){: w="14" } [David Allen: Ich schaff das!](https://www.blinkist.com/en/books/ich-schaff-das-de?utm_source=bk_ios&utm_medium=bk_referral&utm_campaign=book%253Acover&utm_content=534d5a016633610007a30000&referral_token=9aba99f41334)
+3. ![Podcast](/assets/img/podcast_888888.png){: w="14" } [Tim Reichel: 24/7-Zeitmanagment](https://www.blinkist.com/en/books/24-slash-7-zeitmanagement-de?utm_source=bk_ios&utm_medium=bk_referral&utm_campaign=book%253Alibrary&utm_content=60941d3a6cee070007c96a59&referral_token=9aba99f41334)
+4. ![Website](/assets/img/book_888888.png){: w="14" } [Der Prozessmanager: Pareto-Prinzip: Die 80/20-Regel verstehen und anwenden!](https://der-prozessmanager.de/aktuell/wissensdatenbank/pareto-prinzip) (abgerufen am 24.08.2023)
 
 Bildverweise:
 1. Foto von [Riccardo Annandale](https://unsplash.com/de/@pavement_special) auf [Unsplash](https://unsplash.com/de/fotos/7e2pe9wjL9M)
