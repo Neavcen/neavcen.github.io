@@ -21,14 +21,14 @@ Als Projektmanager habe ich verschiedenste Disziplinen in meinem Aufgabenbereich
 
 Im Projekt raubt mir nichts mehr Motivation, als Ineffizienz durch unnötige Aufwände. Ich frage mich an solchen Stellen, ob ich das richtige Medium zur Bearbeitung einer Aufgabe gewählt habe bzw. ob es keinen einfacheren Weg gibt. Aus diesem Grund bin ich stets auf der Suche nach smarten Lösungen für alle möglichen Bereiche des Projektmanagements.
 
-Ich möchte dir nachfolgend eine Übersicht meiner Best-Practices geben. Diese habe ich nach folgenden Kategorien unterteit:
+Ich möchte dir nachfolgend eine Übersicht meiner Best-Practices (BPs) geben. Diese habe ich nach folgenden Kategorien unterteit:
 1. Dokumentation
 2. Aufgabenverwaltung
 3. Arbeitsweise
 4. Präsentation
 
 
-## Best Practices für Dokumentation
+## BPs Dokumentation
 
 ### Lege Dokumentationsort und -art fest
 Als Projektmanager:in hat man die Aufgabe das Projekt zusammenzuhalten. Dazu zählt auch die Projektstruktur und die Dokumentation innerhalb des Projekts. Deshalb empfiehlt es sich direkt zu Beginn ein paar Richtlinien festzulegen, damit erst gar kein Wildwuchs entsteht (oder sind wir realistisch: möglichst wenig Wildwuchs).
@@ -81,7 +81,7 @@ In der Anforderungserhebung mit Kunden passiert es schnell, dass man zwar die gl
 
 An dieser Stelle hilft es frühzeitig ein Bild zu zeichnen, das gemeinsam angeschaut werden kann. Ganz getreu dem Sprichtwort: "Ein Bild sagt mehr als 1.000 Worte." Das Bild ist quasi eine Wiederholung des bis hierhin Verstandenen. So kannst du dein Verständnis verifizieren lassen und sicherstellen, dass alle Beteiligten auf dem gleichen Stand sind. Zudem ist es auf diese Weise einfacher über den Sachverhalt zu sprechen.
 
-## Best-Practices für Verwaltung von Aufgaben
+## BPs Aufgabenverwaltung
 
 ### Erstelle Aufgaben nach dem SMART-Prinzip
 Es ist wichtig, dass Aufgaben konkret formuliert sind, sodass diese richtig verstanden werden und das gewünschte Ergebnis erzielen. Für die Erstellung von Aufgaben kannst du dich an folgenden 5 Kritierien orientieren:
@@ -110,7 +110,7 @@ Alternativ versende neue Aufgaben nach Meetings per E-Mail an die Beteiligten. D
 
 Durch eine zentrale Aufgabenliste kann zudem niemand sagen, er hätte nicht von der Aufgabe gewusst. In der Regel versenden Projektmanagement-Tools sogar E-Mails an die verantwortliche Person beim Zuweisen und (spätestens) wenn die Aufgabe fällig ist.
 
-## Best-Practices für Abarbeitung von Aufgaben
+## BPs Aufgabenbearbeitung
 
 ### Priorisiere regelmäßig deine Aufgaben für den Tag und die Woche
 Die agile Arbeitweise in Sprints soll dafür sorgen, dass man sich in einer Iteration auf einen festgelegten Satz an Aufgaben fokussieren und diese abarbeiten kann. Dies klappt für Softwareentwickelnde besser als für Projektleitende. Als Projektleitung kommen ständig neue Aufgaben auf dich zu, du musst Termine organisieren oder Klärungen und Problemlösungen herbeiführen. 
@@ -153,7 +153,7 @@ Die spontane Terminfindung mit einer Gruppe von Personen stellt oftmals eine Her
 2. Die Teilnehmer:innen müssen einmalig zusammenkommen: Identifiziere die Notwendigkeit solcher Termine frühzeitig und plane sie mit Vorlauf.
 
 
-## Best-Practices für Präsentation
+## BPs Präsentation
 
 ### Erstelle dir Vorlagen für wiederkehrende Präsentationen
 Musst du eine Präsentation erstellen, sind die Inhalte meist schnell niedergeschrieben. Der aufwändige Part ist die visuelle Aufbereitung eben dieser Inhalte. Musst du regelmäßig Präsentationen für die gleiche Zielgruppe oder dem gleichen inhaltlichen Aufbau erstellen, hilft eine Vorlage. Dort musst du lediglich die Inhalte eintragen und kannst dich somit auf das Wesentliche fokussieren.
