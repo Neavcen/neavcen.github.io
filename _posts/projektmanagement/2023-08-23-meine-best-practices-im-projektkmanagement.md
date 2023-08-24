@@ -24,8 +24,11 @@ Im Projekt raubt mir nichts mehr Motivation, als Ineffizienz durch unnötige Auf
 Ich möchte dir nachfolgend eine Übersicht meiner Best-Practices (BPs) geben. Diese habe ich nach folgenden Kategorien unterteit:
 1. Dokumentation
 2. Aufgabenverwaltung
-3. Arbeitsweise
+3. Aufgabenbearbeitung
 4. Präsentation
+
+> Auch wenn du nicht im Projektmanagment tätig bist, kannst du trotzdem viele wertvolle Tipps für dich und deinen Arbeitsalltag mitnehmen.
+{: .prompt-info }
 
 
 ## BPs Dokumentation
@@ -117,19 +120,19 @@ Die agile Arbeitweise in Sprints soll dafür sorgen, dass man sich in einer Iter
 
 Wie oben beschrieben, ist es wichtig, dass du dir alle Aufgaben notierst, damit nichts untergeht. Dies ist aber nur der erste Schritt. Im Anschluss ist es wichtig, dass du die Aufgaben priorisierst, damit du diese in einer sinnvollen Reihenfolge abarbeitest und in deinen Tages- bzw. Wochenablauf eintaktest.
 
-David Allen ist der Vater der Methode ***Getting Things Done***. Diese soll zu mehr Produktivität im Alltag verhelfen. Ich kann dir dazu den Blink über das Buch "Ich schaff das!" (engl. Making it all work!) von David Allen ans Herz legen. Ich verwende für mich eine etwas abgewandelte Form davon.Seitdem fühle ich mich deutlich weniger gestresst und habe einen guten Überblick meiner Aufgaben ohne Dinge zu vergessen.
+David Allen ist der Vater der Methode ***Getting Things Done***. Diese soll zu mehr Produktivität im Alltag verhelfen. Ich kann dir dazu den Blink über das Buch "Ich schaff das!" (engl. Making it all work!) von David Allen ans Herz legen. Ich verwende für mich eine etwas abgewandelte Form davon. Seitdem fühle ich mich deutlich weniger gestresst und habe einen guten Überblick meiner Aufgaben ohne Dinge zu vergessen.
 
 ### Breche größere Aufgaben in Teilaufgaben herunter
 Die Strategie nennt sich ***Salami-Taktik***. Ein ehemaliger Chef von mir hat immer gesagt: "Den Elefant in Scheiben schneiden." Der Vorteil ist, dass du so verdauliche Arbeitspakete schnürst, die du in deinen Arbeitsalltag integrieren kannst. Es geht eben genau darum, sich nicht vom Gesamtumfang einer Aufgabe erschlagen zu lassen, sondern nur an den nächsten Schritt zu denken. So näherst du dich Stück für Stück dem Ziel. Auf diese Weise kann eine Aufgabe auch von mehreren Personen gleichzeitig bearbeitet werden.
 
-### Schließe zuerst Aufgaben ab, bevor du neue beginnst
-Es bedarf immer etwas Vorbereitungszeit, um sich in eine Aufgabe einzuarbeiten oder eine bereits begonnen Aufgabe fortzuführen. Du musst dich auf den letzten Stand bringen und überlegen, wo du stehengeblieben bist. Je mehr Aufgaben du parallel bearbeitest, desto schwerer fällt es dir, den Überblick zu bewahren. Außerdem gerät schneller mal etwas in Vergessenheit, da der letzte Bearbeitungszyklus der Aufgabe eventuell schon länger zurückliegt. Zudem besteht das Risiko, dass sich die Bearbeitungsdauer erhöht und Deadlines nicht eingehalten werden können.
+### Schließe bestehende Aufgaben ab, bevor du neue beginnst
+Es bedarf immer etwas Vorbereitungszeit, um sich in eine Aufgabe einzuarbeiten oder eine bereits begonnene Aufgabe fortzuführen. Du musst dich auf den letzten Stand bringen und überlegen, wo du stehengeblieben bist. Je mehr Aufgaben du parallel bearbeitest, desto schwerer fällt es dir, den Überblick zu bewahren. Außerdem gerät schneller mal etwas in Vergessenheit, da der letzte Bearbeitungszyklus der Aufgabe eventuell schon länger zurückliegt. Zudem besteht das Risiko, dass sich die Bearbeitungsdauer erhöht und Deadlines nicht eingehalten werden können.
 
 Es ist erstrebenswert möglichst wenig Work in Progress zu haben. Dies verringert deinen Mental Load. Kolleg:innen freuen sich zudem, wenn du die gesetzten Deadlines nicht bis zum Schluss ausreizt, sondern schon früher fertig bist.
 
 Arbeite also nach dem Motto: ***Stop starting and start finishing.*** 
 
-### Bearbeite Aufgaben mit einer Dauer <2min sofort
+### Bearbeite Aufgaben mit einer Dauer <2 Minuten sofort
 Es gibt Aufgaben, die sind im Handumdrehen erledigt, die sie keinen großen Aufwand nach sich ziehen. Dies kann eine Termineinladung oder eine Nachfrage an eine Kollegin sein. Alles, was weniger als 2 Minuten dauert, solltest du direkt abarbeiten. Diese Aufgaben lohnen sich nicht in deine To Do Liste aufzunehmen und zu einzuplanen, da gemessen am Aufgabenumfang zu viel Management Overhead. Bearbeite sie sofort, wenn dies möglich ist.
 
 ### Arbeite nach der 80/20-Regel (Pareto-Prinzip)
