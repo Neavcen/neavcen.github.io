@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alles rund ums Balkonkraftwerk
+title: Alles, was du zum Thema Balkonkraftwerk wissen musst
 description: Ich beschäftige mich mit folgenden Fragen... Was ist ein Balkonkraftwerk?
   Aus welchen Komponenten besteht es? Was gibt es zu beachten? Kann auch ich ein Balkonkraftwerk
   betreiben?
