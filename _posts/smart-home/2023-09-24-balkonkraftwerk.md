@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Balkonkraftwerk - Alles, was du zum Thema wissen musst
+title: "Balkonkraftwerk: Alles, was du wissen musst"
 description: Ich beschäftige mich mit folgenden Fragen... Was ist ein Balkonkraftwerk?
   Aus welchen Komponenten besteht es? Was gibt es zu beachten? Kann auch ich ein Balkonkraftwerk
   betreiben?
-image:
+image: 
+  path: "/assets/smart-home/balkonkraftwerk-titelbild.jpeg"
+  alt: Foto von Robert Poorten auf Adobe Stock
 categories:
 - Smart Home
 tags:
 - Balkonkraftwerk
 - Photovoltaik
 - Smart Home
-date: 2023-09-24 18:27 +0200
+date: 2023-09-24 21:34 +0200
 ---
 ## Motivation
 Durch meine Faszination für Smart Home Komponenten bin ich zwangsläufig am Thema Balkonkraftwerk vorbeigekommen. Da ich Home Assistant einsetze, möchte ich natürlich auch die schöne Visualisierung für Einspeisung und Verbräuche nutzen.
@@ -60,7 +62,7 @@ Elektrischer Strom entsteht, wenn eine Spannung bzw. Potenzialdifferenz vorliegt
 ### Reihenschaltung 
 Bei einer Reihenschaltung werden elektrische Komponenten (z.B. Lampen) hintereinander geschaltet (s. Abbildung). Das bedeutet, dass alle Komponenten in einem einzigen Stromkreis arbeiten.
 
-![Reihenschaltung](/assets/smart-home/elektrische-schaltung_reihe.pdf){: width="400"}
+![Reihenschaltung](/assets/smart-home/elektrische-schaltung_reihe.pdf){: width="300"}
 _Abbildung: Schematische Darstellung einer Reihenschaltung (Quelle: beleuchtungdirekt.de)_
 
 Folgende **Eigenschaften** gelten für eine Reihenschaltung:
@@ -82,7 +84,7 @@ Die Spannung der elektrischen Quelle teilt sich auf die Komponenten im Stromkrei
 ### Parallelschaltung
 Bei einer Parallelschaltung werden zwei oder mehr zweipolige Bauteile (+/-) miteinander verbunden (s. Abbildung). Dabei ist es wichtig, dass die gleichnamigen Pole immer miteinander verbunden werden. Jede parallel geschaltete Lampe verfügt über einen eigenen Stromkreis. Die Einzelströme addieren sich zu einem Gesamtstrom. Die elektrische Spannung ist für jede angeschlossene Lampe identisch. Das bedeutet auch, dass bei einem Ausfall eines Leuchtmittels, nicht automatisch alle anderen ebenfalls ausfallen. Die intakten Verbraucher leuchten also weiterhin.
 
-![Parallelschaltung](/assets/smart-home/elektrische-schaltung_parallel.pdf){: width="400"}
+![Parallelschaltung](/assets/smart-home/elektrische-schaltung_parallel.pdf){: width="300"}
 _Abbildung: Schematische Darstellung einer Parallelschaltung (Quelle: beleuchtungdirekt.de)_
 
 Folgende **Eigenschaften** gelten für eine Parallelschaltung:
@@ -264,6 +266,7 @@ Es gibt verschiedene Aufstellungsarten für Balkonkraftwerke, die jeweils eine u
 2. Ziegeldach
 3. Balkongeländer
 
+Willst Du ein Balkonkraftwerk höher als 4 Meter über dem Boden anbringen, brauchst Du ein Modul ohne Verglasung. Kunststoff-Modelle ohne Verglasung sind deutlich leichter, teilweise sogar flexibel und meist etwas teurer. Du kannst sie einfacher montieren und musst Dir keine Sorgen wegen der Vorschriften machen. 
 
 ### Optional: Data Transfer Unit (DTU)
 Die Datenübertragungseinheit (engl.: Data Transfer Unit, DTU) dient, wie der Name bereits suggeriert, der Übertragung von Informationen des Wechselrichters. Mithilfe der DTU lassen sich Betriebs- und Leistungsdaten auslesen, Einstellungen verwalten oder auch Fehler analysieren. Bei Hoymiles Wechselrichtern lässt sich mittels DTU zudem die maximale Ausgangsleistung auf die regionale Leistungslimitation für Balkonkraftwerke drosseln.
@@ -296,32 +299,32 @@ In folgendem Artikel findest du [weitere Infos zur Anmeldung](https://www.homean
 ## Was gibt es zu beachten?
 Um die Regularien für den Betrieb eines Balkonkraftwerk einzuhalten, gibt es einige Punkte zu beachten. Diese möchte dir nachfolgend erläutern.
 
-**Systemgesamtleistungsgrenze**
+**Systemgesamtleistungsgrenze**  
 Beim Kauf eines Balkonkraftwerks ist grundsätzlich die Nennleistung des Wechselrichters ausschlaggebend, weil dieser die Einspeisung des Balkonkraftwerks beschränkt. Die bisher zulässige Maximalleistung für Balkonkraftwerke liegt in Deutschland bei 600 W (DIN VDE V 0126-95:2022-11). Diese wird perspektivisch auf 800 W im Jahr 2024 erhöht, wie es bereits der europäische Standard ist (EU Verordnung 2016/631). 
 
-**Peakleistung der Solarmodule**
+**Peakleistung der Solarmodule**  
 Bisher gbit es keine Beschränkung für die installierte Gesamtleistung der Solarmodule bei Balkonkraftwerken. Die Solarmodule selbst können entsprechend eine höhere Maximalleistung aufweisen, z. B. 1200 Watt, als die zulässige Ausgangsleistung des Wechselrichters. Dies kann sinnvoll sein, um bei geringerer Sonneneinstrahlung trotzdem eine hohe Einspeiseleistung zu erzielen. In 2024 soll voraussichtlich die installierte Modulleistung auf 2.000 Wp für BKW beschränkt werden.
 
-**Gefahr von Kabelbrand durch zu hohe Ströme**
+**Gefahr von Kabelbrand durch zu hohe Ströme**  
 In deutschen Haushalten werden normalerweise Sicherungen eingesetzt, die Ströme von 16 A zulassen. Damit wird der Betrieb von Verbrauchern mit maximal 3.680 Watt Leistungsabnahme abgesichert (230 V * 16 A).
 
 Bei einem Balkonkraftwerk können nun weitere 600 Watt Leistungsabnahme dazu kommen. Diese werden nicht durch den Sicherungsautomaten begrenzt, da der Strom direkt über die Steckdose ins Hausnetz einspeist wird. Erreicht das Balkonkraftwerk seinen Maximalertrag von 600 W und sind zudem 4.280 Watt (3.680 W + 600 W) Leistungsabnehmer eingeschaltet, würden 18,6 A (4.280 W / 230 V) im Hausnetz fließen, ohne dass die Sicherung greift. 
 
 Für moderne, normkonforme Elektroinstallationen ist das nicht ausreichend, um einen Kabelbrand zu verursachen. Lediglich bei einer veralteten Elektroinstallation sollte die Absicherung auf 13 A reduziert werden, um das Brandrisiko zu minimieren. Bei maximaler Einspeisung des Balkonkraftwerks würden 13 A + 2,6 A = 15,6 A im Hausnetz fließen, was die Elektroleitungen bedenkenlos aushalten. Bestenfalls kannst du das Balkonkraftwerk an einen eigenen Stromskreis oder einen Stromkreis mit Verbrauchern mit niedriger Leistungsaufnahme anschließen, damit das Risiko zu hoher Strömeflüsse gar nicht erst aufkommt.
 
-**Anschluss ans Hausnetz**
+**Anschluss ans Hausnetz**  
 Für den Anschluss des Balkonkraftwerks an das Hausnetz wird vom Verband der Elektrotechnik, Elektronik, Informationstechnik e. V. (kurz: VDE) eine Wieland Einspeisesteckdose empfohlen (DIN VDE V 0100-551-1). Diese muss durch eine Elektrofachkraft eingebaut werden. Sie bietet höhere Sicherheit gegenüber der herkömmlichen Schutzkontaktsteckdose (SchuKo). Der Anschluss an einer SchuKo-Steckdose soll aber durch den VDE geduldet und zukünftig ebenfalls offiziell akzeptiert werden.
 
-**Anmeldung des Balkonkraftwerks notwendig**
+**Anmeldung des Balkonkraftwerks notwendig**  
 Der Netzbetreiber ist für die Netzsicherheit verantwortlich. Haushalte, die Strom in das öffentliche Netz einspeisen, können nicht durch den Netzbetreiber reguliert werden und stellen somit Störeinflüsse dar. Der Netzbetreiber muss über den eingespeisten Strom und die entsprechende Leistung Bescheid wissen, um die Netzsicherheit zu gewährleisten. Wer ein Balkonkraftwerk betreibt, ohne es anzumelden und im Markstammdatenregister einzutragen, riskiert eine Strafe. Dem Netzbetreiber muss vor der Inbetriebnahme des Balkonkraftwerks mit der Anmeldung dessen ein Vorlauf von 2 Wochen gewährt werden, um ggf. den bestehenden Stromzähler zu tauschen.
 
-**Austausch von alten Stromzählern notwendig**
+**Austausch von alten Stromzählern notwendig**  
 Besitzt du in deinem Haushalt noch einen Einrichtungs-Stromzähler, der keine Rücklaufsperre besitzt, dreht sich dieser rückwärts, sofern überschüssiger Strom in das Stromnetz eingespeist wird. Dies ist unzulässig und deshalb tauscht dein Netzbetreiber nach Anmeldung deines Balkonkraftwerks kostenlos den bisherigen Zähler gegen einen Einrichtungs-Stromzähler mit Rücklaufsperre oder einen Zweirichtungszähler.
 
-**Eingespeister Strom wird nicht vergütet**
+**Eingespeister Strom wird nicht vergütet**  
 Für den Strom, der durch dein Balkonkraftwerk erzeugt und ins öffentliche Stromnetz eingespeist wird, bekommst du keine Vergütung durch den Netzbetreiber. Entsprechend ist es nicht lukrativ, viele Module anzuschaffen, wenn du den erzeugten Strom überhaupt nicht selbst verbrauchen kannst. 
 
-**Genehmigung von Vermieter oder Eigentümergemeinschaft notwendig**
+**Genehmigung von Vermieter oder Eigentümergemeinschaft notwendig**  
 Falls du zur Miete wohnst, solltest du dir die Genehmigung deiner Vermieterin bzw. deines Vermieters einholen. Bist du Eigentümer:in einer Wohnung und es gibt eine Eigentümergemeinschaft, musst du auch dort eine Genehmigung einholen, da es beim Aufbau eines Balkonkraftwerks um eine Veränderung der Fassade geht.
 
 
@@ -336,25 +339,30 @@ Falls du die Option hast ein Balkonkraftwerk zu betreiben, kann ich dir dies wä
 
 ## Quellen
 
-Websites:
-1. ![Website](/assets/img/book_888888.png){: w="14" } [Home and Smart: Hoymiles DTU Stick – Was kann er? (abgerufen am 03.09.2023)](https://www.homeandsmart.de/hoymiles-dtu)
-2. ![Website](/assets/img/book_888888.png){: w="14" } [Bundesnetzagentur: Marktstammdatenregister](https://www.marktstammdatenregister.de/MaStR/)
-5. ![Website](/assets/img/book_888888.png){: w="14" } [VDE: VDE schlägt einfachere Regeln für Balkonkraftwerke vor (Stand: 11.01.2023)](https://www.vde.com/de/presse/pressemitteilungen/2023-01-11-mini-pv)
-6. ![Website](/assets/img/book_888888.png){: w="14" } [Haustec: Mino-PV: So werden Mikrowechselrichter richtig geplant (abgerufen am: 04.09.2023)](https://www.haustec.de/energie/wechselrichter/so-werden-mikrowechselrichter-richtig-geplant)
-7. ![Website](/assets/img/book_888888.png){: w="14" } [Priwatt: Wechselrichter-Photovoltaik-Funktion: So arbeitet Dein Mikro-Wechselrichter (abgerufen am: 04.09.2023)](https://priwatt.de/blog/wie-funktioniert-ein-mikrowechselrichter/)
-8. ![Website](/assets/img/book_888888.png){: w="14" } [Solar-Ratgeber: Wechselrichter auswählen: Qualität, Preise und Hersteller im Vergleich (abgerufen am: 05.09.2023)](https://solar-ratgeber.ch/solaranlage/vergleich-test/wechselrichter-auswaehlen/)
-9. ![Website](/assets/img/book_888888.png){: w="14" } [PV-Insel: Welcher Wechselrichter passt zum Solarmodul meines Balkonkraftwerks? (abgerufen am: 05.09.2023)](https://pv-insel.de/pages/welcher-wechselrichter-passt-zum-solarmodul-meines-balkonkraftwerks)
-10. ![Website](/assets/img/book_888888.png){: w="14" } [Energie-Experten: Einflussfaktoren auf die Leistung von Solarmodulen (abgerufen am: 05.09.2023)](https://www.energie-experten.org/erneuerbare-energien/photovoltaik/solarmodule/leistung)
-11. ![Website](/assets/img/book_888888.png){: w="14" } [Photovoltiac Geographical Information System (PVGIS)](https://re.jrc.ec.europa.eu/pvg_tools/en/)
-12. ![Website](/assets/img/book_888888.png){: w="14" } [Grünes Haus: Solarpanel-Leistung: darauf sollten Sie achten in 2023 (abgerufen am: 05.09.2023)](https://gruenes.haus/solarmodul-leistung/)
-13. ![Website](/assets/img/book_888888.png){: w="14" } [The Greenwatt: STC vs NOCT: Understanding Test Conditions For Solar Panels (abgerufen am: 05.09.2023)](https://thegreenwatt.com/stc-vs-noct/)
-14. ![Website](/assets/img/book_888888.png){: w="14" } [Solarwatt: Photovoltaik Ausrichtung (abgerufen am: 07.09.2023)](https://www.solarwatt.de/ratgeber/photovoltaik-ausrichtung)
-15. ![Website](/assets/img/book_888888.png){: w="14" } [Grünes Haus: Solarmodule parallel schalten: Vor- und Nachteile der Parallelschaltung (abgerufen am: 07.09.2023)](https://gruenes.haus/solarmodule-parallel-schalten)
-16. ![Website](/assets/img/book_888888.png){: w="14" } [Solarserver: Photovoltaik – Von der Solarzelle zum Modul (abgerufen am: 07.09.2023)](https://www.solarserver.de/wissen/basiswissen/photovoltaik-typen-und-eigenschaften-von-solarzellen)
-17. ![Website](/assets/img/book_888888.png){: w="14" } [Enercity: Was ist elektrische Spannung und Stromstärke? (abgerufen am: 07.09.2023)](https://www.enercity.de/magazin/unsere-welt/stromspannung-stromstaerke-leistung-unterschied#)
-18. ![Website](/assets/img/book_888888.png){: w="14" } [Simpleclup: Reihen- & Parallelschaltung (abgerufen am: 07.09.2023)](https://simpleclub.com/lessons/physik-reihen-parallelschaltung)
+**Generelles:**
+1. ![Website](/assets/img/book_888888.png){: w="14" } [Bundesnetzagentur: Marktstammdatenregister](https://www.marktstammdatenregister.de/MaStR/)
+2. ![Website](/assets/img/book_888888.png){: w="14" } [VDE: VDE schlägt einfachere Regeln für Balkonkraftwerke vor (Stand: 11.01.2023)](https://www.vde.com/de/presse/pressemitteilungen/2023-01-11-mini-pv)
+3. ![Website](/assets/img/book_888888.png){: w="14" } [Enercity: Was ist elektrische Spannung und Stromstärke? (abgerufen am: 07.09.2023)](https://www.enercity.de/magazin/unsere-welt/stromspannung-stromstaerke-leistung-unterschied#)
+4.  ![Website](/assets/img/book_888888.png){: w="14" } [Simpleclup: Reihen- & Parallelschaltung (abgerufen am: 07.09.2023)](https://simpleclub.com/lessons/physik-reihen-parallelschaltung)
 
-Datenblätter:
+**PV-Modul:**
+1. ![Website](/assets/img/book_888888.png){: w="14" } [Energie-Experten: Einflussfaktoren auf die Leistung von Solarmodulen (abgerufen am: 05.09.2023)](https://www.energie-experten.org/erneuerbare-energien/photovoltaik/solarmodule/leistung)
+2. ![Website](/assets/img/book_888888.png){: w="14" } [Photovoltiac Geographical Information System (PVGIS)](https://re.jrc.ec.europa.eu/pvg_tools/en/)
+3. ![Website](/assets/img/book_888888.png){: w="14" } [Grünes Haus: Solarpanel-Leistung: darauf sollten Sie achten in 2023 (abgerufen am: 05.09.2023)](https://gruenes.haus/solarmodul-leistung/)
+4.  ![Website](/assets/img/book_888888.png){: w="14" } [The Greenwatt: STC vs NOCT: Understanding Test Conditions For Solar Panels (abgerufen am: 05.09.2023)](https://thegreenwatt.com/stc-vs-noct/)
+5.  ![Website](/assets/img/book_888888.png){: w="14" } [Solarwatt: Photovoltaik Ausrichtung (abgerufen am: 07.09.2023)](https://www.solarwatt.de/ratgeber/photovoltaik-ausrichtung)
+6.  ![Website](/assets/img/book_888888.png){: w="14" } [Grünes Haus: Solarmodule parallel schalten: Vor- und Nachteile der Parallelschaltung (abgerufen am: 07.09.2023)](https://gruenes.haus/solarmodule-parallel-schalten)
+7.  ![Website](/assets/img/book_888888.png){: w="14" } [Solarserver: Photovoltaik – Von der Solarzelle zum Modul (abgerufen am: 07.09.2023)](https://www.solarserver.de/wissen/basiswissen/photovoltaik-typen-und-eigenschaften-von-solarzellen)
+8.  ![Website](/assets/img/book_888888.png){: w="14" } [Finanztip: Balkonkraftwerk: Was Du ab 4 Metern unbedingt beachten musst (abgerufen am: 22.09.2023)](https://www.finanztip.de/blog/balkonkraftwerk-was-du-ab-4-metern-unbedingt-beachten-musst/)
+
+**Wechselrichter:**
+1. ![Website](/assets/img/book_888888.png){: w="14" } [Home and Smart: Hoymiles DTU Stick – Was kann er? (abgerufen am 03.09.2023)](https://www.homeandsmart.de/hoymiles-dtu)
+2. ![Website](/assets/img/book_888888.png){: w="14" } [Haustec: Mino-PV: So werden Mikrowechselrichter richtig geplant (abgerufen am: 04.09.2023)](https://www.haustec.de/energie/wechselrichter/so-werden-mikrowechselrichter-richtig-geplant)
+3. ![Website](/assets/img/book_888888.png){: w="14" } [Priwatt: Wechselrichter-Photovoltaik-Funktion: So arbeitet Dein Mikro-Wechselrichter (abgerufen am: 04.09.2023)](https://priwatt.de/blog/wie-funktioniert-ein-mikrowechselrichter/)
+4. ![Website](/assets/img/book_888888.png){: w="14" } [Solar-Ratgeber: Wechselrichter auswählen: Qualität, Preise und Hersteller im Vergleich (abgerufen am: 05.09.2023)](https://solar-ratgeber.ch/solaranlage/vergleich-test/wechselrichter-auswaehlen/)
+5. ![Website](/assets/img/book_888888.png){: w="14" } [PV-Insel: Welcher Wechselrichter passt zum Solarmodul meines Balkonkraftwerks? (abgerufen am: 05.09.2023)](https://pv-insel.de/pages/welcher-wechselrichter-passt-zum-solarmodul-meines-balkonkraftwerks)
+
+**Datenblätter:**
 1. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Hoymiles: Datenblatt Mikro- Wechselrichter HMS-1600 bis HMS-2000 (abgerufen am: 24.09.2023)](https://www.hoymiles.com/wp-content/uploads/2023/02/Datasheet_HMS-160018002000_LA_EN_V202301.pdf)
 2. ![Website](/assets/img/book_888888.png){: w="14" } [Idealo: Hoymiles HM-800 - Datenblatt (abgerufen am: 05.09.2023)](https://www.idealo.de/preisvergleich/OffersOfProduct/202006605_-hm-800-mikrowechselrichter-hoymiles.html#datasheet)
 3. ![Website](/assets/img/book_888888.png){: w="14" } [Idealo: Hoymiles HMS-800-2T - Datenblatt (abgerufen am: 05.09.2023)](https://www.idealo.de/preisvergleich/OffersOfProduct/203000415_-hms-800-2t-hoymiles.html#datasheet)
@@ -362,17 +370,12 @@ Datenblätter:
 5. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Trina: Datenblatt Solarmodul Trina Vertex+ (abgerufen am: 05.09.2023)](https://static.trinasolar.com/sites/default/files/NEG9R.28_DE.pdf)
 6. ![PDF](/assets/img/pdf_888888.png){: w="14" } [Ja-Solar: Datenblatt Solarmodul JAM54S31 (abgerufen am: 05.09.2023)](https://www.jasolar.com/uploadfile/2021/0706/20210706053145844.pdf)
 
-Videos:
-1. ![Video](/assets/img/video_888888.png){: w="14" } [Simon42: Balkonsolaranlage in Home Assistant einrichten (Energie Dashboard)](https://www.youtube.com/watch?v=t9qtMJCvfs4)
-2. ![Video](/assets/img/video_888888.png){: w="14" } [Andreas Smitz: 0€ Balkonkraftwerk Dashboard einfach selbstgemacht](https://www.youtube.com/watch?v=RKOk74RxYus)
-
-Normen:
+**Normen:**
 1. ![Website](/assets/img/book_888888.png){: w="14" } [DIN VDE V 0126-95:2022-11 - Steckersolargeräte für Netzparallelbetrieb](https://www.vde-verlag.de/normen/1100702/e-din-vde-v-0126-95-vde-v-0126-95-2022-11.html)
 2. ![Website](/assets/img/book_888888.png){: w="14" } [DIN VDE V 0100-551-1:2018-05 - Errichten von Niederspannungsanlagen](https://www.vde-verlag.de/normen/0100460/din-vde-v-0100-551-1-vde-v-0100-551-1-2018-05.html)
 3. ![Website](/assets/img/book_888888.png){: w="14" } [EU Verordnung 2016/631 (Stand: 14. April 2016](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2016_112_R_0001)
 
-
-Bildverweise:
+**Bildverweise:**
 1. Darstellung von Westermann Netzwerke: [Schematische Verbindung der Komponenten eines Balkonkraftwerks](https://www.westermann-netzwerke.de/wp-content/uploads/2020/04/Wieland_RST20_2_shop-ohne-dose.png)
 2. Darstellung von Beleuchtungdirekt: [Schematische Darstellung einer Reihen- und Parallelschaltung](https://www.beleuchtungdirekt.de/blog/reihen-und-parallelschaltung)
 3. Darstellung von Solarserver: [Prinzipielle Strom-Spannungs-Kennlinie einer Si-Solarzelle](https://www.solarserver.de/wissen/basiswissen/photovoltaik-typen-und-eigenschaften-von-solarzellen)
