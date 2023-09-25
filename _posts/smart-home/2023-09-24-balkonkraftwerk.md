@@ -18,11 +18,14 @@ date: 2023-09-24 21:34 +0200
 ## Motivation
 Durch meine Faszination für Smart Home Komponenten bin ich zwangsläufig am Thema Balkonkraftwerk vorbeigekommen. Da ich Home Assistant einsetze, möchte ich natürlich auch die schöne Visualisierung für Einspeisung und Verbräuche nutzen.
 
+![Visualisierung der Energieverteilung in Home Assistant](/assets/smart-home/elektrische-schaltung_reihe.pdf){: width="400"}
+_Abbildung: Visualisierung der Energieverteilung in Home Assistant (Quelle: home-assistant.io)_
+
 Da ich zeitnah mein erstes Eigenheim beziehen werde, bietet mir ein Balkonkraftwerk die Möglichkeit mich mit geringer Investition in das Thema Photovoltaik einzufühlen. Die geringen Anschaffungskosten und die kurze Amortisationszeit machen die Investition zu einem No-Brainer.
 
-Im Internet gibt es eine große Auswahl an verfügbaren Komplettsets. Aber auch bei den Komplettsets gilt, nicht jede angebotene Kombition ist wirklich eine gute Wahl.
+Im Internet gibt es eine große Auswahl an verfügbaren Komplettsets. Aber auch bei den Komplettsets gilt, nicht jede angebotene Kombination ist wirklich eine gute Wahl.
 
-Bei dem Unterfangen mir das notwendige Fachwissen anzueignen, habe ich mich durch etliche Quellen gewühlt. Ich will ja keinen Quatsch kaufen. Dabei ist mir aufgefallen, dass es die relevanten Informationen nirgends in der von mir gewünschten Detailtiefe gibt. Aus diesem Grund habe ich hier mal alles zusammengetragen, das ich im Zusammenhang mit Balkonkraftwerken als wissenswert erachte.
+Bei dem Unterfangen, mir das notwendige Fachwissen anzueignen, habe ich etliche Quellen durchgearbeitet. Ich will ja keinen Quatsch kaufen. Dabei ist mir aufgefallen, dass es die relevanten Informationen nirgends in der von mir gewünschten Detailtiefe gibt. Aus diesem Grund habe ich hier mal alles zusammengetragen, das ich im Zusammenhang mit Balkonkraftwerken als wissenswert erachte.
 
 
 
@@ -376,7 +379,8 @@ Falls du die Option hast ein Balkonkraftwerk zu betreiben, kann ich dir dies wä
 3. ![Website](/assets/img/book_888888.png){: w="14" } [EU Verordnung 2016/631 (Stand: 14. April 2016](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2016_112_R_0001)
 
 **Bildverweise:**
-1. Darstellung von Westermann Netzwerke: [Schematische Verbindung der Komponenten eines Balkonkraftwerks](https://www.westermann-netzwerke.de/wp-content/uploads/2020/04/Wieland_RST20_2_shop-ohne-dose.png)
-2. Darstellung von Beleuchtungdirekt: [Schematische Darstellung einer Reihen- und Parallelschaltung](https://www.beleuchtungdirekt.de/blog/reihen-und-parallelschaltung)
-3. Darstellung von Solarserver: [Prinzipielle Strom-Spannungs-Kennlinie einer Si-Solarzelle](https://www.solarserver.de/wissen/basiswissen/photovoltaik-typen-und-eigenschaften-von-solarzellen)
-4. Darstellung von Grünes Haus: [Parallelschaltung von Solarmodulen](https://gruenes.haus/solarmodule-parallel-schalten)
+1. Darstellung von Home Assistant: [Visualisierung der Energieverteilung in Home Assistant](https://www.home-assistant.io/images/dashboards/energy/distribution.png)
+2. Darstellung von Westermann Netzwerke: [Schematische Verbindung der Komponenten eines Balkonkraftwerks](https://www.westermann-netzwerke.de/wp-content/uploads/2020/04/Wieland_RST20_2_shop-ohne-dose.png)
+3. Darstellung von Beleuchtungdirekt: [Schematische Darstellung einer Reihen- und Parallelschaltung](https://www.beleuchtungdirekt.de/blog/reihen-und-parallelschaltung)
+4. Darstellung von Solarserver: [Prinzipielle Strom-Spannungs-Kennlinie einer Si-Solarzelle](https://www.solarserver.de/wissen/basiswissen/photovoltaik-typen-und-eigenschaften-von-solarzellen)
+5. Darstellung von Grünes Haus: [Parallelschaltung von Solarmodulen](https://gruenes.haus/solarmodule-parallel-schalten)
