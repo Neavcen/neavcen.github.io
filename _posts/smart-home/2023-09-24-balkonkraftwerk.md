@@ -332,11 +332,11 @@ Falls du zur Miete wohnst, solltest du dir die Genehmigung deiner Vermieterin bz
 
 
 ## Zusammenfassung und Fazit
-Ein Balkonkraftwerk stellt eine niedrigschwellige Möglichkeit dar, um einen Teil deines Stromverbrauchs durch selbst erzeugten Solarstrom abzudecken. Dadurch kannst du deine Stromrechnung senken und gleichzeitig etwas für die Umwelt tun. 
+Ein Balkonkraftwerk stellt eine niedrigschwellige Möglichkeit dar, um einen Teil deines Strombedarfs durch selbst erzeugten Solarstrom abzudecken. Dadurch kannst du deine Stromrechnung senken und gleichzeitig etwas für die Umwelt tun. 
 
-Auf dem Weg zum eigenen Balkonkraftwerk gibt es einige Dinge zu beachten. Zum einen die bestehenden Regularien für dessen Betrieb und zum anderen die Auswahl geeigneter Komponenten. Ich habe dir in diesem Beitrag versucht alle wichtigen zusammenzutragen.
+Auf dem Weg zum eigenen Balkonkraftwerk gibt es einige Dinge zu beachten. Zum einen die bestehenden Regularien für dessen Betrieb und zum anderen die Auswahl geeigneter Komponenten. Ich habe dir in diesem Beitrag alle wichtigen Informationen zusammenzutragen, damit du eine fundierte Entscheidung treffen kannst.
 
-Nun will ich dir verraten auf welche Kombination von Wechselrichter und Solarmodul es bei mir hinauslaufen wird. Ich werde mir einen Hoymiles HM-800 Wechselrichter zusammen mit 2 Trina Solar Vertex S+ Modulen mit 144 Zellen kaufen. Welche Peakleistung der Module es am Ende wird, hängt vom besten Preis-Leistungs-Verhältnis zum Kaufzeitpunkt ab. Den Wechselrichter werde ich mittels OpenDTU auslesen und in Home Assistant integrieren. Wie eingangs erwähnt, geht es mir neben der Stromerzeugung auch um die Vernetzung und Integration in meinem bestehenden Smart Home System.
+Nun will ich dir verraten auf welche Kombination von Wechselrichter und Solarmodul es bei mir hinauslaufen wird. Ich werde mir einen Hoymiles HM-800 Wechselrichter zusammen mit 2 Trina Solar Vertex S+ Modulen mit 144 Zellen kaufen. Welche Peakleistung der Module es am Ende wird, hängt vom besten Preis-Leistungs-Verhältnis zum Kaufzeitpunkt ab. Den Wechselrichter werde ich mittels OpenDTU auslesen und in Home Assistant integrieren. Wie eingangs erwähnt, geht es mir neben der Stromerzeugung auch um die Vernetzung und Integration in meinem bestehenden Smart Home System. Dazu wird es einen separaten Beitrag geben, wenn es soweit ist.
 
 Falls du die Option hast ein Balkonkraftwerk zu betreiben, kann ich dir dies wärmstens ans Herz legen. Unter guten Bedingungen und hoher Eigenverbrauchsquote beträgt die Amortisationszeit ungefähr 3-4 Jahre für ein Balkonkraftwerk mit einer Leistung von 800 Wp bei Anschaffungskosten um die 500€.
 
