@@ -2,8 +2,7 @@
 layout: post
 title: "Balkonkraftwerk: Alles, was du wissen musst"
 description: Ich beschäftige mich mit folgenden Fragen... Was ist ein Balkonkraftwerk?
-  Aus welchen Komponenten besteht es? Was gibt es zu beachten? Kann auch ich ein Balkonkraftwerk
-  betreiben?
+  Aus welchen Komponenten besteht es? Was gibt es zu beachten? Kann auch ich ein Balkonkraftwerk betreiben?
 image: 
   path: "/assets/smart-home/balkonkraftwerk-titelbild.jpeg"
   alt: Foto von Robert Poorten auf Adobe Stock
