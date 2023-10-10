@@ -1,0 +1,12 @@
+@startuml
+skinparam ArrowHeadColor none
+start
+repeat :Denke dir ein Thema für einen Blogbeitrag aus;
+:Verfasse Blogbeitrag;
+:Lasse Inhalte gegenlesen;
+:Veröffentliche den Blogbeitrag;
+backward :Fange von vorne an;
+repeat while (Weitere Idee für Beitrag vorhanden?) is (Ja) not (Nein)
+:Lege dich aufs Sofa und erhole dich;
+stop
+@enduml
