@@ -49,14 +49,28 @@ Im wesentlichen gibt es zwei etablierte und kostenlose Tools zur Erstellung text
 1. [PlantUML](https://plantuml.com/de/) unter GNU Lizenz
 2. [Mermaid](https://mermaid.js.org/intro/getting-started.html) unter MIT Lizenz
 
-Beschreibung von PlantUML:
-"PlantUML is a component that allows you to create various UML diagrams through simple textual descriptions. From sequence diagrams to deployment diagrams and beyond, PlantUML provides an easy way to create visual representations of complex systems." (Quelle: [Github.com](https://github.com/plantuml/plantuml))
+Beschreibung von PlantUML:  
+> PlantUML is a component that allows you to create various UML diagrams through simple textual descriptions. From sequence diagrams to deployment diagrams and beyond, PlantUML provides an easy way to create visual representations of complex systems.
+(Quelle: [Github.com](https://github.com/plantuml/plantuml))
 
-Beschreibung von Mermaid:
-"JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically." (Quelle: [mermaid.js.org](https://mermaid.js.org))
+Beschreibung von Mermaid:  
+> JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
+(Quelle: [mermaid.js.org](https://mermaid.js.org))
 
 ### Vergleich der Tools
 Welches Tool du einsetzt, bleibt natürlich dir überlassen. Beide machen einen hervorragenden Job. In diesem [Blog-Beitrag von Dan Does Code](https://www.dandoescode.com/blog/plantuml-vs-mermaid) werden die beiden Tools und deren Resultate für unterschiedliche Diagrammtypen verglichen. Vielleicht hilft dir dieser bei der Entscheidungsfindung. Mein aktueller Arbeitgeber hat sich für die Verwendung von PlantUML ausgesprochen und somit verwende ich dieses. Dazu habe ich ein sehenswertes [5-Minuten Video mit einer Vorstellung PlantUML und dessen Vorteilen](https://media.ccc.de/v/chaotikum-plant-uml#) vom Chaos Computer Club gefunden.
+
+### Unterstützte Diagrammarten
+Neben dem bereits erwähnten Aktivitätsdiagrammen gibt es zahlreiche weitere Diagrammarten, die unterstützt werden. Welche es im Detail sind, hängt von dem jeweiligen Tool ab. Hier einmal die Diagrammtypen, die von PlantUML und Mermaid unterstützt werden:
+* Ablaufdiagramm
+* Sequenzdiagramm
+* Gantt-Chart
+* Klassendiagramm
+* Zustandsdiagramm
+* Balkendiagramm
+* Use Case Diagramm
+
+Darüber hinaus unterstützen die einzelnen Tools weitere Diagrammtypen. Schaut dafür einfach in die jeweilige Dokumentation.
 
 ### Notation und Syntax
 Zu Beginn ist die Notation gewöhnungsbedürftig, weil du erstmal die Konventionen und Möglichkeiten der Syntax kennenlernen und verinnerlichen musst. Es gibt dankenswerterweise sehr viele **Beispiele**, die du als Ausgangsbasis verwenden kannst.
