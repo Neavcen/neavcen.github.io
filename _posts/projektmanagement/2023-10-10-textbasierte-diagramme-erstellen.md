@@ -50,11 +50,11 @@ Im wesentlichen gibt es zwei etablierte und kostenlose Tools zur Erstellung text
 2. [Mermaid](https://mermaid.js.org/intro/getting-started.html) unter MIT Lizenz
 
 Beschreibung von PlantUML:  
-> PlantUML is a component that allows you to create various UML diagrams through simple textual descriptions. From sequence diagrams to deployment diagrams and beyond, PlantUML provides an easy way to create visual representations of complex systems.
+> PlantUML is a component that allows you to create various UML diagrams through simple textual descriptions. From sequence diagrams to deployment diagrams and beyond, PlantUML provides an easy way to create visual representations of complex systems.  
 (Quelle: [Github.com](https://github.com/plantuml/plantuml))
 
 Beschreibung von Mermaid:  
-> JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
+> JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.  
 (Quelle: [mermaid.js.org](https://mermaid.js.org))
 
 ### Vergleich der Tools
