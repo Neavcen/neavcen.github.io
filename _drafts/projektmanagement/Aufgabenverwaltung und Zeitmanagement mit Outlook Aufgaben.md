@@ -4,7 +4,7 @@ title: Aufgabenverwaltung und Zeitmanagement mit Outlook Aufgaben
 description: Outlook bietet mit seiner Funktion Aufgaben bzw. Tägliche Aufgabenliste eine hervorragende Option seine Aufgaben an einem zentralen Ort zu managen. Ich möchte präsentieren, wie ich damit mein Zeitmanagement gestalte.
 image:
 categories: []
-tags: []
+tags: [zeitmanagement, selbstmanagement, selbstorganisation, aufgabenverwaltung, outlook]
 ---
 
 ## Einleitung
@@ -29,35 +29,42 @@ Die Theorie des Zeitmanagements gibt dir Hilfsmittel an die Hand, damit du dich 
 ## Meine Methoden und Leitlinien
 
 ### Methoden
-Einleitend möchte ich erwähnen, dass die Theorie hinter den Methoden zum Zeitmanagement meist recht simpel ist. Die Kunst an dieser Stelle liegt nicht darin, dass du die einzelne Methode verstehst und einmalig ausprobierst. Vielmehr gilt es auszuloten, welche Methoden dir weiterhelfen. 
+Methoden geben dir einen standardisierten Rahmen an die Hand, an dem du dich orientieren kannst. Dadurch dass man einer Vorgehensweise einen festen Begriff gibt, lässt es sich leichter über diese Austauschen, weil Leute direkt wissen, was gemeint ist. Das ist jetzt kein belastbares Arguement, aber es in meinen Augen wirkt direkt professioneller, wenn du sagst, dass du nach einer bestimmten Methode arbeitest.
 
-Nehme dir stets nur eine neue Methode vor. Du musst dir regelmäßig die Zeit nehmen und  Disziplin an den Tag legen, dass du die Methode kontinuierlich anwendest und damit verinnerlichst. Nur so wirst du irgendwann die Früchte davon ernten.
+Einleitend möchte ich erwähnen, dass die Theorie hinter den Methoden zum Zeitmanagement meist recht simpel ist. Die Kunst an dieser Stelle liegt nicht darin, dass du die einzelne Methode verstehst und einmalig ausprobierst. Vielmehr gilt es auszuloten, welche Methoden dir weiterhelfen. Nehme dir stets nur eine neue Methode vor. Du musst dir regelmäßig die Zeit nehmen und Disziplin an den Tag legen, dass du die Methode kontinuierlich anwendest und damit verinnerlichst. Nur so wirst du irgendwann die Früchte davon ernten.
 
 Ein Kollege hat es kurz und treffend formuliert: "Du musst dir Zeit (für die Selbstorganisation) nehmen, um Zeit zu sparen."
 
 Methoden
-- Eisenhower Matrix
-- 2-Minuten-Regel
-- Eat that frog
-- Salami Taktik
-- Ivy Lee Methode
-- Time Boxing bzw. Zeit blocken
-- Monotasking
-- SMART Methode
+- Aufgabendefinition
+  - [SMART Methode](https://karrierebibel.de/smart-methode/)
+- Aufgabenpriorisierung
+  - [Eisenhower Matrix](https://karrierebibel.de/eisenhower-prinzip/)
+- Zeiteinteilung
+  - [2-Minuten-Regel](https://karrierebibel.de/2-minuten-regel)
+  - [Time Boxing](https://karrierebibel.de/timeboxing/) bzw. Zeit blocken
+- Tagesplanung
+  - [Eat the frog](https://karrierebibel.de/eat-the-frog/)
+- Abarbeiten
+  - [Singletasking](https://karrierebibel.de/singletasking/)
+  - [Salami Taktik](https://karrierebibel.de/salamitaktik/)
+- Systeme
+  - [Ivy Lee Methode](https://karrierebibel.de/ivy-lee-methode/) oder [25.000 Dollar Methode](https://karrierebibel.de/25-000-dollar-methode/)
+  - [Getting Things Done (GTD)](https://gettingthingsdone.com/what-is-gtd/))
 
 ### Prinzipien
+Der Unterschied zwischen Prinzipien und Methoden ist schwammig. Meine Prinzipien stellen sowas wie Leitsätze dar und lassen sich jeweils in einem Satz beschreiben.
 
 Prinzipien:
-- Parkinsonsches Gesetz
-- Pareto Prinzip
-- Aufgaben gegeneinander priorisieren, damit man erkennt, was wirklich wichtig (und dringender) ist
-- Stop starting and start finishing
-- Im Voraus planen
-- Gedanken notieren und damit Kopf frei machen
 - Verantwortlichkeit festlegen
-- Deadline festlegen
-- Delegieren
-- "Nein" sagen
+- (Sinnvolle) Deadline festlegen oder [Parkinsonsches Gesetz](https://karrierebibel.de/parkinsonsche-gesetz/)
+- [Pareto Prinzip](https://karrierebibel.de/pareto-prinzip/)
+- Aufgaben gegeneinander priorisieren, damit man erkennt, was wirklich wichtig (und dringender) ist
+- Erst Aufgabe abschließen, bevor neue Aufgabe begonnen wird (Stop starting and start finishing)
+- Im Voraus planen
+- [Delegieren](https://karrierebibel.de/aufgabendelegation/)
+- ["Nein" sagen](https://karrierebibel.de/nein-sagen/)
+- Gedanken notieren und damit Kopf frei machen
 
 
 ## Aufgabenverwaltung
