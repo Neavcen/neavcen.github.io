@@ -3,8 +3,8 @@ layout: post
 title: Aufgabenverwaltung und Zeitmanagement mit Outlook Aufgaben
 description: Outlook bietet mit seiner Funktion Aufgaben bzw. Tägliche Aufgabenliste eine hervorragende Option seine Aufgaben an einem zentralen Ort zu managen. Ich möchte präsentieren, wie ich damit mein Zeitmanagement gestalte.
 image:
-categories: [projektmanagement]
-tags: [zeitmanagement, selbstmanagement, selbstorganisation, aufgabenverwaltung, outlook]
+categories: [Projektmanagement]
+tags: [Zeitmanagement,Selbstmanagement,Selbstorganisation,Aufgabenverwaltung,Outlook]
 ---
 
 ## Einleitung
