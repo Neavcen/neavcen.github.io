@@ -18,7 +18,7 @@ Diese Website ist aus reiner Neugierde entstanden, weil ich schon immer wissen w
 
 ## Domain
 
-Aufhänger war ein Deal auf [Mydealz](https://www.mydealz.de), bei dem ich mir für ca. 1,50€/Jahr meine eigene de-Domain erwerben konnte. In meinem Fall war es bei [Netcup](http://www.netcup.de), aber es gibt auch unzählige andere. Einfach mal vergleichen, wo es gerade ein gutes Angebot gibt.
+Aufhänger war ein Deal auf [Mydealz](https://www.mydealz.de), bei dem ich mir für ca. 1,50€/Jahr meine eigene de-Domain erwerben konnte. In meinem Fall war es bei [Netcup](https://www.netcup.de), aber es gibt auch unzählige andere. Einfach mal vergleichen, wo es gerade ein gutes Angebot gibt.
 
 Jetzt hatte ich zwar eine eigene Domain, aber diese sagte nichts weiter als _"Diese Domain ist geparkt"_. Das ist zugegebenermaßen noch keine Errungenschaft um vor Stolz zu platzen. Also habe ich mich damit auseinandergesetzt, wie ich ohne großartige Programmierkenntnisse eine Website ins Leben rufen kann. Ich wollte aber nicht Wordpress, Jimdo o.ä. verwenden. 
 
