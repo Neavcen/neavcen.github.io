@@ -101,6 +101,12 @@ Wenn eine Aufgabe nicht an eine Person adressiert wird, fühlt sich niemand vera
 ### Definiere stets ein Fälligkeitsdatum für Aufgaben
 Aufgaben, die kein Fälligkeitsdatum haben, haben offensichtlich keine Dringlichkeit oder Wichtigkeit. Selbst wenn du nicht genau weißt, wann eine Aufgabe fertig werden soll, lege ein Datum fest. Zur Not wird dieses nochmal nach hinten verschoben. Zumindest wird auf diese Weise über die Aufgabe geredet. Falls ihr kein Fälligkeitsdatum oder eines weit in der Zukunft vergebt, heißt das höchstwahrscheinilch, dass die Aufgabe eine geringe Priorität oder Dringlichkeit hat. Diese Sachverhalt kann auch helfen, z.B. wenn Aufgaben priorisiert werden sollen.
 
+### Delegiere wichtige aber nicht dringende Aufgaben
+Deine Zeit ist begrenzt und du kannst nicht immer alles selbst tun. Aus diesem Grund ist es wichtig, dass du lernst, Aufgaben an andere zu delegieren. Dies hilft, dass sich neue Teammitglieder einarbeiten können und du auch Vertrauen in die Kolleg:innen zu lernen setzt. Dafür eignen sich besonders wichtige Aufgaben, die keine knappe Deadline haben und somit auch Zeit für die Übergabe und den Wissenstransfer ist.
+
+### Lehne auch mal Aufgaben ab
+Sagst du niemals "Nein", wenn Leute dich um Hilfe bitten oder dir Aufgaben auftragen wollen, so läufst du Gefahr, dass du in Stress und Überlastung endest, weil du deine eigenen Aufgaben nicht schaffst. Lerne, was deine Verantwortungsbereiche sind und was du wirklich tun willst. Und dann sage "Nein" ohne Angst oder schlechtes Gewissen.
+
 ### Setze ambitionierte, aber schaffbare Deadlines für Aufgaben
 Das **Parkinsonsche Gesetz** stellt folgende These auf: ***Eine Aufgabe dehnt sich immer genauso weit aus, wie Zeit für sie zur Verfügung steht.*** Vereinfacht bedeutet das, je mehr Zeit du für eine Aufgabe hast, desto länger brauchst du für deren Bearbeitung. Hast du zu viel Zeit, neigst du zudem zum Perfektionismus und verbringst viel Zeit mit dem Feinschliff, der wenig Mehrwert stiftet. Ambitionierte Deadlines unterstützen dich entsprechend dabei, dass du dich auf die wesentlichen Aspekte fokussierst, da häufig keine Zeit für Perfektionismus ist.
 
@@ -118,7 +124,7 @@ Durch eine zentrale Aufgabenliste kann zudem niemand sagen, er hätte nicht von 
 ### Priorisiere regelmäßig deine Aufgaben für den Tag und die Woche
 Die agile Arbeitweise in Sprints soll dafür sorgen, dass man sich in einer Iteration auf einen festgelegten Satz an Aufgaben fokussieren und diese abarbeiten kann. Dies klappt für Softwareentwickelnde besser als für Projektleitende. Als Projektleitung kommen ständig neue Aufgaben auf dich zu, du musst Termine organisieren oder Klärungen und Problemlösungen herbeiführen. 
 
-Wie oben beschrieben, ist es wichtig, dass du dir alle Aufgaben notierst, damit nichts untergeht. Dies ist aber nur der erste Schritt. Im Anschluss ist es wichtig, dass du die Aufgaben priorisierst, damit du diese in einer sinnvollen Reihenfolge abarbeitest und in deinen Tages- bzw. Wochenablauf eintaktest.
+Wie oben beschrieben, ist es wichtig, dass du dir alle Aufgaben notierst, damit nichts untergeht. Dies ist aber nur der erste Schritt. Im Anschluss ist es wichtig, dass du die Aufgaben priorisierst, damit du diese in einer sinnvollen Reihenfolge abarbeitest und in deinen Tages- bzw. Wochenablauf eintaktest. Man neigt dazu, alles als wichtig und dringend anzusehen. Wenn alles Prio 1 hat, hat wiederum nichts Priorität. Eine zentrale Aufgabenliste hat den Vorteil, dass du die Aufgaben gegeneinander priorisieren kannst, damit du anhand der Reihenfolge erkennst, was wirklich wichtig (und dringender) ist.
 
 David Allen ist der Vater der Methode ***Getting Things Done***. Diese soll zu mehr Produktivität im Alltag verhelfen. Ich kann dir dazu den Blink über das Buch "Ich schaff das!" (engl. Making it all work!) von David Allen ans Herz legen. Ich verwende für mich eine etwas abgewandelte Form davon. Seitdem fühle ich mich deutlich weniger gestresst und habe einen guten Überblick meiner Aufgaben ohne Dinge zu vergessen.
 
@@ -184,7 +190,8 @@ Diese Best-Practice-Sammlung soll eine Gedächtnisstütze sein und dir als auch 
 2. ![Podcast](/assets/img/podcast_888888.png){: w="14" } [David Allen: Ich schaff das!](https://www.blinkist.com/en/books/ich-schaff-das-de?utm_source=bk_ios&utm_medium=bk_referral&utm_campaign=book%253Acover&utm_content=534d5a016633610007a30000&referral_token=9aba99f41334)
 3. ![Podcast](/assets/img/podcast_888888.png){: w="14" } [Tim Reichel: 24/7-Zeitmanagment](https://www.blinkist.com/en/books/24-slash-7-zeitmanagement-de?utm_source=bk_ios&utm_medium=bk_referral&utm_campaign=book%253Alibrary&utm_content=60941d3a6cee070007c96a59&referral_token=9aba99f41334)
 4. ![Website](/assets/img/book_888888.png){: w="14" } [Der Prozessmanager: Pareto-Prinzip: Die 80/20-Regel verstehen und anwenden!](https://der-prozessmanager.de/aktuell/wissensdatenbank/pareto-prinzip) (abgerufen am 24.08.2023)
+5. ![Website](/assets/img/book_888888.png){: w="14" } [Karrierebibel: Aufgabendelegation: Vorteile, Grundsätze & Tipps](https://karrierebibel.de/aufgabendelegation/) (abgerufen am 25.02.2024)
+6. ![Website](/assets/img/book_888888.png){: w="14" } [Karrierebibel: Nein sagen lernen](https://karrierebibel.de/nein-sagen/) (abgerufen am 25.02.2024)
 
 Bildverweise:
 1. Foto von [Riccardo Annandale](https://unsplash.com/de/@pavement_special) auf [Unsplash](https://unsplash.com/de/fotos/7e2pe9wjL9M)
-
