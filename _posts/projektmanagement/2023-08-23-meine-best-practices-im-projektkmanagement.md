@@ -101,11 +101,11 @@ Wenn eine Aufgabe nicht an eine Person adressiert wird, fühlt sich niemand vera
 ### Definiere stets ein Fälligkeitsdatum für Aufgaben
 Aufgaben, die kein Fälligkeitsdatum haben, haben offensichtlich keine Dringlichkeit oder Wichtigkeit. Selbst wenn du nicht genau weißt, wann eine Aufgabe fertig werden soll, lege ein Datum fest. Zur Not wird dieses nochmal nach hinten verschoben. Zumindest wird auf diese Weise über die Aufgabe geredet. Falls ihr kein Fälligkeitsdatum oder eines weit in der Zukunft vergebt, heißt das höchstwahrscheinilch, dass die Aufgabe eine geringe Priorität oder Dringlichkeit hat. Diese Sachverhalt kann auch helfen, z.B. wenn Aufgaben priorisiert werden sollen.
 
-### Delegiere wichtige aber nicht dringende Aufgaben
+### Delegiere dringede aber nicht wichtige Aufgaben
 Deine Zeit ist begrenzt und du kannst nicht immer alles selbst tun. Aus diesem Grund ist es wichtig, dass du lernst, Aufgaben an andere zu delegieren. Dies hilft, dass sich neue Teammitglieder einarbeiten können und du auch Vertrauen in die Kolleg:innen zu lernen setzt. Dafür eignen sich besonders wichtige Aufgaben, die keine knappe Deadline haben und somit auch Zeit für die Übergabe und den Wissenstransfer ist.
 
-### Lehne auch mal Aufgaben ab
-Sagst du niemals "Nein", wenn Leute dich um Hilfe bitten oder dir Aufgaben auftragen wollen, so läufst du Gefahr, dass du in Stress und Überlastung endest, weil du deine eigenen Aufgaben nicht schaffst. Lerne, was deine Verantwortungsbereiche sind und was du wirklich tun willst. Und dann sage "Nein" ohne Angst oder schlechtes Gewissen.
+### Sage ruhig auch mal "Nein"
+Sagst du niemals "Nein", wenn Leute dich um Hilfe bitten oder dir Aufgaben auftragen wollen, so läufst du Gefahr, dass du in Stress und Überlastung endest, weil du deine eigenen Aufgaben nicht schaffst. Lerne, was deine Verantwortungsbereiche sind und was du wirklich tun willst und auch kannst. Und dann sage "Nein" ohne Angst oder schlechtes Gewissen.
 
 ### Setze ambitionierte, aber schaffbare Deadlines für Aufgaben
 Das **Parkinsonsche Gesetz** stellt folgende These auf: ***Eine Aufgabe dehnt sich immer genauso weit aus, wie Zeit für sie zur Verfügung steht.*** Vereinfacht bedeutet das, je mehr Zeit du für eine Aufgabe hast, desto länger brauchst du für deren Bearbeitung. Hast du zu viel Zeit, neigst du zudem zum Perfektionismus und verbringst viel Zeit mit dem Feinschliff, der wenig Mehrwert stiftet. Ambitionierte Deadlines unterstützen dich entsprechend dabei, dass du dich auf die wesentlichen Aspekte fokussierst, da häufig keine Zeit für Perfektionismus ist.
