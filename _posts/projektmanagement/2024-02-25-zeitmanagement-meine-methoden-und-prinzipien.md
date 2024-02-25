@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Zeitmanagement: Meine Methoden und Prinzipien"
-description: Wir haben alle gleich viel Zeit. Entscheidend ist, wie wir diese Zeit gestalten. Um einen möglichst großen Mehrwert innerhalb unserer verfügbaren Zeit zu generieren, helfen die Methoden des Zeitmanagements. Ich stelle die für mich hilfreichen Methoden kurz vor. Darüber hinaus, präsentiere ich auch meine Prinzipien in Form von Leitsätzen, die mir im Arbeitsalltag weiterhelfen.
-image: 
+title: 'Zeitmanagement: Meine Methoden und Prinzipien'
+description: Wir haben alle gleich viel Zeit. Entscheidend ist, wie wir diese Zeit
+  gestalten. Um einen möglichst großen Mehrwert innerhalb unserer verfügbaren Zeit
+  zu generieren, helfen die Methoden des Zeitmanagements. Ich stelle die für mich
+  hilfreichen Methoden kurz vor. Darüber hinaus, präsentiere ich auch meine Prinzipien
+  in Form von Leitsätzen, die mir im Arbeitsalltag weiterhelfen.
+image:
   path: "/assets/projektmanagement/mille-sanders-Bc6qPj_f-r0-unsplash.jpg"
   alt: Foto von Mille Sanders auf Unsplash (nachbearbeitet)
-  
-categories: [Projektmanagement]
-tags: [Zeitmanagement,Methoden,Selbstmanagement,Selbstorganisation]
+categories:
+- Projektmanagement
+tags:
+- Zeitmanagement
+- Methoden
+- Selbstmanagement
+- Selbstorganisation
+date: 2024-02-25 21:48 +0100
 ---
-
 ## Einleitung
 Überall hört man den Satz: "Ich habe keine Zeit.". Diese Aussage ist schlichtweg falsch. Wir haben alle gleich viel Zeit. Wie wir diese Zeit gestalten, hängt von unseren gesetzten Prioritäten ab. 
 
