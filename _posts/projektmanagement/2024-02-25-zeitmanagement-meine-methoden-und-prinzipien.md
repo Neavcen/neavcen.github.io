@@ -4,8 +4,7 @@ title: 'Zeitmanagement: Meine Methoden und Prinzipien'
 description: Wir haben alle gleich viel Zeit. Entscheidend ist, wie wir diese Zeit
   gestalten. Um einen möglichst großen Mehrwert innerhalb unserer verfügbaren Zeit
   zu generieren, helfen die Methoden des Zeitmanagements. Ich stelle die für mich
-  hilfreichen Methoden kurz vor. Darüber hinaus, präsentiere ich auch meine Prinzipien
-  in Form von Leitsätzen, die mir im Arbeitsalltag weiterhelfen.
+  hilfreichen Methoden kurz vor und führe hier und dort noch eine persönliche Anekdote an.
 image:
   path: "/assets/projektmanagement/mille-sanders-Bc6qPj_f-r0-unsplash.jpg"
   alt: Foto von Mille Sanders auf Unsplash (nachbearbeitet)
