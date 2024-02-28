@@ -1,14 +1,32 @@
 ---
 layout: post
 title: Softwareentwicklung am Beispiel von Kuchen backen erklärt
-description: Wenn man nicht in der Softwareentwicklung tätig ist, fällt es oft schwer zu verstehen, was die Menschen dort eigentlich tun. Ich möchte Abhilfe schaffen, indem ich eine Alltagssituation, nämlich Kuchen backen, mit der Entwicklung von Software vergleiche.
+description: Wenn man nicht in der Softwareentwicklung tätig ist, fällt es oft schwer
+  zu verstehen, was die Menschen dort eigentlich tun. Ich möchte Abhilfe schaffen,
+  indem ich eine Alltagssituation, nämlich Kuchen backen, mit der Entwicklung von
+  Software vergleiche.
 image:
   path: "/assets/softwareentwicklung/2024-02-28 swe-meets-cake.png"
   alt: Fotos von Jennifer Pallian und Christopher Gower auf Unsplash (bearbeitet)
-categories: [Softwareentwicklung]
-tags: [Repository,IDE,Implementierung,Review,Quality Assurance,Branch,Merge Request,Merge Conflict,Source Code,Build Tool,Dependencies,Build Pipeline,Deployment,Release]
+categories:
+- Softwareentwicklung
+tags:
+- Repository
+- IDE
+- Implementierung
+- Review
+- Quality Assurance
+- Branch
+- Merge Request
+- Merge Conflict
+- Source Code
+- Build Tool
+- Dependencies
+- Build Pipeline
+- Deployment
+- Release
+date: 2024-02-28 21:01 +0100
 ---
-
 ## Einleitung
 Wenn du im Softwareentwicklungsumfeld tätig bist oder eben auch nicht, hat sich sicherlich nachfolgende Situation so oder so ähnlich schon bei dir zugetragen und du hast eine der zwei Rollen eingenommen:
 
