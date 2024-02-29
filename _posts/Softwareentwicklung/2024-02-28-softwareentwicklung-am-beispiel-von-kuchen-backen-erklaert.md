@@ -54,7 +54,7 @@ Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (Software)
 3. Bevor du dich an die Arbeit machst, sprichst du noch mit 2 Freunden, wie viel Zeit man voraussichtlich für die Änderung des Kuchenrezepts benötigt (**Estimation**).
 4. Da deine Mutter die Chefin (**Product Owner**) in der Küche ist, schaut sie auf die anstehenden Arbeiten in der Küche (**Backlog)** und plant deine Back-Session ein (**Sprintplanung**).
 5. Du prüfst, ob in der Küche ein Mixer ist, der dir das Verrühren der Zutaten erleichtert (**Dependency**). Der Mixer ist zwar da, aber beim genauen Hinschauen fällt dir auf, dass das Stromkabel gebrochen ist und eine Sicherheitslücke (**Common Vulnerabilities and Exposures, CVE**) darstellt. 
-6. Das bisherige Modell des Mixers (**Version**) ist veraltet (**deprecated**) wird nicht mehr produziert (**Maintenance**). Du musst nun eine neuere Version (**Update**) kaufen. Jetzt gilt es zu überprüfen, ob der neue Mixer noch zur vorhandenen Rührschüssel und den restlichen Utensilien passt. Falls nicht, musst du wohl oder übel auch bei diesen noch Anpassungen vornehmen (**Migration**).
+6. Das bisherige Modell des Mixers (**Version**) ist veraltet (**deprecated**) und wird nicht mehr produziert (**Maintenance**). Du musst nun eine neuere Version (**Update**) kaufen. Jetzt gilt es zu überprüfen, ob der neue Mixer noch zur vorhandenen Rührschüssel und den restlichen Utensilien passt. Falls nicht, musst du wohl oder übel auch bei diesen noch Anpassungen vornehmen (**Migration**).
 
 ### Rezept abarbeiten (Entwicklung)
 7. Du nimmst das Kochbuch (**Repository**) mit Omas Kuchenrezept (**Source Code**) und schnappst dir einen Stift (**Integrated Development Environment, IDE**).
@@ -67,9 +67,11 @@ Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (Software)
 12. Nun aber genug des Schreibens… jetzt geht es ans Backen! Du rufst mir (**Build Tool**) zu und sagst, dass ich jetzt mit dem Backen loslegen kann (**Build Pipeline**). Ich sammle alle Zutaten und notwendigen Backutensilien (**Dependencies**) ein und mache mich ans Werk.
 13. Als das Rezept schon halb durchlaufen ist, fällt mir auf, dass noch eine Zutat fehlt (**Blocker**). Du beauftragst deinen Vater (**Projektmanager**) schnell noch in den Supermarkt zu fahren und die fehlende Zutat einzukaufen (**Problemlösung**).
 14. Dank der hervorragenden Anleitung gibt es keine weiteren Komplikationen und Fehler (**Exceptions**) während des Backens bleiben aus.
+
+### Probieren & Essen (Testing & Release)
 15. Du zeigst deiner Schwester das Zwischenergebnis (**Sprint Review**).
 16. Jetzt kommt der Duft des fertigen Kuchens (**Kompilierter Code**) aus dem Ofen.
-17. Bevor der Kuchen von der ganzen Familie (**User**) gegessen wird, lässt du deine kleine Schwester und großen Bruder (**Key User**) probieren (**Testphase**), ob der Schololadenkuchen mit Smarties auch wirklich so geworden ist, wie angefordert (**Customer Quality Assurance**).
+17. Bevor der Kuchen von der ganzen Familie (**User**) gegessen wird, lässt du deine kleine Schwester und deinen großen Bruder (**Key User**) probieren (**Testphase**), ob der Schokoladenkuchen mit Smarties auch wirklich so geworden ist, wie angefordert (**Customer Quality Assurance**).
 18. Ich nehme den Kuchen und packe (**Bereitstellung**) ihn erstmal in einem Kuchenbehälter (**Repository/Registry**). 
 19. Wenn die Zeit gekommen ist, stelle ich den Kuchen (**Deployment**) auf den gedeckten Tisch (**Infrastruktur/OnPremise/Cloud**), damit zur Kaffeezeit die ganze Familie in dessen Genuss kommen (**Release**) und ihren Kuchenhunger (**Kundenproblem**) stillen kann. Es regnet positives Feedback (**Kundenzufriedenheit**).
 20. Weil ich so stolz auf mein Werk bin, schreibe ich meinen Freunden, wie lecker der Kuchen geschmeckt hat und wie schön cremig er gewesen ist (**Dokumentation**). Ein voller Erfolg!
