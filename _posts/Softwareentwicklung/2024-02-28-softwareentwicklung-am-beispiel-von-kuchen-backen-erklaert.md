@@ -43,21 +43,36 @@ Also lass' uns Kuchen backen!
 
 ## Parallelen von Softwareentwicklung und Kuchen backen
 
-Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen aufgeschrieben. Deine kleine Schwester hätte ihn nur gerne etwas abgewandelt. Kein Problem!
-
-1. Erstmal die Änderungswünsche (**Anforderungen im Ticket**) deiner kleinen Schwester (**Stakeholder/Kundin**) lesen.
-2. Du (**Softwareentwickelnde**) nimmst das Kochbuch (**Repository**) mit Omas Kuchenrezept (Source Code) und schnappst dir einen Stift (**Integrated Development Environment, IDE**).
-3. Damit du nicht einfach Omas Originalrezept (**Master Branch**) überschreibst, nimmst du dir lieber einen separaten Zettel (**Feature Branch**), wo du das geänderte Rezept aufschreibst (**Implementierung**).
-4. Du lässt lieber nochmal eine dritte Person (**4-Augen-Prinzip**) drüber schauen, ob das soweit stimmig ist (**Review/Quality Assurance**).
-5. Nun rufst du Oma an und fragst, ob du das originale Rezept mit den Änderungen überschreiben darfst (**Merge Request**). Du sprichst das orignale Rezept nochmal mit Oma durch (**Pull**) und stellst sicher, dass sie es in der Zwischenzeit nicht selbst nochmal angepasst hat und schaffst etwaige Widersprüche (**Merge Conflicts**) aus der Welt.
-6. Nun aber genug der Vorbereitung… jetzt geht es ans Backen! Du rufst mir (**Build Tool**) zu und sagst, dass ich jetzt mit dem Backen loslegen kann (**Build Pipeline**). Ich sammle alle Zutaten und notwendigen Backutensilien (**Dependencies**) ein und mache mich ans Werk.
-7. Dank der hervorragenden Anleitung passieren keine Fehler (**Exceptions**) während des Backens und der Duft des fertigen Kuchens (**Kompilierter Code**) kommt aus dem Ofen.
-8. Ich nehme den Kuchen und stelle ihn auf den gedeckten Tisch (**Deployment**), damit wir zur Kaffeezeit alle in dessen Genuss kommen (**Release**) und stillen damit den Hunger (**Kundenproblem**).
-
-Wie hat dir unsere Back-Session gefallen? Hast du jetzt ein genaueres Bild davon, was Softwarentwicklende tagtäglich tun?
-
-> Hinweis: Mir geht es hier nicht um 100% Korrektheit, sondern darum, ein grobes Verständnis der Begrifflichkeiten zu vermitteln.
+> In (Klammern) stehen die Begriffe aus der Softwareentwicklung. Mir geht es in der Anekdote nicht um 100% Korrektheit, sondern darum, ein grobes Verständnis der Begrifflichkeiten zu vermitteln.
 {: .prompt-info }
+
+Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (Software) aufgeschrieben. Deine kleine Schwester hätte ihn nur gerne etwas abgewandelt. Kein Problem!
+
+### Vorbereitung (Planung)
+1. Auf der Notiz (**Ticket**), die deine kleine Schwester (**Stakeholder/Kundin**) geschrieben hat, steht, dass der Kern des Kuchens mit Smarties gefüllt sein soll (**Anforderung**). Du hälst kurz Rücksprache mit ihr, ob du alles richtig verstanden hast (**Anforderungsklärung)**.
+2. Jetzt ist etwas Gehirnschmalz gefordert. Du (**Softwareentwicklende**) überlegst dir, wie du das originale Rezept anpassen musst, damit der Kern aus Smarties bestehen kann (**Refinement**). Dabei musst du analysieren, welche Auswirkungen die Veränderung auf den restlichen Kuchen hat (**Impact**). Du wirst ja sicherlich nicht mehr so viel Mehl benötigen.
+3. Bevor du dich an die Arbeit machst, sprichst du noch mit 2 Freunden, wie viel Zeit man voraussichtlich für die Änderung des Kuchenrezepts benötigt (**Estimation**).
+4. Da deine Mutter die Chefin (**Product Owner**) in der Küche ist, schaut sie auf die anstehenden Arbeiten in der Küche (**Backlog)** und plant deine Back-Session ein (**Sprintplanung**).
+5. Du prüfst, ob in der Küche ein Mixer ist, der dir das Verrühren der Zutaten erleichtert (**Dependency**). Der Mixer ist zwar da, aber beim genauen Hinschauen fällt dir auf, dass das Stromkabel gebrochen ist und eine Sicherheitslücke (**Common Vulnerabilities and Exposures, CVE**) darstellt. 
+6. Das bisherige Modell des Mixers (**Version**) ist veraltet (**deprecated**) wird nicht mehr produziert (**Maintenance**). Du musst nun eine neuere Version (**Update**) kaufen. Jetzt gilt es zu überprüfen, ob der neue Mixer noch zur vorhandenen Rührschüssel und den restlichen Utensilien passt. Falls nicht, musst du wohl oder übel auch bei diesen noch Anpassungen vornehmen (**Migration**).
+
+### Rezept abarbeiten (Entwicklung)
+7. Du nimmst das Kochbuch (**Repository**) mit Omas Kuchenrezept (**Source Code**) und schnappst dir einen Stift (**Integrated Development Environment, IDE**).
+8. Damit du nicht einfach Omas Originalrezept (**Master Branch**) überschreibst, nimmst du dir lieber einen separaten Zettel (**Feature Branch**), wo du das geänderte Rezept vorrübergehend aufschreibst (**Implementierung**).
+9.  Du lässt lieber nochmal einen deiner Freunde (**4-Augen-Prinzip**) drüber schauen, ob alles soweit stimmig ist (**Review**).
+10. Nun rufst du Oma an und fragst, ob du das originale Rezept mit den Änderungen überschreiben darfst (**Merge Request**). Du sprichst das orignale Rezept nochmal mit Oma durch und stellst sicher, dass sie es in der Zwischenzeit nicht selbst nochmal angepasst hat (**Pull**) und schaffst etwaige Widersprüche (**Merge Conflicts**) aus der Welt.
+11. Da du Oma ohnehin schon am Hörer hast, lädst du sie für den Nachmittag zum Kuchen essen ein (**Release Planung**).
+
+### Backen (Kompilierung)
+12. Nun aber genug des Schreibens… jetzt geht es ans Backen! Du rufst mir (**Build Tool**) zu und sagst, dass ich jetzt mit dem Backen loslegen kann (**Build Pipeline**). Ich sammle alle Zutaten und notwendigen Backutensilien (**Dependencies**) ein und mache mich ans Werk.
+13. Als das Rezept schon halb durchlaufen ist, fällt mir auf, dass noch eine Zutat fehlt (**Blocker**). Du beauftragst deinen Vater (**Projektmanager**) schnell noch in den Supermarkt zu fahren und die fehlende Zutat einzukaufen (**Problemlösung**).
+14. Dank der hervorragenden Anleitung gibt es keine weiteren Komplikationen und Fehler (**Exceptions**) während des Backens bleiben aus.
+15. Du zeigst deiner Schwester das Zwischenergebnis (**Sprint Review**).
+16. Jetzt kommt der Duft des fertigen Kuchens (**Kompilierter Code**) aus dem Ofen.
+17. Bevor der Kuchen von der ganzen Familie (**User**) gegessen wird, lässt du deine kleine Schwester und großen Bruder (**Key User**) probieren (**Testphase**), ob der Schololadenkuchen mit Smarties auch wirklich so geworden ist, wie angefordert (**Customer Quality Assurance**).
+18. Ich nehme den Kuchen und packe (**Bereitstellung**) ihn erstmal in einem Kuchenbehälter (**Repository/Registry**). 
+19. Wenn die Zeit gekommen ist, stelle ich den Kuchen (**Deployment**) auf den gedeckten Tisch (**Infrastruktur/OnPremise/Cloud**), damit zur Kaffeezeit die ganze Familie in dessen Genuss kommen (**Release**) und ihren Kuchenhunger (**Kundenproblem**) stillen kann. Es regnet positives Feedback (**Kundenzufriedenheit**).
+20. Weil ich so stolz auf mein Werk bin, schreibe ich meinen Freunden, wie lecker der Kuchen geschmeckt hat und wie schön cremig er gewesen ist (**Dokumentation**). Ein voller Erfolg!
 
 ## Zusammenfassung und Fazit
 Ich habe dir in diesem Beitrag eine Anekdote erzählt, mit der du nächstes Mal interessierten Menschen aus deinem Bekanntenkreis erklären kannst, was Softwareentwicklung ist und wie sie abläuft. Prima, oder?
