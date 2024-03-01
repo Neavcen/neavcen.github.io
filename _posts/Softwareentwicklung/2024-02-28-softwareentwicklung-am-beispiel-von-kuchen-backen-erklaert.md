@@ -61,8 +61,9 @@ Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (Software)
 8. Damit du nicht einfach Omas Originalrezept (**Master Branch**) überschreibst, nimmst du dir lieber einen separaten Zettel (**Feature Branch**), wo du die Rezeptänderungen vornehmen kannst. 
 9. Du schreibst das geänderte Rezept auf (**Implementierung**).
 10. Wenn du denkst, dass du fertig bist, lässt lieber nochmal einen deiner Freunde (**4-Augen-Prinzip**) über die Änderungen schauen, ob alles soweit stimmig ist (**Review**).
-11. Nun rufst du Oma an und fragst, ob du das originale Rezept mit den Änderungen überschreiben darfst (**Merge Request**). Du sprichst das orignale Rezept nochmal mit Oma durch und stellst sicher, dass sie es in der Zwischenzeit nicht selbst nochmal angepasst hat (**Pull**) und schaffst etwaige Widersprüche (**Merge Conflicts**) aus der Welt.
-12. Da du Oma ohnehin schon am Hörer hast, lädst du sie für den Nachmittag zum Kuchen essen ein (**Release Planung**).
+11. Deine Tante schaut vorbei und prüft (**Codeanalyse**), ob du dich beim Rezept an die Vorgaben der Familie (**Unternhemensrichtlinien**) und nur Bio-Zutaten verwendet hast (**Implementierungsregeln**).
+12. Nun rufst du Oma an und fragst, ob du das originale Rezept mit den Änderungen überschreiben darfst (**Merge Request**). Du sprichst das orignale Rezept nochmal mit Oma durch und stellst sicher, dass sie es in der Zwischenzeit nicht selbst nochmal angepasst hat (**Pull**) und schaffst etwaige Widersprüche (**Merge Conflicts**) aus der Welt.
+13. Da du Oma ohnehin schon am Hörer hast, lädst du sie für den Nachmittag zum Kuchen essen ein (**Release Planung**).
 
 ### Backen (Kompilierung)
 12. Nun aber genug des Schreibens… jetzt geht es ans Backen! Du rufst mir (**Build Tool**) zu und sagst, dass ich jetzt mit dem Backen loslegen kann (**Build Pipeline**). Ich sammle alle Zutaten und notwendigen Backutensilien (**Dependencies**) ein und mache mich ans Werk.
