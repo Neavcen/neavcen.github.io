@@ -46,12 +46,12 @@ Also lass' uns Kuchen backen!
 > In (Klammern) stehen die Begriffe aus der Softwareentwicklung. Mir geht es in der Anekdote nicht um 100% Korrektheit, sondern darum, ein grobes Verständnis der Begrifflichkeiten zu vermitteln.
 {: .prompt-info }
 
-Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (Software) aufgeschrieben. Deine kleine Schwester hätte ihn nur gerne etwas abgewandelt. Kein Problem!
+Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (**Software**) aufgeschrieben. Deine kleine Schwester (**Stakeholder/Kundin**) hätte ihn nur gerne etwas abgewandelt (**Customizing**). Kein Problem!
 
 ### Vorbereitung (Planung)
-1. Auf der Notiz (**Ticket**), die deine kleine Schwester (**Stakeholder/Kundin**) geschrieben hat, steht, dass der Kern des Kuchens mit Smarties gefüllt sein soll (**Feature/Anforderung**). Du hälst kurz Rücksprache mit ihr, ob du alles richtig verstanden hast (**Anforderungsklärung)**.
-2. Jetzt ist etwas Gehirnschmalz gefordert. Du (**Softwareentwicklende**) überlegst dir, wie du das originale Rezept anpassen musst, damit der Kern aus Smarties bestehen kann (**Refinement**). Dabei musst du analysieren, welche Auswirkungen die Veränderung auf den restlichen Kuchen hat (**Impact**). Du wirst ja sicherlich nicht mehr so viel Mehl benötigen.
-3. Bevor du dich an die Arbeit machst, sprichst du noch mit 2 Freunden, wie viel Zeit man voraussichtlich für die Änderung des Kuchenrezepts benötigt (**Estimation**).
+1. Auf der Notiz (**Ticket**), die deine kleine Schwester geschrieben hat, steht, dass der Kern des Kuchens mit Smarties gefüllt sein soll (**Feature/Anforderung**). Du hälst kurz Rücksprache mit ihr, ob du alles richtig verstanden hast (**Anforderungsklärung)**.
+2. Jetzt ist etwas Gehirnschmalz gefordert. Du (**Softwareentwickler:in**) überlegst dir, wie du das originale Rezept anpassen musst, damit der Kern aus Smarties bestehen kann (**Refinement**). Dabei musst du analysieren, welche Auswirkungen die Veränderung auf den restlichen Kuchen hat (**Impact**). Du wirst ja sicherlich nicht mehr so viel Mehl benötigen.
+3. Bevor du dich an die Arbeit machst, sprichst du noch mit 2 Freund:innen (**Entwickler:innen**), wie viel Zeit man voraussichtlich für die Änderung des Kuchenrezepts benötigt (**Estimation**).
 4. Da deine Mutter die Chefin (**Product Owner**) in der Küche ist, schaut sie auf die anstehenden Arbeiten in der Küche (**Backlog)** und plant deine Back-Session ein (**Sprintplanung**).
 5. Du prüfst, ob in der Küche ein Mixer ist, der dir das Verrühren der Zutaten erleichtert (**Dependency**). Der Mixer ist zwar da, aber beim genauen Hinschauen fällt dir auf, dass das Stromkabel gebrochen ist und eine Sicherheitslücke (**Common Vulnerabilities and Exposures, CVE**) beinhaltet. 
 6. Das bisherige Modell des Mixers (**Version**) ist veraltet (**deprecated**) und wird nicht mehr produziert (**Maintenance**). Du musst nun eine neuere Version (**Update**) kaufen. Jetzt gilt es zu überprüfen, ob der neue Mixer noch zur vorhandenen Rührschüssel und den restlichen Utensilien passt (**Kompatibilität**). Falls nicht, musst du wohl oder übel auch bei diesen noch Anpassungen vornehmen (**Migration**).
@@ -61,7 +61,7 @@ Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (Software)
 8. Damit du nicht einfach Omas Originalrezept (**Master Branch**) überschreibst, nimmst du dir lieber einen separaten Zettel (**Feature Branch**), wo du die Rezeptänderungen vornehmen kannst. 
 9. Du schreibst das geänderte Rezept auf (**Implementierung**).
 10. Wenn du denkst, dass du fertig bist, lässt lieber nochmal einen deiner Freunde (**4-Augen-Prinzip**) über die Änderungen schauen, ob alles soweit stimmig ist (**Review**).
-11. Deine Tante schaut vorbei und prüft (**Codeanalyse**), ob du dich beim Rezept an die Vorgaben der Familie (**Unternhemensrichtlinien**) und nur Bio-Zutaten verwendet hast (**Implementierungsregeln**).
+11. Deine Tante schaut vorbei und prüft (**Codeanalyse**), ob du dich beim Rezept an die Vorgaben der Familie (**Unternehmensrichtlinien**) und nur Bio-Zutaten verwendet hast (**Code Conventions**).
 12. Nun rufst du Oma an und fragst, ob du das originale Rezept mit den Änderungen überschreiben darfst (**Merge Request**). Du sprichst das orignale Rezept nochmal mit Oma durch und stellst sicher, dass sie es in der Zwischenzeit nicht selbst nochmal angepasst hat (**Pull**) und schaffst etwaige Widersprüche (**Merge Conflicts**) aus der Welt.
 13. Da du Oma ohnehin schon am Hörer hast, lädst du sie für den Nachmittag zum Kuchen essen ein (**Release Planung**).
 
@@ -80,6 +80,8 @@ Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (Software)
 
 ## Zusammenfassung und Fazit
 Ich habe dir in diesem Beitrag eine Anekdote erzählt, mit der du nächstes Mal interessierten Menschen aus deinem Bekanntenkreis erklären kannst, was Softwareentwicklung ist und wie sie abläuft. Prima, oder?
+
+Ehrlicherweise muss ich sagen, dass man in der Softwareentwicklung oft mehrere Schleifen drehen muss, bis die Anpassungen die gewünschte Qualität haben. Zum Glück muss man aber nicht komplett von vorne anfangen, wie es bei einem Kuchen wahrscheinlich der Fall wäre.
 
 Hier noch eine Zusammenfassung der genannten Begriffe inkl. Erklärung und Kuchen-Parabel (kein Anspruch auf Vollständigkeit):
 
