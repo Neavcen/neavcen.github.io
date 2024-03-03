@@ -76,7 +76,7 @@ Du hast zum Glück das Rezept für Omas legendären Schokoladenkuchen (**Softwar
 17. Bevor der Kuchen von der ganzen Familie (**User**) gegessen wird, lässt du deine kleine Schwester und deinen großen Bruder (**Key User**) probieren (**Testphase**), ob der Schokoladenkuchen mit Smarties auch wirklich so geworden ist, wie angefordert (**Customer Quality Assurance**) oder irreguläre Abweichungen (**Bugs**) beinhaltet.
 18. Ich nehme den Kuchen und packe ihn (**Bereitstellung**) erstmal in einem Kuchenbehälter (**Repository/Registry**). 
 19. Wenn die Zeit gekommen ist, stelle ich den Kuchen (**Deployment**) auf den gedeckten Tisch (**Infrastruktur/OnPremise/Cloud**), damit zur Kaffeezeit die ganze Familie in dessen Genuss kommen (**Release**) und ihren Kuchenhunger (**Kundenproblem**) stillen kann. Es regnet positives Feedback (**Kundenzufriedenheit**).
-20. Weil ich so stolz auf mein Werk bin, schreibe ich meinen Freunden, wie lecker der Kuchen geschmeckt hat und wie schön cremig er gewesen ist (**Dokumentation**). Ein voller Erfolg!
+20. Mama zieht ein Fazit und schaut sich an, ob ich mit der initial geschätzten Zeit hingekommen bin (**Sprint Analyse**). Weil ich so stolz auf mein Werk bin, schreibe ich meinen Freund:innen, wie lecker der Kuchen geschmeckt hat und wie schön cremig er gewesen ist (**Dokumentation**). Ein voller Erfolg!
 
 ## Zusammenfassung und Fazit
 Ich habe dir in diesem Beitrag eine Anekdote erzählt, mit der du nächstes Mal interessierten Menschen aus deinem Bekanntenkreis erklären kannst, was Softwareentwicklung ist und wie sie abläuft. Prima, oder?
@@ -86,7 +86,7 @@ Ehrlicherweise muss ich sagen, dass man in der Softwareentwicklung oft mehrere S
 Hier noch eine Zusammenfassung der genannten Begriffe inkl. Erklärung und Kuchen-Parabel (kein Anspruch auf Vollständigkeit):
 
 ![Wenn Softwareentwicklung Kuchen backen wäre](/assets/softwareentwicklung/2024-02-28%20Wenn%20SWE%20Kuchen%20backen%20waere.png){: w="500" } 
-_Zusammenfassung der Begriffe aus der Softwareentwicklungs inkl. Erklärung und Kuchen-Parabel_
+_Zusammenfassung der Begriffe aus der Softwareentwicklung inkl. Erklärung und Kuchen-Parabel_
 
 ## Quellen
 
