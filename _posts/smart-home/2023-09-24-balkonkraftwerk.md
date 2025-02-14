@@ -346,6 +346,7 @@ Falls du die Option hast ein Balkonkraftwerk zu betreiben, kann ich dir dies wä
 2. ![Website](/assets/img/book_888888.png){: w="14" } [VDE: VDE schlägt einfachere Regeln für Balkonkraftwerke vor (Stand: 11.01.2023)](https://www.vde.com/de/presse/pressemitteilungen/2023-01-11-mini-pv)
 3. ![Website](/assets/img/book_888888.png){: w="14" } [Enercity: Was ist elektrische Spannung und Stromstärke? (abgerufen am: 07.09.2023)](https://www.enercity.de/magazin/unsere-welt/stromspannung-stromstaerke-leistung-unterschied#)
 4.  ![Website](/assets/img/book_888888.png){: w="14" } [Simpleclup: Reihen- & Parallelschaltung (abgerufen am: 07.09.2023)](https://simpleclub.com/lessons/physik-reihen-parallelschaltung)
+5.  ![Website](/assets/img/book_888888.png){: w="14" } [Dr. David von Oheimb: Mini-Solaranlagen für daheim und unterwegs (abgerufen am: 25.03.2024)](https://ddvo.github.io/Solar/)
 
 **PV-Modul:**
 1. ![Website](/assets/img/book_888888.png){: w="14" } [Energie-Experten: Einflussfaktoren auf die Leistung von Solarmodulen (abgerufen am: 05.09.2023)](https://www.energie-experten.org/erneuerbare-energien/photovoltaik/solarmodule/leistung)

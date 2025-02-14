@@ -33,3 +33,7 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 # GitHub-flavored Emoji plugin for Jekyll
 # List of emojis: https://gist.github.com/rxaviers/7360908
 gem 'jemoji'
+
+gem 'logger'
+
+gem 'csv'
