@@ -5,7 +5,7 @@ order: 4
 ---
 
 Moin!
-Ich bin Johannes aus Bremen.
+Ich bin Johannes, Mitte 30, Familienvater und lebe in einem Vorort von Lüneburg.
 
 ![Portrait von Johannes](../assets/img/portrait-schwalbach.jpg)
 _Portrait entstanden in Lüneburg_
