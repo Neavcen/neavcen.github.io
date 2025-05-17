@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projekte mittels Project Canvas übersichtlich darstellen
-description: 
+description: Das Project Canvas bietet eine übersichtliche und visuell ansprechende Möglichkeit dein Projekt zu dokumentieren und vorzustellen. Ich habe es auf meine Bedürfnisse angepasst und möchte dir meine Version vorstellen.
 image:
   path: "/assets/projektmanagement/project_canvas_deutsch.jpg"
   alt: "Project Canvas, Version 3.0 - Quelle: Wikipedia"
@@ -12,7 +12,7 @@ tags:
 - Projektüberblick
 - Projektvorstellung
 - Rahmenbedingungen
-date: 2025-05-17 21:22 +0100
+date: 2025-05-16 22:22 +0100
 ---
 ## Einleitung
 Die Vorstellung des eigenen Projekts gehört zu den wiederkehrenden Aufgaben im Projektmanagement. Dies kann der Fall sein, um neue Kolleg:innen in ein Projekt einzuarbeiten, ein gemeinsames Verständnis (mit dem Management) zu schaffen oder Übergaben einzuleiten. Wie so oft ist es sinnvoll, dass die Vorstellung struktuiert erfolgt und einem roten Faden folgt. Da man als Projektleitung sein Projekt in der Regel gut kennt, kann man einfach darauf losreden oder man macht sich vorhandene Methoden zu Nutze. Ich möchte in diesem Beitrag auf das Project Canvas eingehen.
@@ -20,7 +20,7 @@ Die Vorstellung des eigenen Projekts gehört zu den wiederkehrenden Aufgaben im 
 ## Motivation
 In meiner Projektmanagement-Tätigkeit bei der encoway GmbH habe ich mittlerweile etliche Projekte initiiert, übergeben bekommen, abgegeben oder intern, z.B. dem Vertrieb oder anderen Projektmanager:innen, vorgestellt. Ich bin ein Verfechter von Übersichten und ansprechenden Visualisierungen. Da ein ehemaliger Vorgesetzter von mir ein Fan des [Project Canvas](https://de.wikipedia.org/wiki/Project_Canvas) war, habe ich mich dieser Methode bei encoway für meine Projektvorstellungen bedient. Im Laufe der Zeit habe ich gemerkt, dass für uns im Dienstleistungsgeschäft nur Teile dessen relevant sind und ich andere Aspekte vermisst habe. Also habe ich angefangen ein angepasstes Project Canvas für unsere Bedürfnisse zu entwickeln.
 
-## Project Canvas
+## Klassisches Project Canvas
 Wenn du dir unter dem Begriff "Project Canvas" nichts vorstellen kannst, möchte ich dir hier eine kurze Einführung geben.
 
 >Ein **Project Canvas** ist ein visuelles Instrument des Projektmanagements. Es hilft beim Design neuer bzw. beim Re-Design bestehender Projekte. Das Instrument ist besonders nützlich für interdisziplinäre Gruppen, die vor oder während eines Projekts ein gemeinsames Verständnis erlangen wollen. Es hilft dabei, schnell einen Überblick über die Eckdaten und Rahmenbedingungen des Projekts zu erhalten.
@@ -32,7 +32,7 @@ In der nachfolgenden Grafik siehst du das klassische Project Canvas. Es umfasst 
 ![Klassisches Project Canvas](/assets/projektmanagement/project_canvas_deutsch.jpg){: w="600" }
 _Project Canvas, Version 3.0 (Quelle: Wikipedia.de)_
 
-## Das angepasste Project Canvas
+## Angepasstes Project Canvas
 Wie bereits in der Einleitung erwähnt, habe ich mit dem klassischen Project Canvas gestartet. Ich bin ein großer Freund von erstmal starten und anschließend iterativ verbessern. So habe ich im Laufe der Zeit Stück für Stück Änderungen am Project Canvas vorgenommen und es auf meine individuellen Bedürfnisse zugeschnitten.
 
 Die High-Level Dokumentation der Projekte bei encoway erfolgt in Confluence. Ich habe eine Vorlage erstellt und im Unternehmen ausgerollt, sodass alle Projektmanager:innen davon profitieren können und unsere Projekte anhand des zugeschnittenen Project Canvas einheitlich dokumentiert und vorgestellt werden können.
