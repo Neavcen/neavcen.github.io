@@ -12,7 +12,7 @@ tags:
 - Projektüberblick
 - Projektvorstellung
 - Rahmenbedingungen
-date: 2025-05-17 22:22 +0100
+date: 2025-05-17 21:22 +0100
 ---
 ## Einleitung
 Die Vorstellung des eigenen Projekts gehört zu den wiederkehrenden Aufgaben im Projektmanagement. Dies kann der Fall sein, um neue Kolleg:innen in ein Projekt einzuarbeiten, ein gemeinsames Verständnis (mit dem Management) zu schaffen oder Übergaben einzuleiten. Wie so oft ist es sinnvoll, dass die Vorstellung struktuiert erfolgt und einem roten Faden folgt. Da man als Projektleitung sein Projekt in der Regel gut kennt, kann man einfach darauf losreden oder man macht sich vorhandene Methoden zu Nutze. Ich möchte in diesem Beitrag auf das Project Canvas eingehen.
