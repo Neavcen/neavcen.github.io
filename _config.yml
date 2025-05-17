@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Johannes' Blog # the main title
 
-tagline: Ich schreibe über Themen, die mich persönlich und im Berufsalltag bewegen. Cheers! # it will display as the sub-title
+tagline: Ich schreibe über Themen, die mich persönlich und im Berufsalltag bewegen. Cheers. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Technologien • Prozesse • Tools • Essen | Ich nutze meine Website, um ein paar der Themen zu sortieren und präsentieren, die mich privat und beruflich beschäftigen.
