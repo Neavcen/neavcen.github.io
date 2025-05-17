@@ -1,0 +1,14 @@
+= Dokumentation mit AsciiDoc
+// author <email>
+Johannes Schwalbach <johannes.schwalbach@gmail.com>
+// revision number, revision date: revision remark
+1.0, 19.4.2025: Test zu Ostern
+// description
+:description: A story chronicling the inexplicable hazards and unique challenges a team must vanquish on their journey to finding an open source project's true power.
+:toc:
+
+== Chapter 1
+
+== Chater 2
+
+=== Chapter 2.1

@@ -59,7 +59,7 @@ Jetzt mal zu den Tools zur Aufgabenverwaltung, die ich bereits ausprobiert habe:
 - [Microsoft OneNote](https://www.onenote.com/?public=1&omkt=de-DE)
 - [Notion](https://www.notion.com/de)
 
-Bis auf Jira haben alle Tools die Gemeinsamkeit, dass ich sie zusätzlich zu [meinen bestehenden Tools im Projektmanagement]({% post_url projektmanagement/2023-06-04-meine-toolchain-fuer-das-projektmanagement %})() einsetzen musste. Ich probiere zwar gerne neue Tools aus, aber im Arbeitsalltag möchte ich es am liebsten so einfach und aufgeräumt wie möglich haben.
+Bis auf Jira haben alle Tools die Gemeinsamkeit, dass ich sie zusätzlich zu [meinen bestehenden Tools im Projektmanagement]({% post_url projektmanagement/2023-06-04-meine-toolchain-fuer-das-projektmanagement %}) einsetzen musste. Ich probiere zwar gerne neue Tools aus, aber im Arbeitsalltag möchte ich es am liebsten so einfach und aufgeräumt wie möglich haben.
 
 Das Resultat aus der Nutzung eines separaten Tools für die Aufgabenverwaltung war, dass ich gerade in stressigen Zeiten die Aufgaben nicht aktuell gehalten habe und die Aufgabenliste sehr schnell überholt war. Dies führte nach einer gewissen Zeit immer dazu, dass ich das Tool letztlich wieder verworfen habe.
 
