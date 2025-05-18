@@ -3,7 +3,7 @@ layout: post
 title: Projekte mittels Project Canvas übersichtlich darstellen
 description: Das Project Canvas bietet eine übersichtliche und visuell ansprechende Möglichkeit dein Projekt zu dokumentieren und vorzustellen. Ich habe es auf meine Bedürfnisse angepasst und möchte dir meine Version vorstellen.
 image:
-  path: "/assets/projektmanagement/project_canvas_deutsch.jpg"
+  path: "/assets/projektmanagement/project_canvas_cover.jpg"
   alt: "Project Canvas, Version 3.0 - Quelle: Wikipedia"
 categories:
 - Projektmanagement
@@ -12,7 +12,7 @@ tags:
 - Projektüberblick
 - Projektvorstellung
 - Rahmenbedingungen
-date: 2025-05-16 22:22 +0100
+date: 2025-05-18 21:54 +0100
 ---
 ## Einleitung
 Die Vorstellung des eigenen Projekts gehört zu den wiederkehrenden Aufgaben im Projektmanagement. Dies kann der Fall sein, um neue Kolleg:innen in ein Projekt einzuarbeiten, ein gemeinsames Verständnis (mit dem Management) zu schaffen oder Übergaben einzuleiten. Wie so oft ist es sinnvoll, dass die Vorstellung struktuiert erfolgt und einem roten Faden folgt. Da man als Projektleitung sein Projekt in der Regel gut kennt, kann man einfach darauf losreden oder man macht sich vorhandene Methoden zu Nutze. Ich möchte in diesem Beitrag auf das Project Canvas eingehen.
