@@ -4,7 +4,7 @@ title: Projekte mittels Project Canvas übersichtlich darstellen
 description: Das Project Canvas bietet eine übersichtliche und visuell ansprechende Möglichkeit dein Projekt zu dokumentieren und vorzustellen. Ich habe es auf meine Bedürfnisse angepasst und möchte dir meine Version vorstellen.
 image:
   path: "/assets/projektmanagement/project_canvas_cover.jpg"
-  alt: "Project Canvas, Version 3.0 - Quelle: Wikipedia"
+  alt: "Titelbild generiert mit KI"
 categories:
 - Projektmanagement
 tags:
